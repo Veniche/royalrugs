@@ -8,6 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/reviews-mobile.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
@@ -168,7 +169,7 @@
             </div>
         </section>
         
-        <!-- 3-Column Reviews Section -->
+        <!-- Desktop Reviews Section (3 columns) -->
         <section class="reviews-3col-section">
             <div class="container">
                 <div class="section-header">
@@ -181,8 +182,29 @@
                         <!-- Reviews will be loaded here by JavaScript -->
                     </div>
                 </div>
+            </div>
+        </section>
+        
+        <!-- Mobile Reviews Section (Swipeable) -->
+        <section class="reviews-mobile-section">
+            <div class="container">
+                <div class="section-header">
+                    <h2>What Our Customers Say</h2>
+                    <p>Don't just take our word for it - hear from our satisfied customers</p>
+                </div>
                 
-
+                <div class="reviews-mobile-container">
+                    <div class="reviews-mobile-track" role="region" aria-live="polite" tabindex="0">
+                        <div class="reviews-mobile-slides">
+                            <!-- Reviews will be loaded here by JavaScript -->
+                        </div>
+                    </div>
+                    
+                    <!-- Navigation Arrows -->
+                    <div class="reviews-mobile-nav">
+                        <!-- Arrows will be added by JavaScript -->
+                    </div>
+                </div>
             </div>
         </section>
     </main>
@@ -217,8 +239,15 @@
         </div>
     </footer>
     
-    <script src="js/script.js"></script>
+    <!-- Reviews Data -->
     <script src="data/reviews-data.js"></script>
+    
+    <!-- Main Scripts -->
+    <script src="js/script.js"></script>
+    
+    <!-- Reviews Sections -->
+    <script src="js/reviews-3col.js"></script>
+    <script src="js/reviews-mobile.js"></script>
 
     <!-- Overlay for mobile menu -->
     <div class="overlay"></div>
