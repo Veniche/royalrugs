@@ -96,7 +96,8 @@
 
 /* Language Switcher */
 .language-switcher {
-    display: flex;
+    /* display: flex; */
+    display: none;
     align-items: center;
     margin-right: 15px;
 }

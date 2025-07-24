@@ -92,12 +92,26 @@
 .contact-social .social-links {
     display: flex;
     flex-direction: column;
-    align-items: normal;
+    align-items: flex-start;
     gap: 12px;
     margin-top: 10px;
     margin-left: 80px; /* Align with contact details text */
     padding-left: 0;
     width: calc(100% - 80px);
+}
+
+.contact-social .social-link {
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    text-decoration: none;
+    color: inherit;
+}
+
+.contact-social .social-link i {
+    min-width: 20px;
+    margin-right: 10px;
+    text-align: center;
 }
 
 .contact-social .social-link {
