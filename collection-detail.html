@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Catalogues - Royal Rugs Indonesia</title>
+    <title>Collection - Royal Rugs Indonesia</title>
     <link rel="icon" type="image/x-icon" href="assets/icons/rr_logo.svg">
     <link rel="apple-touch-icon" href="assets/icons/rr_logo.svg">
     <meta name="theme-color" content="#ffffff">
@@ -11,7 +11,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/styles.css">
-    <link rel="stylesheet" href="css/catalogues.css">
+    <link rel="stylesheet" href="css/collection-detail.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
@@ -25,7 +25,7 @@
                     </a>
                     <nav>
                         <ul class="main-nav">
-                            <li><a href="catalogues.html" class="active">Catalogues</a></li>
+                            <li><a href="catalogues.html">Catalogues</a></li>
                             <li><a href="about.html">About Us</a></li>
                             <li><a href="contact.html">Contact Us</a></li>
                         </ul>
@@ -47,43 +47,71 @@
     </header>
 
     <main>
-        <!-- Hero Section -->
-        <section class="page-hero">
+        <!-- Collection Hero -->
+        <section class="collection-hero">
             <div class="container">
-                <h1>Koleksi Karpet Kami</h1>
-                <p>Jelajahi berbagai koleksi karpet berkualitas tinggi dari Royal Rugs</p>
+                <h1 id="collectionTitle">Loading Collection...</h1>
+                <p id="collectionDescription">Discover our premium selection of rugs</p>
             </div>
         </section>
 
-        <!-- Catalogues Grid -->
-        <section class="catalogues-section">
+        <!-- Categories Navigation -->
+        <nav class="categories-nav" id="categoriesNav">
             <div class="container">
-                <div class="section-header">
-                    <h2>Pilihan Koleksi</h2>
-                    <p>Temukan koleksi karpet yang sesuai dengan gaya dan kebutuhan Anda</p>
-                </div>
-                <div class="catalogues-grid" id="cataloguesContainer">
-                    <!-- Catalogues will be dynamically inserted here by JavaScript -->
-                </div>
+                <ul class="categories-list" id="categoriesList">
+                    <!-- Categories will be populated by JavaScript -->
+                </ul>
             </div>
-        </section>
+        </nav>
 
-        <!-- Banner Section -->
-        <section class="banner-section">
+        <!-- Products Grid -->
+        <section class="products-section">
             <div class="container">
-                <div class="banner-content">
-                    <h2>Custom Kebutuhan Karpet Anda</h2>
-                    <p>Butuh ukuran atau desain khusus? Tim kami siap membantu mewujudkannya</p>
-                    <a href="contact.html" class="cta-button">
-                        <span>Konsultasi Sekarang</span>
-                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M5 12H19M19 12L12 5M19 12L12 19" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                        </svg>
-                    </a>
+                <div id="productsGrid">
+                    <!-- Products will be populated by JavaScript -->
                 </div>
             </div>
         </section>
     </main>
+
+    <!-- Product Modal -->
+    <div class="modal" id="productModal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <div class="modal-body">
+                <div class="modal-image-container">
+                    <img id="modalProductImage" src="" alt="Product Image">
+                </div>
+                <div class="modal-details">
+                    <h2 id="modalProductTitle"></h2>
+                    <p id="modalProductDescription"></p>
+                    
+                    <div class="size-selector">
+                        <label for="sizeSelect">Select Size:</label>
+                        <select id="sizeSelect">
+                            <!-- Sizes will be populated by JavaScript -->
+                        </select>
+                    </div>
+                    
+                    <div class="price-container">
+                        <span class="price" id="modalProductPrice"></span>
+                    </div>
+                    
+                    <div class="action-buttons">
+                        <a href="#" id="shopeeBtn" class="action-btn shopee" target="_blank">
+                            <i class="fab fa-shopify"></i> Shopee
+                        </a>
+                        <a href="#" id="tokopediaBtn" class="action-btn tokopedia" target="_blank">
+                            <i class="fas fa-store"></i> Tokopedia
+                        </a>
+                        <a href="#" id="tiktokBtn" class="action-btn tiktok" target="_blank">
+                            <i class="fab fa-tiktok"></i> TikTok Shop
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <footer>
         <div class="container">
@@ -116,51 +144,17 @@
         </div>
     </footer>
 
-    <!-- Catalog Data -->
+    <!-- Collection Data -->
     <script src="data/catalog-data.js"></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            const container = document.getElementById('cataloguesContainer');
-            
-            // Create catalogue cards
-            catalogData.forEach(catalogue => {
-                const card = document.createElement('div');
-                card.className = 'catalogue-card';
-                
-                card.innerHTML = `
-                    <div class="card-inner">
-                        <div class="card-front">
-                            <div class="card-image">
-                                <img src="${catalogue.image}" alt="${catalogue.title}" loading="lazy">
-                            </div>
-                            <div class="card-content">
-                                <h3>${catalogue.title}</h3>
-                                <div class="card-overlay"></div>
-                            </div>
-                        </div>
-                        <div class="card-back">
-                            <div class="card-back-content">
-                                <h3>${catalogue.title}</h3>
-                                <p>${catalogue.description}</p>
-                                <a href="collection-detail.html?id=${catalogue.slug}" class="btn btn-primary">${catalogue.buttonText}</a>
-                            </div>
-                        </div>
-                    </div>
-                `;
-                container.appendChild(card);
-            });
-
-            // Add click event for mobile to flip cards
-            const cards = document.querySelectorAll('.catalogue-card');
-            cards.forEach(card => {
-                card.addEventListener('click', function() {
-                    if (window.innerWidth <= 768) {
-                        this.classList.toggle('flipped');
-                    }
-                });
-            });
-        });
-    </script>
+    <script src="data/spring-collection-data.js"></script>
+    <script src="data/autumn-collection-data.js"></script>
+    <script src="data/winter-collection-data.js"></script>
+    <script src="data/shaggy-collection-data.js"></script>
+    <script src="data/sajadah-collection-data.js"></script>
+    <script src="data/others-collection-data.js"></script>
+    
+    <!-- Main Scripts -->
+    <script src="js/collection-detail.js"></script>
     <script src="js/script.js"></script>
 </body>
 </html>
