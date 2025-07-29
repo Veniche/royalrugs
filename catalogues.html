@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Collections - Royal Rugs Indonesia</title>
+    <title>Catalogues - Royal Rugs Indonesia</title>
     <link rel="icon" type="image/x-icon" href="assets/icons/rr_logo.svg">
     <link rel="apple-touch-icon" href="assets/icons/rr_logo.svg">
     <meta name="theme-color" content="#ffffff">
@@ -11,7 +11,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/styles.css">
-    <link rel="stylesheet" href="css/collections.css">
+    <link rel="stylesheet" href="css/catalogues.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
@@ -26,7 +26,7 @@
                     <nav>
                         <ul class="main-nav">
                             <li><a href="index.html">Home</a></li>
-                            <li><a href="collections.html" class="active">Collections</a></li>
+                            <li><a href="catalogues.html" class="active">Catalogues</a></li>
                             <li><a href="about.html">About Us</a></li>
                             <li><a href="contact.html">Contact Us</a></li>
                         </ul>
@@ -56,15 +56,15 @@
             </div>
         </section>
 
-        <!-- Collections Grid -->
-        <section class="collections-section">
+        <!-- Catalogues Grid -->
+        <section class="catalogues-section">
             <div class="container">
                 <div class="section-header">
                     <h2>Pilihan Koleksi</h2>
                     <p>Temukan koleksi karpet yang sesuai dengan gaya dan kebutuhan Anda</p>
                 </div>
-                <div class="collections-grid" id="collectionsContainer">
-                    <!-- Collections will be dynamically inserted here by JavaScript -->
+                <div class="catalogues-grid" id="cataloguesContainer">
+                    <!-- Catalogues will be dynamically inserted here by JavaScript -->
                 </div>
             </div>
         </section>
@@ -99,7 +99,7 @@
                 <div class="footer-section">
                     <h3>Quick Links</h3>
                     <ul>
-                        <li><a href="collections.html">Collections</a></li>
+                        <li><a href="catalogues.html">Catalogues</a></li>
                         <li><a href="about.html">About Us</a></li>
                         <li><a href="contact.html">Contact Us</a></li>
                     </ul>
@@ -121,28 +121,28 @@
     <script src="data/catalog-data.js"></script>
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            const container = document.getElementById('collectionsContainer');
+            const container = document.getElementById('cataloguesContainer');
             
-            // Create collection cards
-            catalogData.forEach(collection => {
+            // Create catalogue cards
+            catalogData.forEach(catalogue => {
                 const card = document.createElement('div');
-                card.className = 'collection-card';
+                card.className = 'catalogue-card';
                 card.innerHTML = `
                     <div class="card-inner">
                         <div class="card-front">
                             <div class="card-image">
-                                <img src="${collection.image}" alt="${collection.title}" loading="lazy">
+                                <img src="${catalogue.image}" alt="${catalogue.title}" loading="lazy">
                             </div>
                             <div class="card-content">
-                                <h3>${collection.title}</h3>
+                                <h3>${catalogue.title}</h3>
                                 <div class="card-overlay"></div>
                             </div>
                         </div>
                         <div class="card-back">
                             <div class="card-back-content">
-                                <h3>${collection.title}</h3>
-                                <p>${collection.description}</p>
-                                <a href="#" class="btn btn-primary">${collection.buttonText}</a>
+                                <h3>${catalogue.title}</h3>
+                                <p>${catalogue.description}</p>
+                                <a href="#" class="btn btn-primary">${catalogue.buttonText}</a>
                             </div>
                         </div>
                     </div>
@@ -151,7 +151,7 @@
             });
 
             // Add click event for mobile to flip cards
-            const cards = document.querySelectorAll('.collection-card');
+            const cards = document.querySelectorAll('.catalogue-card');
             cards.forEach(card => {
                 card.addEventListener('click', function() {
                     if (window.innerWidth <= 768) {
