@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Collections - Royal Rugs Indonesia</title>
+    <link rel="icon" type="image/x-icon" href="assets/icons/rr_logo.svg">
+    <link rel="apple-touch-icon" href="assets/icons/rr_logo.svg">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/collections.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <div class="nav-left">
+                    <a href="/" class="logo">
+                        <img src="assets/icons/rr_logo.svg" alt="Royal Rugs Logo" class="logo-img">
+                        <span>ROYAL RUGS</span>
+                    </a>
+                    <nav>
+                        <ul class="main-nav">
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="collections.html" class="active">Collections</a></li>
+                            <li><a href="about.html">About Us</a></li>
+                            <li><a href="contact.html">Contact Us</a></li>
+                        </ul>
+                    </nav>
+                </div>
+
+                <div class="social-links">
+                    <a href="#" class="social-link" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                    <a href="#" class="social-link" aria-label="TikTok"><i class="fab fa-tiktok"></i></a>
+                    <a href="#" class="social-link shopee-icon" aria-label="Shopee">
+                        <i class="fas fa-shopping-bag"></i>
+                    </a>
+                    <button class="menu-toggle" aria-label="Menu">
+                        <i class="fas fa-bars"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <!-- Hero Section -->
+        <section class="page-hero">
+            <div class="container">
+                <h1>Koleksi Karpet Kami</h1>
+                <p>Jelajahi berbagai koleksi karpet berkualitas tinggi dari Royal Rugs</p>
+            </div>
+        </section>
+
+        <!-- Collections Grid -->
+        <section class="collections-section">
+            <div class="container">
+                <div class="section-header">
+                    <h2>Pilihan Koleksi</h2>
+                    <p>Temukan koleksi karpet yang sesuai dengan gaya dan kebutuhan Anda</p>
+                </div>
+                <div class="collections-grid" id="collectionsContainer">
+                    <!-- Collections will be dynamically inserted here by JavaScript -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Banner Section -->
+        <section class="banner-section">
+            <div class="container">
+                <div class="banner-content">
+                    <h2>Custom Kebutuhan Karpet Anda</h2>
+                    <p>Butuh ukuran atau desain khusus? Tim kami siap membantu mewujudkannya</p>
+                    <a href="contact.html" class="cta-button">Konsultasi Sekarang</a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <a href="/" class="footer-logo">
+                        <img src="assets/icons/rr_logo.svg" alt="Royal Rugs Logo" class="logo-img">
+                        <h3>Royal Rugs</h3>
+                    </a>
+                    <p>Termurah, Terbagus, Trusted</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Quick Links</h3>
+                    <ul>
+                        <li><a href="collections.html">Collections</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="contact.html">Contact Us</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h3>Contact Us</h3>
+                    <p>Email: royalrugs.rr@gmail.com</p>
+                    <p>Phone: +62 82190006260</p>
+                    <p>Address: Jl. RS. Fatmawati Raya No.72, RT.3/RW.1, Gandaria Utara, Kec. Kby. Baru, Kota Jakarta Selatan 12140</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Royal Rugs. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Catalog Data -->
+    <script src="data/catalog-data.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const container = document.getElementById('collectionsContainer');
+            
+            // Create collection cards
+            catalogData.forEach(collection => {
+                const card = document.createElement('div');
+                card.className = 'collection-card';
+                card.innerHTML = `
+                    <div class="card-inner">
+                        <div class="card-front">
+                            <div class="card-image">
+                                <img src="${collection.image}" alt="${collection.title}" loading="lazy">
+                            </div>
+                            <div class="card-content">
+                                <h3>${collection.title}</h3>
+                                <div class="card-overlay"></div>
+                            </div>
+                        </div>
+                        <div class="card-back">
+                            <div class="card-back-content">
+                                <h3>${collection.title}</h3>
+                                <p>${collection.description}</p>
+                                <a href="#" class="btn btn-primary">${collection.buttonText}</a>
+                            </div>
+                        </div>
+                    </div>
+                `;
+                container.appendChild(card);
+            });
+
+            // Add click event for mobile to flip cards
+            const cards = document.querySelectorAll('.collection-card');
+            cards.forEach(card => {
+                card.addEventListener('click', function() {
+                    if (window.innerWidth <= 768) {
+                        this.classList.toggle('flipped');
+                    }
+                });
+            });
+        });
+    </script>
+    <script src="js/script.js"></script>
+</body>
+</html>
