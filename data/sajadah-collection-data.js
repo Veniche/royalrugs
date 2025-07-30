@@ -3,17 +3,17 @@ const sajadahCollectionData = [
         collection: "Sajadah Collection",
         categories: [
             {
-                title: "Travel Sajadah",
+                title: "Sajadah Collection",
                 description: "Portable prayer rugs for on-the-go worship",
                 products: [
                     {
                         id: "sj-001",
-                        title: "Travel Lite",
+                        title: "SJ201 - RIYADH",
                         description: "Ultra-lightweight and compact travel sajadah with carrying case.",
-                        image: "assets/catalogues/sajadah/travel-lite.jpg",
+                        image: "assets/catalogues/sajadah/SJ201.jpg",
                         sizes: [
                             {
-                                size: "70x110cm",
+                                size: "80x120cm",
                                 price: 199000,
                                 shopee: "#",
                                 tokopedia: "#",
@@ -23,41 +23,13 @@ const sajadahCollectionData = [
                     },
                     {
                         id: "sj-002",
-                        title: "Premium Travel",
+                        title: "SJ202 - JEDDAH",
                         description: "Luxurious travel sajadah with soft padding and compass.",
-                        image: "assets/catalogues/sajadah/premium-travel.jpg",
+                        image: "assets/catalogues/sajadah/SJ202.jpg",
                         sizes: [
                             {
-                                size: "70x110cm",
+                                size: "80x120cm",
                                 price: 299000,
-                                shopee: "#",
-                                tokopedia: "#",
-                                tiktok: "#"
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                title: "Home Prayer Rugs",
-                description: "Comfortable sajadah for home use",
-                products: [
-                    {
-                        id: "sj-101",
-                        title: "Al Haramain",
-                        description: "Elegant prayer rug with Al Haramain motif and soft padding.",
-                        image: "assets/catalogues/sajadah/al-haramain.jpg",
-                        sizes: [
-                            {
-                                size: "70x120cm",
-                                price: 249000,
-                                shopee: "#",
-                                tokopedia: "#",
-                                tiktok: "#"
-                            },
-                            {
-                                size: "90x150cm",
-                                price: 349000,
                                 shopee: "#",
                                 tokopedia: "#",
                                 tiktok: "#"
@@ -65,14 +37,119 @@ const sajadahCollectionData = [
                         ]
                     },
                     {
-                        id: "sj-102",
-                        title: "Al Aqsa",
-                        description: "Beautiful prayer rug featuring the Al Aqsa Mosque design.",
-                        image: "assets/catalogues/sajadah/al-aqsa.jpg",
+                        id: "sj-003",
+                        title: "SJ203 - MECCA",
+                        description: "Luxurious travel sajadah with soft padding and compass.",
+                        image: "assets/catalogues/sajadah/SJ203.jpg",
                         sizes: [
                             {
-                                size: "70x120cm",
-                                price: 269000,
+                                size: "80x120cm",
+                                price: 299000,
+                                shopee: "#",
+                                tokopedia: "#",
+                                tiktok: "#"
+                            }
+                        ]
+                    },
+                    {
+                        id: "sj-004",
+                        title: "SJ204 - KUWAIT",
+                        description: "Luxurious travel sajadah with soft padding and compass.",
+                        image: "assets/catalogues/sajadah/SJ204.jpg",
+                        sizes: [
+                            {
+                                size: "80x120cm",
+                                price: 299000,
+                                shopee: "#",
+                                tokopedia: "#",
+                                tiktok: "#"
+                            }
+                        ]
+                    },
+                    {
+                        id: "sj-005",
+                        title: "SJ205 - DAMASCUS",
+                        description: "Luxurious travel sajadah with soft padding and compass.",
+                        image: "assets/catalogues/sajadah/SJ205.jpg",
+                        sizes: [
+                            {
+                                size: "80x120cm",
+                                price: 299000,
+                                shopee: "#",
+                                tokopedia: "#",
+                                tiktok: "#"
+                            }
+                        ]
+                    },
+                    {
+                        id: "sj-006",
+                        title: "SJ206 - DAMASCUS",
+                        description: "Luxurious travel sajadah with soft padding and compass.",
+                        image: "assets/catalogues/sajadah/SJ206.jpg",
+                        sizes: [
+                            {
+                                size: "80x120cm",
+                                price: 299000,
+                                shopee: "#",
+                                tokopedia: "#",
+                                tiktok: "#"
+                            }
+                        ]
+                    },
+                    {
+                        id: "sj-007",
+                        title: "SJ207 - DAMASCUS",
+                        description: "Luxurious travel sajadah with soft padding and compass.",
+                        image: "assets/catalogues/sajadah/SJ207.jpg",
+                        sizes: [
+                            {
+                                size: "80x120cm",
+                                price: 299000,
+                                shopee: "#",
+                                tokopedia: "#",
+                                tiktok: "#"
+                            }
+                        ]
+                    },
+                    {
+                        id: "sj-008",
+                        title: "SJ208 - DAMASCUS",
+                        description: "Luxurious travel sajadah with soft padding and compass.",
+                        image: "assets/catalogues/sajadah/SJ208.jpg",
+                        sizes: [
+                            {
+                                size: "80x120cm",
+                                price: 299000,
+                                shopee: "#",
+                                tokopedia: "#",
+                                tiktok: "#"
+                            }
+                        ]
+                    },
+                    {
+                        id: "sj-009",
+                        title: "SJ209 - DAMASCUS",
+                        description: "Luxurious travel sajadah with soft padding and compass.",
+                        image: "assets/catalogues/sajadah/SJ209.jpg",
+                        sizes: [
+                            {
+                                size: "80x120cm",
+                                price: 299000,
+                                shopee: "#",
+                                tokopedia: "#",
+                                tiktok: "#"
+                            }
+                        ]
+                    },
+                    {
+                        id: "sj-010",
+                        title: "SJ210 - DAMASCUS",
+                        description: "Luxurious travel sajadah with soft padding and compass.",
+                        image: "assets/catalogues/sajadah/SJ210.jpg",
+                        sizes: [
+                            {
+                                size: "80x120cm",
+                                price: 299000,
                                 shopee: "#",
                                 tokopedia: "#",
                                 tiktok: "#"

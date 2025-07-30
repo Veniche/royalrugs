@@ -1,6 +1,6 @@
 /* Page Hero */
 .page-hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../assets/images/catalogues/hero-bg.jpg') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../assets/catalogues/banner.png') no-repeat center center/cover;
     color: white;
     text-align: center;
     padding: 180px 20px 100px;

@@ -184,6 +184,14 @@ function updateSizeSelection(sizeIndex) {
     
     const size = currentProduct.sizes[sizeIndex];
     
+    // Update image if size has a specific image
+    if (size.image) {
+        modalProductImage.src = size.image;
+    } else {
+        // Fallback to the main product image if size doesn't have a specific image
+        modalProductImage.src = currentProduct.image;
+    }
+    
     // Update price
     modalProductPrice.textContent = formatPrice(size.price);
     
