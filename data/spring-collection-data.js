@@ -237,7 +237,7 @@ const springCollectionData = [
                     },
                     {
                         id: "sp-102",
-                        title: "AB52 - FADING",
+                        title: "AB52 - CRUMPLE TAPE",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
                         image: "assets/catalogues/spring/abstract/AB52-200x300.jpg",
                         sizes: [
@@ -261,7 +261,7 @@ const springCollectionData = [
                     },
                     {
                         id: "sp-103",
-                        title: "AB53 - FADING",
+                        title: "AB53 - CONCRETE BRICK",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
                         image: "assets/catalogues/spring/abstract/AB53-150x200.jpg",
                         sizes: [
@@ -285,7 +285,7 @@ const springCollectionData = [
                     },
                     {
                         id: "sp-104",
-                        title: "AB54 - FADING",
+                        title: "AB54 - BLUE HASTAG",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
                         image: "assets/catalogues/spring/abstract/AB54-200x300.jpg",
                         sizes: [
@@ -309,7 +309,7 @@ const springCollectionData = [
                     },
                     {
                         id: "sp-105",
-                        title: "AB55 - FADING",
+                        title: "AB55 - ROUNDWAVE",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
                         image: "assets/catalogues/spring/abstract/AB55-150x200.jpg",
                         sizes: [
@@ -333,7 +333,7 @@ const springCollectionData = [
                     },
                     {
                         id: "sp-106",
-                        title: "AB56 - FADING",
+                        title: "AB56 - CHAMELEON",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
                         image: "assets/catalogues/spring/abstract/AB56-200x300.jpg",
                         sizes: [
@@ -357,7 +357,7 @@ const springCollectionData = [
                     },
                     {
                         id: "sp-107",
-                        title: "AB57 - FADING",
+                        title: "AB57 - CLOUDY",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
                         image: "assets/catalogues/spring/abstract/AB57-150x200.jpg",
                         sizes: [
@@ -381,7 +381,7 @@ const springCollectionData = [
                     },
                     {
                         id: "sp-108",
-                        title: "AB58 - FADING",
+                        title: "AB58 - BROWN WAVES",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
                         image: "assets/catalogues/spring/abstract/AB58-200x300.jpg",
                         sizes: [
@@ -427,7 +427,7 @@ const springCollectionData = [
                     },
                     {
                         id: "sp-202",
-                        title: "TRO52 - MONSTERA",
+                        title: "TRO52 - ACACIA",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
                         image: "assets/catalogues/spring/tropical/TRO52-100.jpg",
                         sizes: [
@@ -443,7 +443,7 @@ const springCollectionData = [
                     },
                     {
                         id: "sp-203",
-                        title: "TRO53 - MONSTERA",
+                        title: "TRO53 - CHESTNUT",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
                         image: "assets/catalogues/spring/tropical/TRO53-100.jpg",
                         sizes: [
@@ -459,7 +459,7 @@ const springCollectionData = [
                     },
                     {
                         id: "sp-204",
-                        title: "TRO54 - MONSTERA",
+                        title: "TRO54 - ROWAN",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
                         image: "assets/catalogues/spring/tropical/TRO54-100.jpg",
                         sizes: [
@@ -475,7 +475,7 @@ const springCollectionData = [
                     },
                     {
                         id: "sp-205",
-                        title: "TRO55 - MONSTERA",
+                        title: "TRO55 - ASH",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
                         image: "assets/catalogues/spring/tropical/TRO55-100.jpg",
                         sizes: [
@@ -491,7 +491,7 @@ const springCollectionData = [
                     },
                     {
                         id: "sp-206",
-                        title: "TRO56 - MONSTERA",
+                        title: "TRO56 - WILLOW",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
                         image: "assets/catalogues/spring/tropical/TRO56-100.jpg",
                         sizes: [
@@ -537,7 +537,7 @@ const springCollectionData = [
                     },
                     {
                         id: "sp-302",
-                        title: "ST52 - AMBER",
+                        title: "ST52 - BLUE SAPHIRE",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
                         image: "assets/catalogues/spring/stone/ST52-150x200.jpg",
                         sizes: [
@@ -561,7 +561,7 @@ const springCollectionData = [
                     },
                     {
                         id: "sp-303",
-                        title: "ST53 - AMBER",
+                        title: "ST53 - TOPAZ",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
                         image: "assets/catalogues/spring/stone/ST53-200x300.jpg",
                         sizes: [
@@ -585,7 +585,7 @@ const springCollectionData = [
                     },
                     {
                         id: "sp-304",
-                        title: "ST54 - AMBER",
+                        title: "ST54 - MYSTIQUE",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
                         image: "assets/catalogues/spring/stone/ST54-150x200.jpg",
                         sizes: [
@@ -615,7 +615,7 @@ const springCollectionData = [
                 products: [
                     {
                         id: "sp-401",
-                        title: "FIT51 - AMBER",
+                        title: "FIT51 - TRIANGLE",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
                         image: "assets/catalogues/spring/fine-art/FIT51-150x200.jpg",
                         sizes: [
@@ -639,7 +639,7 @@ const springCollectionData = [
                     },
                     {
                         id: "sp-402",
-                        title: "FIT52 - AMBER",
+                        title: "FIT52 - COW",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
                         image: "assets/catalogues/spring/fine-art/FIT52-200x300.jpg",
                         sizes: [
@@ -663,7 +663,7 @@ const springCollectionData = [
                     },
                     {
                         id: "sp-403",
-                        title: "FIT53 - AMBER",
+                        title: "FIT53 - MELODY",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
                         image: "assets/catalogues/spring/fine-art/FIT53-150x200.jpg",
                         sizes: [
@@ -687,7 +687,7 @@ const springCollectionData = [
                     },
                     {
                         id: "sp-404",
-                        title: "FIT54 - AMBER",
+                        title: "FIT54 - BLACK SPOT",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
                         image: "assets/catalogues/spring/fine-art/FIT54-200x300.jpg",
                         sizes: [
@@ -711,7 +711,7 @@ const springCollectionData = [
                     },
                     {
                         id: "sp-405",
-                        title: "FIT55 - AMBER",
+                        title: "FIT55 - SCALLOP",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
                         image: "assets/catalogues/spring/fine-art/FIT55-150x200.jpg",
                         sizes: [
@@ -735,7 +735,7 @@ const springCollectionData = [
                     },
                     {
                         id: "sp-406",
-                        title: "FIT56 - AMBER",
+                        title: "FIT56 - LINE ART",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
                         image: "assets/catalogues/spring/fine-art/FIT56-200x300.jpg",
                         sizes: [
@@ -765,7 +765,7 @@ const springCollectionData = [
                 products: [
                     {
                         id: "sp-501",
-                        title: "WD51 - FADING",
+                        title: "WD51 - DARK BROWNY",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
                         image: "assets/catalogues/spring/wood/WD51-200x300.jpg",
                         sizes: [
@@ -789,7 +789,7 @@ const springCollectionData = [
                     },
                     {
                         id: "sp-502",
-                        title: "WD52 - FADING",
+                        title: "WD52 - LIGHTY BROWN",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
                         image: "assets/catalogues/spring/wood/WD52-150x200.jpg",
                         sizes: [

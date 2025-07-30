@@ -8,7 +8,7 @@ const autumnCollectionData = [
                 products: [
                     {
                         id: "au-001",
-                        title: "PT101 - LEAVES",
+                        title: "PT101 - CLASSIC CHAMP",
                         description: "Warm earth tones with leaf patterns that bring the beauty of fall indoors.",
                         image: "assets/catalogues/autumn/premium-turkish/PT101-200x300.png",
                         sizes: [
@@ -32,7 +32,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-002",
-                        title: "PT102 - HARVEST GOLD",
+                        title: "PT102 - ETHNIC MYSTIQUE",
                         description: "Golden hues that add warmth and luxury to any space.",
                         image: "assets/catalogues/autumn/premium-turkish/PT102-150x200.png",
                         sizes: [
@@ -56,7 +56,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-003",
-                        title: "PT103 - COUNTRY PLAID",
+                        title: "PT103 - TRADITIONAL HENA",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-turkish/PT103-200x300.png",
                         sizes: [
@@ -80,7 +80,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-004",
-                        title: "PT104 - COUNTRY PLAID",
+                        title: "PT104 - NEON ARABIAN",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-turkish/PT104-150x200.png",
                         sizes: [
@@ -104,7 +104,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-005",
-                        title: "PT105 - COUNTRY PLAID",
+                        title: "PT105 - GRAIN YUNANI",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-turkish/PT105-200x300.png",
                         sizes: [
@@ -128,7 +128,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-006",
-                        title: "PT106 - COUNTRY PLAID",
+                        title: "PT106 - CREAMY BELGIUM",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-turkish/PT106-150x200.png",
                         sizes: [
@@ -152,7 +152,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-007",
-                        title: "PT107 - COUNTRY PLAID",
+                        title: "PT107 - ROSE IRAN",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-turkish/PT107-200x300.png",
                         sizes: [
@@ -176,7 +176,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-008",
-                        title: "PT108 - COUNTRY PLAID",
+                        title: "PT108 - MARBLE TURKEY",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-turkish/PT108-150x200.png",
                         sizes: [
@@ -200,7 +200,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-009",
-                        title: "PT109 - COUNTRY PLAID",
+                        title: "PT109 - AQUA PERSIAN",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-turkish/PT109-200x300.png",
                         sizes: [
@@ -230,7 +230,7 @@ const autumnCollectionData = [
                 products: [
                     {
                         id: "au-101",
-                        title: "PA101 - COUNTRY PLAID",
+                        title: "PA101 - DENIM GOLD",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-abstract/PA101-150x200.png",
                         sizes: [
@@ -254,7 +254,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-102",
-                        title: "PA102 - COUNTRY PLAID",
+                        title: "PA102 - SQUISHY OCEAN",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-abstract/PA102-200x300.png",
                         sizes: [
@@ -278,7 +278,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-103",
-                        title: "PA103 - COUNTRY PLAID",
+                        title: "PA103 - BLUE BLACK",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-abstract/PA103-150x200.png",
                         sizes: [
@@ -302,7 +302,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-104",
-                        title: "PA104 - COUNTRY PLAID",
+                        title: "PA104 - SNOW MELTS",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-abstract/PA104-200x300.png",
                         sizes: [
@@ -326,7 +326,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-105",
-                        title: "PA105 - COUNTRY PLAID",
+                        title: "PA105 - FUSHION SKY",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-abstract/PA105-150x200.png",
                         sizes: [
@@ -350,7 +350,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-106",
-                        title: "PA106 - COUNTRY PLAID",
+                        title: "PA106 - KOREAN ARMY",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-abstract/PA106-200x300.png",
                         sizes: [
@@ -374,7 +374,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-107",
-                        title: "PA107 - COUNTRY PLAID",
+                        title: "PA107 - PAINT ART",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-abstract/PA107-150x200.png",
                         sizes: [
@@ -398,7 +398,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-108",
-                        title: "PA108 - COUNTRY PLAID",
+                        title: "PA108 - CONCRETE GOLD",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-abstract/PA108-200x300.png",
                         sizes: [
@@ -422,7 +422,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-109",
-                        title: "PA109 - COUNTRY PLAID",
+                        title: "PA109 - TRIBAL ART",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-abstract/PA109-150x200.png",
                         sizes: [
@@ -452,7 +452,7 @@ const autumnCollectionData = [
                 products: [
                     {
                         id: "au-201",
-                        title: "PV101 - COUNTRY PLAID",
+                        title: "PV101 - GOLDEN NET",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-vintage/PV101-200x300.png",
                         sizes: [
@@ -476,7 +476,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-202",
-                        title: "PV102 - COUNTRY PLAID",
+                        title: "PV102 - CONFIDENCE BROWN",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-vintage/PV102-150x200.png",
                         sizes: [
@@ -500,7 +500,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-203",
-                        title: "PV103 - COUNTRY PLAID",
+                        title: "PV103 - GRAVITY GREY",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-vintage/PV103-200x300.png",
                         sizes: [
@@ -524,7 +524,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-204",
-                        title: "PV104 - COUNTRY PLAID",
+                        title: "PV104 - SIGNATURE BLUE",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-vintage/PV104-150x200.png",
                         sizes: [
@@ -548,7 +548,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-205",
-                        title: "PV105 - COUNTRY PLAID",
+                        title: "PV105 - RED ICON",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-vintage/PV105-200x300.png",
                         sizes: [
@@ -572,7 +572,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-206",
-                        title: "PV106 - COUNTRY PLAID",
+                        title: "PV106 - SIMPLE TECH",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-vintage/PV106-150x200.png",
                         sizes: [
@@ -602,7 +602,7 @@ const autumnCollectionData = [
                 products: [
                     {
                         id: "au-301",
-                        title: "PM101 - COUNTRY PLAID",
+                        title: "PM101 - SNOW MARBLE",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-marble/PM101-150x200.png",
                         sizes: [
@@ -626,7 +626,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-302",
-                        title: "PM102 - COUNTRY PLAID",
+                        title: "PM102 - MIX MARBLE",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-marble/PM102-200x300.png",
                         sizes: [
@@ -650,7 +650,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-303",
-                        title: "PM103 - COUNTRY PLAID",
+                        title: "PM103 - CREAM MARBLE",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-marble/PM103-150x200.png",
                         sizes: [
@@ -674,7 +674,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-304",
-                        title: "PM104 - COUNTRY PLAID",
+                        title: "PM104 - DAVINCI MARBLE",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-marble/PM104-200x300.png",
                         sizes: [
@@ -698,7 +698,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-305",
-                        title: "PM105 - COUNTRY PLAID",
+                        title: "PM105 - BLUE MARBLE",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-marble/PM105-150x200.png",
                         sizes: [
@@ -728,7 +728,7 @@ const autumnCollectionData = [
                 products: [
                     {
                         id: "au-401",
-                        title: "PS100 - COUNTRY PLAID",
+                        title: "PS100 - DARK ARCHERY",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-sphere/PS100-200.png",
                         sizes: [
@@ -744,7 +744,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-402",
-                        title: "PS101 - COUNTRY PLAID",
+                        title: "PS101 - ASH LABYRINTH",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-sphere/PS101-200.png",
                         sizes: [
@@ -760,7 +760,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-403",
-                        title: "PS102 - COUNTRY PLAID",
+                        title: "PS102 - MOON FADE",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-sphere/PS102-200.png",
                         sizes: [
@@ -776,7 +776,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-404",
-                        title: "PS103 - COUNTRY PLAID",
+                        title: "PS103 - GREY CIRCLE",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-sphere/PS103-200.png",
                         sizes: [
@@ -792,7 +792,7 @@ const autumnCollectionData = [
                     },
                     {
                         id: "au-405",
-                        title: "PS104 - COUNTRY PLAID",
+                        title: "PS104 - BROWN CAVE",
                         description: "Classic plaid pattern in warm autumn colors.",
                         image: "assets/catalogues/autumn/premium-sphere/PS104-200.png",
                         sizes: [

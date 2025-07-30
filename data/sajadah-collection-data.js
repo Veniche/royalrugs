@@ -38,7 +38,7 @@ const sajadahCollectionData = [
                     },
                     {
                         id: "sj-003",
-                        title: "SJ203 - MECCA",
+                        title: "SJ203 - MEKAH",
                         description: "Luxurious travel sajadah with soft padding and compass.",
                         image: "assets/catalogues/sajadah/SJ203.jpg",
                         sizes: [
@@ -53,7 +53,7 @@ const sajadahCollectionData = [
                     },
                     {
                         id: "sj-004",
-                        title: "SJ204 - KUWAIT",
+                        title: "SJ204 - DAMMAM",
                         description: "Luxurious travel sajadah with soft padding and compass.",
                         image: "assets/catalogues/sajadah/SJ204.jpg",
                         sizes: [
@@ -68,7 +68,7 @@ const sajadahCollectionData = [
                     },
                     {
                         id: "sj-005",
-                        title: "SJ205 - DAMASCUS",
+                        title: "SJ205 - MADINAH",
                         description: "Luxurious travel sajadah with soft padding and compass.",
                         image: "assets/catalogues/sajadah/SJ205.jpg",
                         sizes: [
@@ -83,7 +83,7 @@ const sajadahCollectionData = [
                     },
                     {
                         id: "sj-006",
-                        title: "SJ206 - DAMASCUS",
+                        title: "SJ206 - TAIF",
                         description: "Luxurious travel sajadah with soft padding and compass.",
                         image: "assets/catalogues/sajadah/SJ206.jpg",
                         sizes: [
@@ -98,7 +98,7 @@ const sajadahCollectionData = [
                     },
                     {
                         id: "sj-007",
-                        title: "SJ207 - DAMASCUS",
+                        title: "SJ207 - AL AHSA",
                         description: "Luxurious travel sajadah with soft padding and compass.",
                         image: "assets/catalogues/sajadah/SJ207.jpg",
                         sizes: [
@@ -113,7 +113,7 @@ const sajadahCollectionData = [
                     },
                     {
                         id: "sj-008",
-                        title: "SJ208 - DAMASCUS",
+                        title: "SJ208 - AL KHARJ",
                         description: "Luxurious travel sajadah with soft padding and compass.",
                         image: "assets/catalogues/sajadah/SJ208.jpg",
                         sizes: [
@@ -128,7 +128,7 @@ const sajadahCollectionData = [
                     },
                     {
                         id: "sj-009",
-                        title: "SJ209 - DAMASCUS",
+                        title: "SJ209 - ASY SYIFA",
                         description: "Luxurious travel sajadah with soft padding and compass.",
                         image: "assets/catalogues/sajadah/SJ209.jpg",
                         sizes: [
@@ -143,7 +143,7 @@ const sajadahCollectionData = [
                     },
                     {
                         id: "sj-010",
-                        title: "SJ210 - DAMASCUS",
+                        title: "SJ210 - ARAFAH",
                         description: "Luxurious travel sajadah with soft padding and compass.",
                         image: "assets/catalogues/sajadah/SJ210.jpg",
                         sizes: [
