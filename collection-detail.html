@@ -13,8 +13,9 @@
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/collection-detail.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="js/animations.js" defer></script>
 </head>
-<body>
+<body class="page-transition">
     <header>
         <div class="container">
             <div class="header-content">
@@ -48,7 +49,7 @@
 
     <main>
         <!-- Collection Hero -->
-        <section class="collection-hero">
+        <section class="collection-hero animate-on-scroll" style="animation-delay: 0.1s">
             <div class="container">
                 <h1 id="collectionTitle">Loading Collection...</h1>
                 <p id="collectionDescription">Discover our premium selection of rugs</p>
@@ -56,7 +57,7 @@
         </section>
 
         <!-- Categories Navigation -->
-        <nav class="categories-nav" id="categoriesNav">
+        <nav class="categories-nav animate-on-scroll" id="categoriesNav" style="animation-delay: 0.2s">
             <div class="container">
                 <ul class="categories-list" id="categoriesList">
                     <!-- Categories will be populated by JavaScript -->
@@ -65,7 +66,7 @@
         </nav>
 
         <!-- Products Grid -->
-        <section class="products-section">
+        <section class="related-products animate-on-scroll" style="animation-delay: 0.3s">
             <div class="container">
                 <div id="productsGrid">
                     <!-- Products will be populated by JavaScript -->
@@ -82,7 +83,7 @@
                 <div class="modal-image-container">
                     <img id="modalProductImage" src="" alt="Product Image">
                 </div>
-                <div class="modal-details">
+                <div class="product-details animate-on-scroll" style="animation-delay: 0.2s">
                     <h2 id="modalProductTitle"></h2>
                     <p id="modalProductDescription"></p>
                     
