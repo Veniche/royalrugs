@@ -79,59 +79,71 @@
     margin-bottom: 15px;
 }
 
-.contact-social {
+.contact-social-section {
     margin-top: 30px;
     width: 100%;
-}
-
-.contact-social h3 {
-    margin-bottom: 15px;
-    margin-left: 80px; /* Match the width of contact-icon + gap */
-}
-
-.contact-social .social-links {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    gap: 12px;
-    margin-top: 10px;
-    margin-left: 80px; /* Align with contact details text */
-    padding-left: 0;
-    width: calc(100% - 80px);
 }
 
-.contact-social .social-link {
+.contact-social-section h3 {
+    margin-bottom: 15px;
+    color: #2c3e50;
+    font-size: 1.25rem;
+}
+
+.contact-social-links {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 100%;
+}
+
+.contact-social-link {
     display: flex;
     align-items: center;
-    white-space: nowrap;
     text-decoration: none;
-    color: inherit;
+    color: #3b82f6;
+    transition: color 0.3s ease;
+    padding: 6px 0;
+    width: 100%;
+    max-width: 100%;
+    text-align: left;
 }
 
-.contact-social .social-link i {
-    min-width: 20px;
-    margin-right: 10px;
+.contact-social-link:hover {
+    color: #2563eb;
+}
+
+.contact-social-link i,
+.contact-social-link .social-icon {
+    width: 24px;
+    height: 24px;
     text-align: center;
+    font-size: 1.2rem;
+    margin-right: 12px;
+    color: #64748b;
+    object-fit: contain;
 }
 
-.contact-social .social-link {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    padding: 8px 0;
-    text-decoration: none;
-    color: #3b82f6;
-    transition: color 0.3s ease;
+.contact-social-link i {
+    position: relative;
+    top: 3px;
 }
 
-.contact-social .social-link {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    color: #3b82f6;
-    text-decoration: none;
-    transition: color 0.3s ease;
+.contact-social-link span {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
+
+/* Platform-specific styles */
+.contact-social-link[aria-label="Instagram"] i { color: #E1306C; }
+.contact-social-link[aria-label="TikTok"] i { color: #000000; }
+.contact-social-link[aria-label="YouTube"] i { color: #FF0000; }
+.contact-social-link[aria-label="Shopee"] i { color: #EE4D2D; }
+.contact-social-link[aria-label="Tokopedia"] i { color: #03AC0E; }
 
 .contact-social .social-link:hover {
     color: #2563eb;
@@ -243,8 +255,14 @@
 
 @media (max-width: 768px) {
     .contact-methods {
-        align-items: center;
-        text-align: center;
+        align-items: flex-start;
+        text-align: left;
+    }
+    
+    .contact-social-link {
+        justify-content: flex-start;
+        text-align: left;
+        padding: 6px 0;
     }
     
     .contact-method {
