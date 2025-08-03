@@ -15,25 +15,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF201-160x240.png",
-                                price: 2599000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-FUSION-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.27421983503?sp_atk=0620a2c1-608b-4605-a726-d7e8b24f5cc6&xptdk=0620a2c1-608b-4605-a726-d7e8b24f5cc6",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-fusion-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716328513144065?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF201-200x300.png",
-                                price: 3299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-FUSION-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.26274724864?sp_atk=429baf6b-234f-487a-bd63-261509b90f7c&xptdk=429baf6b-234f-487a-bd63-261509b90f7c",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-fusion-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF201-300x400.png",
-                                price: 3299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-FUSION-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-fusion-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             }
                         ]
@@ -47,25 +47,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF202-160x240.png",
-                                price: 2599000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-FUSION-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.27421983503?sp_atk=0620a2c1-608b-4605-a726-d7e8b24f5cc6&xptdk=0620a2c1-608b-4605-a726-d7e8b24f5cc6",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-fusion-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716328513144065?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF202-200x300.png",
-                                price: 3299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-FUSION-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.26274724864?sp_atk=429baf6b-234f-487a-bd63-261509b90f7c&xptdk=429baf6b-234f-487a-bd63-261509b90f7c",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-fusion-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF202-300x400.png",
-                                price: 3299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-FUSION-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-fusion-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             }
                         ]
@@ -79,25 +79,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF203-160x240.png",
-                                price: 2599000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-FUSION-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.27421983503?sp_atk=0620a2c1-608b-4605-a726-d7e8b24f5cc6&xptdk=0620a2c1-608b-4605-a726-d7e8b24f5cc6",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-fusion-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716328513144065?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF203-200x300.png",
-                                price: 3299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-FUSION-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.26274724864?sp_atk=429baf6b-234f-487a-bd63-261509b90f7c&xptdk=429baf6b-234f-487a-bd63-261509b90f7c",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-fusion-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF203-300x400.png",
-                                price: 3299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-FUSION-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-fusion-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             }
                         ]
@@ -111,25 +111,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF204-160x240.png",
-                                price: 2599000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-FUSION-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.27421983503?sp_atk=0620a2c1-608b-4605-a726-d7e8b24f5cc6&xptdk=0620a2c1-608b-4605-a726-d7e8b24f5cc6",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-fusion-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716328513144065?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF204-200x300.png",
-                                price: 3299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-FUSION-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.26274724864?sp_atk=429baf6b-234f-487a-bd63-261509b90f7c&xptdk=429baf6b-234f-487a-bd63-261509b90f7c",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-fusion-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF204-300x400.png",
-                                price: 3299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-FUSION-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-fusion-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             }
                         ]
@@ -143,25 +143,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF205-160x240.png",
-                                price: 2599000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-FUSION-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.27421983503?sp_atk=0620a2c1-608b-4605-a726-d7e8b24f5cc6&xptdk=0620a2c1-608b-4605-a726-d7e8b24f5cc6",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-fusion-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716328513144065?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF205-200x300.png",
-                                price: 3299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-FUSION-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.26274724864?sp_atk=429baf6b-234f-487a-bd63-261509b90f7c&xptdk=429baf6b-234f-487a-bd63-261509b90f7c",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-fusion-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF205-300x400.png",
-                                price: 3299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-FUSION-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-fusion-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             }
                         ]
@@ -175,25 +175,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF206-160x240.png",
-                                price: 2599000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-FUSION-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.27421983503?sp_atk=0620a2c1-608b-4605-a726-d7e8b24f5cc6&xptdk=0620a2c1-608b-4605-a726-d7e8b24f5cc6",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-fusion-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716328513144065?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF206-200x300.png",
-                                price: 3299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-FUSION-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.26274724864?sp_atk=429baf6b-234f-487a-bd63-261509b90f7c&xptdk=429baf6b-234f-487a-bd63-261509b90f7c",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-fusion-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF206-300x400.png",
-                                price: 3299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-FUSION-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-fusion-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             }
                         ]
@@ -207,25 +207,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF207-160x240.png",
-                                price: 2599000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-FUSION-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.27421983503?sp_atk=0620a2c1-608b-4605-a726-d7e8b24f5cc6&xptdk=0620a2c1-608b-4605-a726-d7e8b24f5cc6",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-fusion-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716328513144065?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF207-200x300.png",
-                                price: 3299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-FUSION-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.26274724864?sp_atk=429baf6b-234f-487a-bd63-261509b90f7c&xptdk=429baf6b-234f-487a-bd63-261509b90f7c",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-fusion-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF207-300x400.png",
-                                price: 3299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-FUSION-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-fusion-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             }
                         ]
@@ -239,25 +239,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF208-160x240.png",
-                                price: 2599000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-FUSION-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.27421983503?sp_atk=0620a2c1-608b-4605-a726-d7e8b24f5cc6&xptdk=0620a2c1-608b-4605-a726-d7e8b24f5cc6",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-fusion-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716328513144065?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF208-200x300.png",
-                                price: 3299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-FUSION-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.26274724864?sp_atk=429baf6b-234f-487a-bd63-261509b90f7c&xptdk=429baf6b-234f-487a-bd63-261509b90f7c",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-fusion-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF208-300x400.png",
-                                price: 3299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-FUSION-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-fusion-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             }
                         ]
@@ -271,25 +271,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF209-160x240.png",
-                                price: 2599000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-FUSION-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.27421983503?sp_atk=0620a2c1-608b-4605-a726-d7e8b24f5cc6&xptdk=0620a2c1-608b-4605-a726-d7e8b24f5cc6",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-fusion-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716328513144065?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF209-200x300.png",
-                                price: 3299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-FUSION-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.26274724864?sp_atk=429baf6b-234f-487a-bd63-261509b90f7c&xptdk=429baf6b-234f-487a-bd63-261509b90f7c",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-fusion-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-fusion/BF209-300x400.png",
-                                price: 3299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-FUSION-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-fusion-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "#"
                             }
                         ]
@@ -309,25 +309,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA201-160x240.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-ABSTRACT-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-abstract-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716257841241602?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=1%3A1730716257841241602",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA201-200x300.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-ABSTRACT-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-abstract-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA201-300x400.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-ABSTRACT-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-abstract-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             }
                         ]
@@ -341,25 +341,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA202-160x240.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-ABSTRACT-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-abstract-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716257841241602?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=1%3A1730716257841241602",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA202-200x300.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-ABSTRACT-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-abstract-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA202-300x400.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-ABSTRACT-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-abstract-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             }
                         ]
@@ -373,25 +373,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA203-160x240.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-ABSTRACT-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-abstract-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716257841241602?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=1%3A1730716257841241602",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA203-200x300.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-ABSTRACT-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-abstract-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA203-300x400.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-ABSTRACT-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-abstract-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             }
                         ]
@@ -405,25 +405,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA204-160x240.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-ABSTRACT-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-abstract-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716257841241602?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=1%3A1730716257841241602",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA204-200x300.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-ABSTRACT-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-abstract-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA204-300x400.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-ABSTRACT-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-abstract-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             }
                         ]
@@ -437,25 +437,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA205-160x240.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-ABSTRACT-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-abstract-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716257841241602?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=1%3A1730716257841241602",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA205-200x300.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-ABSTRACT-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-abstract-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA205-300x400.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-ABSTRACT-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-abstract-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             }
                         ]
@@ -469,25 +469,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA206-160x240.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-ABSTRACT-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-abstract-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716257841241602?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=1%3A1730716257841241602",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA206-200x300.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-ABSTRACT-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-abstract-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA206-300x400.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-ABSTRACT-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-abstract-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             }
                         ]
@@ -501,25 +501,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA207-160x240.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-ABSTRACT-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-abstract-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716257841241602?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=1%3A1730716257841241602",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA207-200x300.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-ABSTRACT-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-abstract-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA207-300x400.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-ABSTRACT-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-abstract-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             }
                         ]
@@ -533,25 +533,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA208-160x240.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-ABSTRACT-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-abstract-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716257841241602?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=1%3A1730716257841241602",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA208-200x300.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-ABSTRACT-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-abstract-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA208-300x400.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-ABSTRACT-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-abstract-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             }
                         ]
@@ -565,25 +565,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA209-160x240.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-ABSTRACT-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-abstract-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716257841241602?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=1%3A1730716257841241602",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA209-200x300.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-ABSTRACT-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-abstract-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-abstract/BA209-300x400.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-ABSTRACT-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-abstract-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             }
                         ]
@@ -603,25 +603,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM201-160x240.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-MOROCCAN-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-moroccan-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716257841241602?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=1%3A1730716257841241602",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM201-200x300.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-MOROCCAN-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-moroccan-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM201-300x400.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-MOROCCAN-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-moroccan-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             }
                         ]
@@ -635,25 +635,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM202-160x240.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-MOROCCAN-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-moroccan-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716257841241602?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=1%3A1730716257841241602",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM202-200x300.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-MOROCCAN-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-moroccan-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM202-300x400.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-MOROCCAN-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-moroccan-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             }
                         ]
@@ -667,25 +667,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM203-160x240.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-MOROCCAN-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-moroccan-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716257841241602?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=1%3A1730716257841241602",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM203-200x300.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-MOROCCAN-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-moroccan-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM203-300x400.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-MOROCCAN-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-moroccan-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             }
                         ]
@@ -699,25 +699,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM204-160x240.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-MOROCCAN-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-moroccan-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716257841241602?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=1%3A1730716257841241602",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM204-200x300.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-MOROCCAN-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-moroccan-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM204-300x400.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-MOROCCAN-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-moroccan-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             }
                         ]
@@ -731,25 +731,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM205-160x240.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-MOROCCAN-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-moroccan-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716257841241602?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=1%3A1730716257841241602",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM205-200x300.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-MOROCCAN-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-moroccan-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM205-300x400.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-MOROCCAN-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-moroccan-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             }
                         ]
@@ -763,25 +763,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM206-160x240.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-MOROCCAN-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-moroccan-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716257841241602?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=1%3A1730716257841241602",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM206-200x300.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-MOROCCAN-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-moroccan-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM206-300x400.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-MOROCCAN-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-moroccan-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             }
                         ]
@@ -795,25 +795,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM207-160x240.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-MOROCCAN-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-moroccan-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716257841241602?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=1%3A1730716257841241602",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM207-200x300.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-MOROCCAN-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-moroccan-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM207-300x400.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-MOROCCAN-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-moroccan-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             }
                         ]
@@ -827,25 +827,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM208-160x240.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-MOROCCAN-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-moroccan-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716257841241602?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=1%3A1730716257841241602",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM208-200x300.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-MOROCCAN-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-moroccan-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM208-300x400.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-MOROCCAN-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-moroccan-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             }
                         ]
@@ -859,25 +859,25 @@ const winterCollectionData = [
                             {
                                 size: "160x240cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM209-160x240.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 999999,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-MOROCCAN-160x240-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-moroccan-160x240-cm-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716257841241602?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=1%3A1730716257841241602",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM209-200x300.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 1999000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-MOROCCAN-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-moroccan-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             },
                             {
                                 size: "300x400cm",
                                 image: "assets/catalogues/winter/bespoke-moroccan/BM209-300x400.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 3499000,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Jumbo-300x400-cm-%E2%80%93-Bulu-Tebal-Premium-BESPOKE-MOROCCAN-Permadani-Estetik-i.964448777.29224737424?sp_atk=903c8f79-4975-4df1-8dad-153b017476a1&xptdk=903c8f79-4975-4df1-8dad-153b017476a1",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-jumbo-bespoke-moroccan-300x400-cm-permadani-lantai-ruang-tamu-carpet-bulu-dekorasi-estetik-ambal-velvet-1730822588517811457?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
                                 tiktok: "#"
                             }
                         ]
@@ -897,9 +897,9 @@ const winterCollectionData = [
                             {
                                 size: "Diameter 140cm",
                                 image: "assets/catalogues/winter/bespoke-disc/BD201-140.jpeg",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 699000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-DISC-140cm-Diameter-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-disc-140cm-diameter-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716257841241602?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=1%3A1730716257841241602",
                                 tiktok: "#"
                             }
                         ]
@@ -913,9 +913,9 @@ const winterCollectionData = [
                             {
                                 size: "Diameter 140cm",
                                 image: "assets/catalogues/winter/bespoke-disc/BD202-140.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 699000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-DISC-140cm-Diameter-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-disc-140cm-diameter-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716257841241602?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=1%3A1730716257841241602",
                                 tiktok: "#"
                             }
                         ]
@@ -929,9 +929,9 @@ const winterCollectionData = [
                             {
                                 size: "Diameter 140cm",
                                 image: "assets/catalogues/winter/bespoke-disc/BD203-140.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 699000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-DISC-140cm-Diameter-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-disc-140cm-diameter-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716257841241602?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=1%3A1730716257841241602",
                                 tiktok: "#"
                             }
                         ]
@@ -945,9 +945,9 @@ const winterCollectionData = [
                             {
                                 size: "Diameter 140cm",
                                 image: "assets/catalogues/winter/bespoke-disc/BD204-140.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 699000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-DISC-140cm-Diameter-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-disc-140cm-diameter-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716257841241602?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=1%3A1730716257841241602",
                                 tiktok: "#"
                             }
                         ]
@@ -961,9 +961,9 @@ const winterCollectionData = [
                             {
                                 size: "Diameter 140cm",
                                 image: "assets/catalogues/winter/bespoke-disc/BD205-140.png",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 699000,
+                                shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-DISC-140cm-Diameter-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-disc-140cm-diameter-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716257841241602?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=1%3A1730716257841241602",
                                 tiktok: "#"
                             }
                         ]

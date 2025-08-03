@@ -15,17 +15,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/persian/AR51-150x200.jpg",
-                                price: 1499000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 399200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Aesthetic-PERSIAN-150x200-cm-Permadani-Ruang-Tamu-Halus-Anti-Slip-Carpet-Tebal-Turki-i.964448777.17397368160",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-persian-anti-slip-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/persian/AR51-200x300.jpg",
-                                price: 2199000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 799200,
+                                shopee: "https://shopee.co.id/Karpet-PERSIAN-200x300-cm-%E2%80%93-Ambal-Lantai-Lebar-Tebal-Motif-Turki-Permadani-Antislip-i.964448777.20980825710",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-persian-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
@@ -39,17 +39,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/persian/AR52-150x200.jpg",
-                                price: 1599000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 399200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Aesthetic-PERSIAN-150x200-cm-Permadani-Ruang-Tamu-Halus-Anti-Slip-Carpet-Tebal-Turki-i.964448777.17397368160",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-persian-anti-slip-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/persian/AR52-200x300.jpg",
-                                price: 3599000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 799200,
+                                shopee: "https://shopee.co.id/Karpet-PERSIAN-200x300-cm-%E2%80%93-Ambal-Lantai-Lebar-Tebal-Motif-Turki-Permadani-Antislip-i.964448777.20980825710",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-persian-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
@@ -63,17 +63,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/persian/AR53-150x200.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 399200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Aesthetic-PERSIAN-150x200-cm-Permadani-Ruang-Tamu-Halus-Anti-Slip-Carpet-Tebal-Turki-i.964448777.17397368160",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-persian-anti-slip-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/persian/AR53-200x300.jpg",
-                                price: 2399000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 799200,
+                                shopee: "https://shopee.co.id/Karpet-PERSIAN-200x300-cm-%E2%80%93-Ambal-Lantai-Lebar-Tebal-Motif-Turki-Permadani-Antislip-i.964448777.20980825710",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-persian-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
@@ -87,17 +87,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/persian/AR54-150x200.jpg",
-                                price: 1499000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 399200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Aesthetic-PERSIAN-150x200-cm-Permadani-Ruang-Tamu-Halus-Anti-Slip-Carpet-Tebal-Turki-i.964448777.17397368160",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-persian-anti-slip-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/persian/AR54-200x300.jpg",
-                                price: 2199000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 799200,
+                                shopee: "https://shopee.co.id/Karpet-PERSIAN-200x300-cm-%E2%80%93-Ambal-Lantai-Lebar-Tebal-Motif-Turki-Permadani-Antislip-i.964448777.20980825710",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-persian-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             },
                             {
@@ -118,17 +118,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/persian/AR55-150x200.jpg",
-                                price: 1599000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 399200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Aesthetic-PERSIAN-150x200-cm-Permadani-Ruang-Tamu-Halus-Anti-Slip-Carpet-Tebal-Turki-i.964448777.17397368160",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-persian-anti-slip-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/persian/AR55-200x300.jpg",
-                                price: 2199000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 799200,
+                                shopee: "https://shopee.co.id/Karpet-PERSIAN-200x300-cm-%E2%80%93-Ambal-Lantai-Lebar-Tebal-Motif-Turki-Permadani-Antislip-i.964448777.20980825710",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-persian-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
@@ -142,17 +142,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/persian/AR56-150x200.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 399200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Aesthetic-PERSIAN-150x200-cm-Permadani-Ruang-Tamu-Halus-Anti-Slip-Carpet-Tebal-Turki-i.964448777.17397368160",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-persian-anti-slip-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/persian/AR56-200x300.jpg",
-                                price: 2399000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 799200,
+                                shopee: "https://shopee.co.id/Karpet-PERSIAN-200x300-cm-%E2%80%93-Ambal-Lantai-Lebar-Tebal-Motif-Turki-Permadani-Antislip-i.964448777.20980825710",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-persian-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
@@ -166,17 +166,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/persian/AR57-150x200.jpg",
-                                price: 1499000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 399200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Aesthetic-PERSIAN-150x200-cm-Permadani-Ruang-Tamu-Halus-Anti-Slip-Carpet-Tebal-Turki-i.964448777.17397368160",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-persian-anti-slip-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/persian/AR57-200x300.jpg",
-                                price: 2199000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 799200,
+                                shopee: "https://shopee.co.id/Karpet-PERSIAN-200x300-cm-%E2%80%93-Ambal-Lantai-Lebar-Tebal-Motif-Turki-Permadani-Antislip-i.964448777.20980825710",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-persian-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
@@ -190,17 +190,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/persian/AR58-150x200.jpg",
-                                price: 1599000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 399200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-Aesthetic-PERSIAN-150x200-cm-Permadani-Ruang-Tamu-Halus-Anti-Slip-Carpet-Tebal-Turki-i.964448777.17397368160",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-persian-anti-slip-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/persian/AR58-200x300.jpg",
-                                price: 2299000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 799200,
+                                shopee: "https://shopee.co.id/Karpet-PERSIAN-200x300-cm-%E2%80%93-Ambal-Lantai-Lebar-Tebal-Motif-Turki-Permadani-Antislip-i.964448777.20980825710",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-persian-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
@@ -220,17 +220,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/abstract/AB51-150x200.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 349200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/abstract/AB51-200x300.jpg",
-                                price: 2399000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 749200,
+                                shopee: "https://shopee.co.id/Karpet-ABSTRACT-200x300-cm-%E2%80%93-Karpet-Minimalis-Motif-Geometris-Ruang-Tamu-Elegan-Antislip-i.964448777.23266630010",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-abstract-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
@@ -244,17 +244,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/abstract/AB52-150x200.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 349200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/abstract/AB52-200x300.jpg",
-                                price: 2399000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 749200,
+                                shopee: "https://shopee.co.id/Karpet-ABSTRACT-200x300-cm-%E2%80%93-Karpet-Minimalis-Motif-Geometris-Ruang-Tamu-Elegan-Antislip-i.964448777.23266630010",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-abstract-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
@@ -268,17 +268,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/abstract/AB53-150x200.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 349200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/abstract/AB53-200x300.jpg",
-                                price: 2399000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 749200,
+                                shopee: "https://shopee.co.id/Karpet-ABSTRACT-200x300-cm-%E2%80%93-Karpet-Minimalis-Motif-Geometris-Ruang-Tamu-Elegan-Antislip-i.964448777.23266630010",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-abstract-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
@@ -292,17 +292,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/abstract/AB54-150x200.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 349200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/abstract/AB54-200x300.jpg",
-                                price: 2399000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 749200,
+                                shopee: "https://shopee.co.id/Karpet-ABSTRACT-200x300-cm-%E2%80%93-Karpet-Minimalis-Motif-Geometris-Ruang-Tamu-Elegan-Antislip-i.964448777.23266630010",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-abstract-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
@@ -316,17 +316,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/abstract/AB55-150x200.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 349200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/abstract/AB55-200x300.jpg",
-                                price: 2399000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 749200,
+                                shopee: "https://shopee.co.id/Karpet-ABSTRACT-200x300-cm-%E2%80%93-Karpet-Minimalis-Motif-Geometris-Ruang-Tamu-Elegan-Antislip-i.964448777.23266630010",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-abstract-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
@@ -340,17 +340,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/abstract/AB56-150x200.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 349200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/abstract/AB56-200x300.jpg",
-                                price: 2399000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 749200,
+                                shopee: "https://shopee.co.id/Karpet-ABSTRACT-200x300-cm-%E2%80%93-Karpet-Minimalis-Motif-Geometris-Ruang-Tamu-Elegan-Antislip-i.964448777.23266630010",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-abstract-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
@@ -364,17 +364,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/abstract/AB57-150x200.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 349200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/abstract/AB57-200x300.jpg",
-                                price: 2399000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 749200,
+                                shopee: "https://shopee.co.id/Karpet-ABSTRACT-200x300-cm-%E2%80%93-Karpet-Minimalis-Motif-Geometris-Ruang-Tamu-Elegan-Antislip-i.964448777.23266630010",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-abstract-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
@@ -388,17 +388,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/abstract/AB58-150x200.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 349200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/abstract/AB58-200x300.jpg",
-                                price: 2399000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 749200,
+                                shopee: "https://shopee.co.id/Karpet-ABSTRACT-200x300-cm-%E2%80%93-Karpet-Minimalis-Motif-Geometris-Ruang-Tamu-Elegan-Antislip-i.964448777.23266630010",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-abstract-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
@@ -418,9 +418,9 @@ const springCollectionData = [
                             {
                                 size: "Diameter 100cm",
                                 image: "assets/catalogues/spring/tropical/TRO51-100.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 349200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             }
                         ]
@@ -434,9 +434,9 @@ const springCollectionData = [
                             {
                                 size: "Diameter 100cm",
                                 image: "assets/catalogues/spring/tropical/TRO52-100.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 349200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             }
                         ]
@@ -450,9 +450,9 @@ const springCollectionData = [
                             {
                                 size: "Diameter 100cm",
                                 image: "assets/catalogues/spring/tropical/TRO53-100.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 349200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             }
                         ]
@@ -466,9 +466,9 @@ const springCollectionData = [
                             {
                                 size: "Diameter 100cm",
                                 image: "assets/catalogues/spring/tropical/TRO54-100.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 349200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             }
                         ]
@@ -482,9 +482,9 @@ const springCollectionData = [
                             {
                                 size: "Diameter 100cm",
                                 image: "assets/catalogues/spring/tropical/TRO55-100.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 349200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             }
                         ]
@@ -498,9 +498,9 @@ const springCollectionData = [
                             {
                                 size: "Diameter 100cm",
                                 image: "assets/catalogues/spring/tropical/TRO56-100.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 349200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             }
                         ]
@@ -520,17 +520,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/stone/ST51-150x200.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 349200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/stone/ST51-200x300.jpg",
-                                price: 2399000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 749200,
+                                shopee: "https://shopee.co.id/Karpet-ABSTRACT-200x300-cm-%E2%80%93-Karpet-Minimalis-Motif-Geometris-Ruang-Tamu-Elegan-Antislip-i.964448777.23266630010",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-abstract-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
@@ -544,17 +544,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/stone/ST52-150x200.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 349200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/stone/ST52-200x300.jpg",
-                                price: 2399000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 749200,
+                                shopee: "https://shopee.co.id/Karpet-ABSTRACT-200x300-cm-%E2%80%93-Karpet-Minimalis-Motif-Geometris-Ruang-Tamu-Elegan-Antislip-i.964448777.23266630010",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-abstract-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
@@ -568,17 +568,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/stone/ST53-150x200.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 349200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/stone/ST53-200x300.jpg",
-                                price: 2399000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 749200,
+                                shopee: "https://shopee.co.id/Karpet-ABSTRACT-200x300-cm-%E2%80%93-Karpet-Minimalis-Motif-Geometris-Ruang-Tamu-Elegan-Antislip-i.964448777.23266630010",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-abstract-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
@@ -592,17 +592,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/stone/ST54-150x200.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 349200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/stone/ST54-200x300.jpg",
-                                price: 2399000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 749200,
+                                shopee: "https://shopee.co.id/Karpet-ABSTRACT-200x300-cm-%E2%80%93-Karpet-Minimalis-Motif-Geometris-Ruang-Tamu-Elegan-Antislip-i.964448777.23266630010",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-abstract-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
@@ -622,17 +622,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/fine-art/FIT51-150x200.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 349200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/fine-art/FIT51-200x300.jpg",
-                                price: 2399000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 749200,
+                                shopee: "https://shopee.co.id/Karpet-ABSTRACT-200x300-cm-%E2%80%93-Karpet-Minimalis-Motif-Geometris-Ruang-Tamu-Elegan-Antislip-i.964448777.23266630010",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-abstract-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
@@ -646,17 +646,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/fine-art/FIT52-150x200.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 349200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/fine-art/FIT52-200x300.jpg",
-                                price: 2399000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 749200,
+                                shopee: "https://shopee.co.id/Karpet-ABSTRACT-200x300-cm-%E2%80%93-Karpet-Minimalis-Motif-Geometris-Ruang-Tamu-Elegan-Antislip-i.964448777.23266630010",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-abstract-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
@@ -670,17 +670,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/fine-art/FIT53-150x200.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 349200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/fine-art/FIT53-200x300.jpg",
-                                price: 2399000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 749200,
+                                shopee: "https://shopee.co.id/Karpet-ABSTRACT-200x300-cm-%E2%80%93-Karpet-Minimalis-Motif-Geometris-Ruang-Tamu-Elegan-Antislip-i.964448777.23266630010",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-abstract-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
@@ -694,17 +694,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/fine-art/FIT54-150x200.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 349200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/fine-art/FIT54-200x300.jpg",
-                                price: 2399000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 749200,
+                                shopee: "https://shopee.co.id/Karpet-ABSTRACT-200x300-cm-%E2%80%93-Karpet-Minimalis-Motif-Geometris-Ruang-Tamu-Elegan-Antislip-i.964448777.23266630010",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-abstract-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
@@ -718,17 +718,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/fine-art/FIT55-150x200.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 349200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/fine-art/FIT55-200x300.jpg",
-                                price: 2399000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 749200,
+                                shopee: "https://shopee.co.id/Karpet-ABSTRACT-200x300-cm-%E2%80%93-Karpet-Minimalis-Motif-Geometris-Ruang-Tamu-Elegan-Antislip-i.964448777.23266630010",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-abstract-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
@@ -742,17 +742,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/fine-art/FIT56-150x200.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 349200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/fine-art/FIT56-200x300.jpg",
-                                price: 2399000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 749200,
+                                shopee: "https://shopee.co.id/Karpet-ABSTRACT-200x300-cm-%E2%80%93-Karpet-Minimalis-Motif-Geometris-Ruang-Tamu-Elegan-Antislip-i.964448777.23266630010",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-abstract-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
@@ -772,17 +772,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/wood/WD51-150x200.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 349200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/wood/WD51-200x300.jpg",
-                                price: 2399000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 749200,
+                                shopee: "https://shopee.co.id/Karpet-ABSTRACT-200x300-cm-%E2%80%93-Karpet-Minimalis-Motif-Geometris-Ruang-Tamu-Elegan-Antislip-i.964448777.23266630010",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-abstract-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
@@ -796,17 +796,17 @@ const springCollectionData = [
                             {
                                 size: "150x200cm",
                                 image: "assets/catalogues/spring/wood/WD52-150x200.jpg",
-                                price: 1699000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 349200,
+                                shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
                                 tiktok: "#"
                             },
                             {
                                 size: "200x300cm",
                                 image: "assets/catalogues/spring/wood/WD52-200x300.jpg",
-                                price: 2399000,
-                                shopee: "#",
-                                tokopedia: "#",
+                                price: 749200,
+                                shopee: "https://shopee.co.id/Karpet-ABSTRACT-200x300-cm-%E2%80%93-Karpet-Minimalis-Motif-Geometris-Ruang-Tamu-Elegan-Antislip-i.964448777.23266630010",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-abstract-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
                                 tiktok: "#"
                             }
                         ]
