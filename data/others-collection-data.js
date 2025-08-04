@@ -17,7 +17,7 @@ const othersCollectionData = [
                                 price: 89000,
                                 shopee: "https://shopee.co.id/Keset-Kaki-Premium-Keset-Dapur-Kamar-Mandi-Anti-Slip-40x60-cm-Kitchen-Mats-Door-Mat-Alas-Lantai-i.964448777.26127542663?sp_atk=be179928-0754-4a4c-94fc-a93e85b05c53&xptdk=be179928-0754-4a4c-94fc-a93e85b05c53",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/keset-lantai-kamar-mandi-keset-dapur-anti-slip-40x60-cm-kitchen-mats-door-mat-alas-lantai-bathroom-depan-pintu-1730926739521963265?extParam=whid%3D15250858%26src%3Dshop&aff_unique_id=&channel=others&chain_key=",
-                                tiktok: "#"
+                                tiktok: "https://shop-id.tokopedia.com/pdp/keset-lantai-anti-slip-royal-rugs-nyaman-dan-stylish/1730926708221445377?source=product_detail&enter_from=product_detail&enter_method=feed_list_more_from"
                             }
                         ]
                     },
@@ -32,7 +32,7 @@ const othersCollectionData = [
                                 price: 89000,
                                 shopee: "https://shopee.co.id/Keset-Kaki-Premium-Keset-Dapur-Kamar-Mandi-Anti-Slip-40x60-cm-Kitchen-Mats-Door-Mat-Alas-Lantai-i.964448777.26127542663?sp_atk=be179928-0754-4a4c-94fc-a93e85b05c53&xptdk=be179928-0754-4a4c-94fc-a93e85b05c53",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/keset-lantai-kamar-mandi-keset-dapur-anti-slip-40x60-cm-kitchen-mats-door-mat-alas-lantai-bathroom-depan-pintu-1730926739521963265?extParam=whid%3D15250858%26src%3Dshop&aff_unique_id=&channel=others&chain_key=",
-                                tiktok: "#"
+                                tiktok: "https://shop-id.tokopedia.com/pdp/keset-lantai-anti-slip-royal-rugs-nyaman-dan-stylish/1730926708221445377?source=product_detail&enter_from=product_detail&enter_method=feed_list_more_from"
                             }
                         ]
                     },
@@ -47,7 +47,7 @@ const othersCollectionData = [
                                 price: 89000,
                                 shopee: "https://shopee.co.id/Keset-Kaki-Premium-Keset-Dapur-Kamar-Mandi-Anti-Slip-40x60-cm-Kitchen-Mats-Door-Mat-Alas-Lantai-i.964448777.26127542663?sp_atk=be179928-0754-4a4c-94fc-a93e85b05c53&xptdk=be179928-0754-4a4c-94fc-a93e85b05c53",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/keset-lantai-kamar-mandi-keset-dapur-anti-slip-40x60-cm-kitchen-mats-door-mat-alas-lantai-bathroom-depan-pintu-1730926739521963265?extParam=whid%3D15250858%26src%3Dshop&aff_unique_id=&channel=others&chain_key=",
-                                tiktok: "#"
+                                tiktok: "https://shop-id.tokopedia.com/pdp/keset-lantai-anti-slip-royal-rugs-nyaman-dan-stylish/1730926708221445377?source=product_detail&enter_from=product_detail&enter_method=feed_list_more_from"
                             }
                         ]
                     },
@@ -62,7 +62,7 @@ const othersCollectionData = [
                                 price: 89000,
                                 shopee: "https://shopee.co.id/Keset-Kaki-Premium-Keset-Dapur-Kamar-Mandi-Anti-Slip-40x60-cm-Kitchen-Mats-Door-Mat-Alas-Lantai-i.964448777.26127542663?sp_atk=be179928-0754-4a4c-94fc-a93e85b05c53&xptdk=be179928-0754-4a4c-94fc-a93e85b05c53",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/keset-lantai-kamar-mandi-keset-dapur-anti-slip-40x60-cm-kitchen-mats-door-mat-alas-lantai-bathroom-depan-pintu-1730926739521963265?extParam=whid%3D15250858%26src%3Dshop&aff_unique_id=&channel=others&chain_key=",
-                                tiktok: "#"
+                                tiktok: "https://shop-id.tokopedia.com/pdp/keset-lantai-anti-slip-royal-rugs-nyaman-dan-stylish/1730926708221445377?source=product_detail&enter_from=product_detail&enter_method=feed_list_more_from"
                             }
                         ]
                     },
@@ -77,7 +77,7 @@ const othersCollectionData = [
                                 price: 89000,
                                 shopee: "https://shopee.co.id/Keset-Kaki-Premium-Keset-Dapur-Kamar-Mandi-Anti-Slip-40x60-cm-Kitchen-Mats-Door-Mat-Alas-Lantai-i.964448777.26127542663?sp_atk=be179928-0754-4a4c-94fc-a93e85b05c53&xptdk=be179928-0754-4a4c-94fc-a93e85b05c53",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/keset-lantai-kamar-mandi-keset-dapur-anti-slip-40x60-cm-kitchen-mats-door-mat-alas-lantai-bathroom-depan-pintu-1730926739521963265?extParam=whid%3D15250858%26src%3Dshop&aff_unique_id=&channel=others&chain_key=",
-                                tiktok: "#"
+                                tiktok: "https://shop-id.tokopedia.com/pdp/keset-lantai-anti-slip-royal-rugs-nyaman-dan-stylish/1730926708221445377?source=product_detail&enter_from=product_detail&enter_method=feed_list_more_from"
                             }
                         ]
                     },
@@ -92,7 +92,7 @@ const othersCollectionData = [
                                 price: 89000,
                                 shopee: "https://shopee.co.id/Keset-Kaki-Premium-Keset-Dapur-Kamar-Mandi-Anti-Slip-40x60-cm-Kitchen-Mats-Door-Mat-Alas-Lantai-i.964448777.26127542663?sp_atk=be179928-0754-4a4c-94fc-a93e85b05c53&xptdk=be179928-0754-4a4c-94fc-a93e85b05c53",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/keset-lantai-kamar-mandi-keset-dapur-anti-slip-40x60-cm-kitchen-mats-door-mat-alas-lantai-bathroom-depan-pintu-1730926739521963265?extParam=whid%3D15250858%26src%3Dshop&aff_unique_id=&channel=others&chain_key=",
-                                tiktok: "#"
+                                tiktok: "https://shop-id.tokopedia.com/pdp/keset-lantai-anti-slip-royal-rugs-nyaman-dan-stylish/1730926708221445377?source=product_detail&enter_from=product_detail&enter_method=feed_list_more_from"
                             }
                         ]
                     },
@@ -107,7 +107,7 @@ const othersCollectionData = [
                                 price: 89000,
                                 shopee: "https://shopee.co.id/Keset-Kaki-Premium-Keset-Dapur-Kamar-Mandi-Anti-Slip-40x60-cm-Kitchen-Mats-Door-Mat-Alas-Lantai-i.964448777.26127542663?sp_atk=be179928-0754-4a4c-94fc-a93e85b05c53&xptdk=be179928-0754-4a4c-94fc-a93e85b05c53",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/keset-lantai-kamar-mandi-keset-dapur-anti-slip-40x60-cm-kitchen-mats-door-mat-alas-lantai-bathroom-depan-pintu-1730926739521963265?extParam=whid%3D15250858%26src%3Dshop&aff_unique_id=&channel=others&chain_key=",
-                                tiktok: "#"
+                                tiktok: "https://shop-id.tokopedia.com/pdp/keset-lantai-anti-slip-royal-rugs-nyaman-dan-stylish/1730926708221445377?source=product_detail&enter_from=product_detail&enter_method=feed_list_more_from"
                             }
                         ]
                     },
@@ -122,7 +122,7 @@ const othersCollectionData = [
                                 price: 89000,
                                 shopee: "https://shopee.co.id/Keset-Kaki-Premium-Keset-Dapur-Kamar-Mandi-Anti-Slip-40x60-cm-Kitchen-Mats-Door-Mat-Alas-Lantai-i.964448777.26127542663?sp_atk=be179928-0754-4a4c-94fc-a93e85b05c53&xptdk=be179928-0754-4a4c-94fc-a93e85b05c53",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/keset-lantai-kamar-mandi-keset-dapur-anti-slip-40x60-cm-kitchen-mats-door-mat-alas-lantai-bathroom-depan-pintu-1730926739521963265?extParam=whid%3D15250858%26src%3Dshop&aff_unique_id=&channel=others&chain_key=",
-                                tiktok: "#"
+                                tiktok: "https://shop-id.tokopedia.com/pdp/keset-lantai-anti-slip-royal-rugs-nyaman-dan-stylish/1730926708221445377?source=product_detail&enter_from=product_detail&enter_method=feed_list_more_from"
                             }
                         ]
                     },
@@ -137,7 +137,7 @@ const othersCollectionData = [
                                 price: 89000,
                                 shopee: "https://shopee.co.id/Keset-Kaki-Premium-Keset-Dapur-Kamar-Mandi-Anti-Slip-40x60-cm-Kitchen-Mats-Door-Mat-Alas-Lantai-i.964448777.26127542663?sp_atk=be179928-0754-4a4c-94fc-a93e85b05c53&xptdk=be179928-0754-4a4c-94fc-a93e85b05c53",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/keset-lantai-kamar-mandi-keset-dapur-anti-slip-40x60-cm-kitchen-mats-door-mat-alas-lantai-bathroom-depan-pintu-1730926739521963265?extParam=whid%3D15250858%26src%3Dshop&aff_unique_id=&channel=others&chain_key=",
-                                tiktok: "#"
+                                tiktok: "https://shop-id.tokopedia.com/pdp/keset-lantai-anti-slip-royal-rugs-nyaman-dan-stylish/1730926708221445377?source=product_detail&enter_from=product_detail&enter_method=feed_list_more_from"
                             }
                         ]
                     }
