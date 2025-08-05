@@ -3,7 +3,7 @@ const catalogData = [
         id: 1,
         title: "Spring Collections",
         slug: "spring-collections",
-        image: "assets/catalogues/spring.png",
+        image: "assets/catalogues/spring_3.png",
         description: "Contemporary designs with clean lines and minimalist aesthetics, perfect for modern living spaces.",
         buttonText: "View Catalogue"
     },
@@ -35,7 +35,7 @@ const catalogData = [
         id: 5,
         title: "Sajadah Collection",
         slug: "sajadah-collection",
-        image: "assets/catalogues/sajadah.jpg",
+        image: "assets/catalogues/sajadah_1.png",
         description: "Elegant and comfortable prayer rugs for your spiritual needs.",
         buttonText: "View Catalogue"
     },
