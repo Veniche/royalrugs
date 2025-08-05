@@ -1734,6 +1734,133 @@ footer {
     transition-delay: 0.2s;
 }
 
+/* Live Status Banner */
+.live-status-banner {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+    font-family: 'Public Sans', sans-serif;
+    transition: all 0.3s ease;
+    transform: translateY(120%);
+    opacity: 0;
+    max-width: 320px;
+    width: 90%;
+    pointer-events: none;
+}
+
+.live-status-banner.visible {
+    transform: translateY(0);
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.live-status-content {
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    border-radius: 12px;
+    padding: 15px 20px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
+    position: relative;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.live-status-indicator {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #e74c3c;
+    letter-spacing: 0.5px;
+}
+
+.live-pulse {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    background-color: #e74c3c;
+    border-radius: 50%;
+    margin-right: 8px;
+    position: relative;
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(0.95);
+        box-shadow: 0 0 0 0 rgba(231, 76, 60, 0.7);
+    }
+    70% {
+        transform: scale(1);
+        box-shadow: 0 0 0 6px rgba(231, 76, 60, 0);
+    }
+    100% {
+        transform: scale(0.95);
+        box-shadow: 0 0 0 0 rgba(231, 76, 60, 0);
+    }
+}
+
+.live-status-text {
+    font-size: 0.9rem;
+    color: #2c3e50;
+    margin-bottom: 10px;
+    line-height: 1.4;
+}
+
+.live-status-platforms {
+    display: flex;
+    gap: 12px;
+    margin-top: 10px;
+}
+
+.live-status-platforms a {
+    color: #2c3e50;
+    text-decoration: none;
+    transition: transform 0.2s ease, color 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    font-size: 1rem;
+}
+
+.live-status-platforms a:hover {
+    transform: translateY(-2px);
+    color: #3b82f6;
+}
+
+.live-platform-icon {
+    width: 16px;
+    height: 16px;
+    object-fit: contain;
+}
+
+.live-status-close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    color: #94a3b8;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: color 0.2s ease;
+    padding: 5px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.live-status-close:hover {
+    color: #e74c3c;
+    background: rgba(0, 0, 0, 0.03);
+}
+
 /* Responsive adjustments */
 @media (max-width: 768px) {
     .video-container {
@@ -1742,5 +1869,21 @@ footer {
     
     .video-container h3 {
         font-size: 1.5rem;
+    }
+    
+    .live-status-banner {
+        bottom: 15px;
+        right: 15px;
+        left: 15px;
+        max-width: none;
+        width: auto;
+    }
+    
+    .live-status-content {
+        padding: 12px 15px;
+    }
+    
+    .live-status-text {
+        font-size: 0.85rem;
     }
 }
