@@ -207,7 +207,7 @@ const othersCollectionData = [
                         id: "ot-201",
                         title: "Gift Voucher 100K",
                         description: "",
-                        image: "assets/catalogues/gift-voucher/GV_100K.jpeg",
+                        image: "assets/catalogues/others/gift-voucher/GV_100K.jpeg",
                         sizes: [
                             {
                                 size: "100K",
@@ -222,7 +222,7 @@ const othersCollectionData = [
                         id: "ot-202",
                         title: "Gift Voucher 500K",
                         description: "",
-                        image: "assets/catalogues/gift-voucher/GV_500K.jpg",
+                        image: "assets/catalogues/others/gift-voucher/GV_500K.jpg",
                         sizes: [
                             {
                                 size: "500K",
@@ -237,7 +237,7 @@ const othersCollectionData = [
                         id: "ot-203",
                         title: "Gift Voucher 1 Juta",
                         description: "",
-                        image: "assets/catalogues/gift-voucher/GV_1JUTA.jpg",
+                        image: "assets/catalogues/others/gift-voucher/GV_1JUTA.jpg",
                         sizes: [
                             {
                                 size: "1 Juta",

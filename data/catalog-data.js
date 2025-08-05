@@ -35,7 +35,7 @@ const catalogData = [
         id: 5,
         title: "Sajadah Collection",
         slug: "sajadah-collection",
-        image: "assets/catalogues/sajadah.png",
+        image: "assets/catalogues/sajadah.jpg",
         description: "Elegant and comfortable prayer rugs for your spiritual needs.",
         buttonText: "View Catalogue"
     },

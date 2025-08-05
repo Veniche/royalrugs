@@ -14,7 +14,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/persian/AR51-150x200.jpg",
+                                image: "assets/catalogues/spring/persian/AR51-150x200_1.png",
                                 price: 399200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-Aesthetic-PERSIAN-150x200-cm-Permadani-Ruang-Tamu-Halus-Anti-Slip-Carpet-Tebal-Turki-i.964448777.17397368160",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-persian-anti-slip-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -34,11 +34,11 @@ const springCollectionData = [
                         id: "sp-002",
                         title: "AR52 - PATTERN LINE",
                         description: "Light beige with subtle texture, perfect for brightening up your living space.",
-                        image: "assets/catalogues/spring/persian/AR52-150x200.jpg",
+                        image: "assets/catalogues/spring/persian/AR52-150x200_1.png",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/persian/AR52-150x200.jpg",
+                                image: "assets/catalogues/spring/persian/AR52-150x200_1.png",
                                 price: 399200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-Aesthetic-PERSIAN-150x200-cm-Permadani-Ruang-Tamu-Halus-Anti-Slip-Carpet-Tebal-Turki-i.964448777.17397368160",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-persian-anti-slip-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -62,7 +62,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/persian/AR53-150x200.jpg",
+                                image: "assets/catalogues/spring/persian/AR53-150x200_1.png",
                                 price: 399200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-Aesthetic-PERSIAN-150x200-cm-Permadani-Ruang-Tamu-Halus-Anti-Slip-Carpet-Tebal-Turki-i.964448777.17397368160",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-persian-anti-slip-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -82,11 +82,11 @@ const springCollectionData = [
                         id: "sp-004",
                         title: "AR54 - RED FLOWER",
                         description: "Soft gray tones with a subtle linear pattern for a modern, sophisticated look.",
-                        image: "assets/catalogues/spring/persian/AR54-150x200.jpg",
+                        image: "assets/catalogues/spring/persian/AR54-150x200_1.png",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/persian/AR54-150x200.jpg",
+                                image: "assets/catalogues/spring/persian/AR54-150x200_1.png",
                                 price: 399200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-Aesthetic-PERSIAN-150x200-cm-Permadani-Ruang-Tamu-Halus-Anti-Slip-Carpet-Tebal-Turki-i.964448777.17397368160",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-persian-anti-slip-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -110,7 +110,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/persian/AR55-150x200.jpg",
+                                image: "assets/catalogues/spring/persian/AR55-150x200_1.png",
                                 price: 399200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-Aesthetic-PERSIAN-150x200-cm-Permadani-Ruang-Tamu-Halus-Anti-Slip-Carpet-Tebal-Turki-i.964448777.17397368160",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-persian-anti-slip-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -130,11 +130,11 @@ const springCollectionData = [
                         id: "sp-006",
                         title: "AR56 - VALENCIA ART",
                         description: "Textured gray with subtle variations, inspired by modern architectural elements.",
-                        image: "assets/catalogues/spring/persian/AR56-150x200.jpg",
+                        image: "assets/catalogues/spring/persian/AR56-150x200_1.png",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/persian/AR56-150x200.jpg",
+                                image: "assets/catalogues/spring/persian/AR56-150x200_1.png",
                                 price: 399200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-Aesthetic-PERSIAN-150x200-cm-Permadani-Ruang-Tamu-Halus-Anti-Slip-Carpet-Tebal-Turki-i.964448777.17397368160",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-persian-anti-slip-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -158,7 +158,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/persian/AR57-150x200.jpg",
+                                image: "assets/catalogues/spring/persian/AR57-150x200_1.png",
                                 price: 399200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-Aesthetic-PERSIAN-150x200-cm-Permadani-Ruang-Tamu-Halus-Anti-Slip-Carpet-Tebal-Turki-i.964448777.17397368160",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-persian-anti-slip-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -178,11 +178,11 @@ const springCollectionData = [
                         id: "sp-008",
                         title: "AR58 - MARBLE",
                         description: "Pale mint green with a soft, frosted finish for a refreshing spring feel.",
-                        image: "assets/catalogues/spring/persian/AR58-150x200.jpg",
+                        image: "assets/catalogues/spring/persian/AR58-150x200_1.png",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/persian/AR58-150x200.jpg",
+                                image: "assets/catalogues/spring/persian/AR58-150x200_1.png",
                                 price: 399200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-Aesthetic-PERSIAN-150x200-cm-Permadani-Ruang-Tamu-Halus-Anti-Slip-Carpet-Tebal-Turki-i.964448777.17397368160",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-persian-anti-slip-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -208,11 +208,11 @@ const springCollectionData = [
                         id: "sp-101",
                         title: "AB51 - FADING",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
-                        image: "assets/catalogues/spring/abstract/AB51-150x200.jpg",
+                        image: "assets/catalogues/spring/abstract/AB51-150x200_1.jpeg",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/abstract/AB51-150x200.jpg",
+                                image: "assets/catalogues/spring/abstract/AB51-150x200_1.jpeg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -236,7 +236,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/abstract/AB52-150x200.jpg",
+                                image: "assets/catalogues/spring/abstract/AB52-150x200_1.jpeg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -256,11 +256,11 @@ const springCollectionData = [
                         id: "sp-103",
                         title: "AB53 - CONCRETE BRICK",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
-                        image: "assets/catalogues/spring/abstract/AB53-150x200.jpg",
+                        image: "assets/catalogues/spring/abstract/AB53-150x200_1.jpeg",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/abstract/AB53-150x200.jpg",
+                                image: "assets/catalogues/spring/abstract/AB53-150x200_1.jpeg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -284,7 +284,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/abstract/AB54-150x200.jpg",
+                                image: "assets/catalogues/spring/abstract/AB54-150x200_1.jpeg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -304,11 +304,11 @@ const springCollectionData = [
                         id: "sp-105",
                         title: "AB55 - ROUNDWAVE",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
-                        image: "assets/catalogues/spring/abstract/AB55-150x200.jpg",
+                        image: "assets/catalogues/spring/abstract/AB55-150x200_1.jpeg",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/abstract/AB55-150x200.jpg",
+                                image: "assets/catalogues/spring/abstract/AB55-150x200_1.jpeg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -332,7 +332,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/abstract/AB56-150x200.jpg",
+                                image: "assets/catalogues/spring/abstract/AB56-150x200_1.jpeg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -352,11 +352,11 @@ const springCollectionData = [
                         id: "sp-107",
                         title: "AB57 - CLOUDY",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
-                        image: "assets/catalogues/spring/abstract/AB57-150x200.jpg",
+                        image: "assets/catalogues/spring/abstract/AB57-150x200_1.jpeg",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/abstract/AB57-150x200.jpg",
+                                image: "assets/catalogues/spring/abstract/AB57-150x200_1.jpeg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -380,7 +380,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/abstract/AB58-150x200.jpg",
+                                image: "assets/catalogues/spring/abstract/AB58-150x200_1.jpeg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -512,7 +512,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/stone/ST51-150x200.jpg",
+                                image: "assets/catalogues/spring/stone/ST51-150x200_1.png",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -532,11 +532,11 @@ const springCollectionData = [
                         id: "sp-302",
                         title: "ST52 - BLUE SAPHIRE",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
-                        image: "assets/catalogues/spring/stone/ST52-150x200.jpg",
+                        image: "assets/catalogues/spring/stone/ST52-150x200_1.png",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/stone/ST52-150x200.jpg",
+                                image: "assets/catalogues/spring/stone/ST52-150x200_1.png",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -560,7 +560,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/stone/ST53-150x200.jpg",
+                                image: "assets/catalogues/spring/stone/ST53-150x200_1.png",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -580,11 +580,11 @@ const springCollectionData = [
                         id: "sp-304",
                         title: "ST54 - MYSTIQUE",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
-                        image: "assets/catalogues/spring/stone/ST54-150x200.jpg",
+                        image: "assets/catalogues/spring/stone/ST54-150x200_1.png",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/stone/ST54-150x200.jpg",
+                                image: "assets/catalogues/spring/stone/ST54-150x200_1.png",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -610,11 +610,11 @@ const springCollectionData = [
                         id: "sp-401",
                         title: "FIT51 - TRIANGLE",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
-                        image: "assets/catalogues/spring/fine-art/FIT51-150x200.jpg",
+                        image: "assets/catalogues/spring/fine-art/FIT51-150x200_1.png",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/fine-art/FIT51-150x200.jpg",
+                                image: "assets/catalogues/spring/fine-art/FIT51-150x200_1.png",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -638,7 +638,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/fine-art/FIT52-150x200.jpg",
+                                image: "assets/catalogues/spring/fine-art/FIT52-150x200_1.png",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -658,11 +658,11 @@ const springCollectionData = [
                         id: "sp-403",
                         title: "FIT53 - MELODY",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
-                        image: "assets/catalogues/spring/fine-art/FIT53-150x200.jpg",
+                        image: "assets/catalogues/spring/fine-art/FIT53-150x200_1.png",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/fine-art/FIT53-150x200.jpg",
+                                image: "assets/catalogues/spring/fine-art/FIT53-150x200_1.png",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -686,7 +686,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/fine-art/FIT54-150x200.jpg",
+                                image: "assets/catalogues/spring/fine-art/FIT54-150x200_1.png",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -706,11 +706,11 @@ const springCollectionData = [
                         id: "sp-405",
                         title: "FIT55 - SCALLOP",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
-                        image: "assets/catalogues/spring/fine-art/FIT55-150x200.jpg",
+                        image: "assets/catalogues/spring/fine-art/FIT55-150x200_1.png",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/fine-art/FIT55-150x200.jpg",
+                                image: "assets/catalogues/spring/fine-art/FIT55-150x200_1.png",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -734,7 +734,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/fine-art/FIT56-150x200.jpg",
+                                image: "assets/catalogues/spring/fine-art/FIT56-150x200_1.png",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -764,7 +764,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/wood/WD51-150x200.jpg",
+                                image: "assets/catalogues/spring/wood/WD51-150x200_1.png",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -784,11 +784,11 @@ const springCollectionData = [
                         id: "sp-502",
                         title: "WD52 - LIGHTY BROWN",
                         description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
-                        image: "assets/catalogues/spring/wood/WD52-150x200.jpg",
+                        image: "assets/catalogues/spring/wood/WD52-150x200_1.png",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/wood/WD52-150x200.jpg",
+                                image: "assets/catalogues/spring/wood/WD52-150x200_1.png",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
