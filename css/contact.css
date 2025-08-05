@@ -8,6 +8,7 @@
     display: flex;
     min-height: calc(100vh - 100px);
     width: 100%;
+    margin-top: 80px; /* Add margin to push it below the navbar */
 }
 
 .contact-image {

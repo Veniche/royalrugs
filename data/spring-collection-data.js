@@ -776,7 +776,7 @@ const springCollectionData = [
                                 price: 749200,
                                 shopee: "https://shopee.co.id/Karpet-ABSTRACT-200x300-cm-%E2%80%93-Karpet-Minimalis-Motif-Geometris-Ruang-Tamu-Elegan-Antislip-i.964448777.23266630010",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-abstract-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
-                                tiktok: "#"
+                                tiktok: "https://shop-id.tokopedia.com/view/product/1731296629153760513?encode_params=MIIBpgQM2LwC7yDTWChMp5e6BIIBgoAyS-vPfK4BqvPJHcdankQ7jGty62b2us6fDToyDyE25GuSj1oqmi7uw_WFhQLtqrqPEw8dxkufTxpz-547XIh6XJHhy9yp24Gd1n4vz2hOHd6qDokHmDaN6XzlMM38qyRYXJpgxuM3UL-qlez1N0Nq7BSkscXZ7FGuLWCOIZ8Te4MP3vs9yEBXp3moH_XcXKspik-Hs9f3-e4mbYyOKcodS1DxFPQyBLbwSvtvwGxxEnql9l7yZODVEMnKd_sUgkOkdkbQ9QhIC2ydvrAINuK4V9tp6Bk_i87KnrQj6gkPk4uzXaW5uiC7I29B_XZ6IbODLZSH5fI-bJjMqKdaq3AmjQddEUTdG7x9B0mUFf3g6zaTDNEFD6zISTghIj_6wlQYtV6Cm68ub85Ax07DEEAkJrz56OCSG9Lkn9O9CTPvppq4OKDq3kp0z0yOZm73eMB73HA02WvwAtbyxKUxnj7j2SVONdQR08cKEuUGQv-8_xPCAtlvm6NWTsRhkHaMwsyJBBA5TOqgRjiJrMJsVm0CorKv&region=ID&locale=id-ID&source=seller_center&hide_tips=&no-cache=1&e=1"
                             }
                         ]
                     },
@@ -800,7 +800,7 @@ const springCollectionData = [
                                 price: 749200,
                                 shopee: "https://shopee.co.id/Karpet-ABSTRACT-200x300-cm-%E2%80%93-Karpet-Minimalis-Motif-Geometris-Ruang-Tamu-Elegan-Antislip-i.964448777.23266630010",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-200x300-cm-untuk-ruang-tamu-lebar-bulu-tebal-abstract-carpet-permadani-turki-anti-slip-ukuran-besar-jumbo-1729642440162969857",
-                                tiktok: "#"
+                                tiktok: "https://shop-id.tokopedia.com/view/product/1731296629153760513?encode_params=MIIBpgQM2LwC7yDTWChMp5e6BIIBgoAyS-vPfK4BqvPJHcdankQ7jGty62b2us6fDToyDyE25GuSj1oqmi7uw_WFhQLtqrqPEw8dxkufTxpz-547XIh6XJHhy9yp24Gd1n4vz2hOHd6qDokHmDaN6XzlMM38qyRYXJpgxuM3UL-qlez1N0Nq7BSkscXZ7FGuLWCOIZ8Te4MP3vs9yEBXp3moH_XcXKspik-Hs9f3-e4mbYyOKcodS1DxFPQyBLbwSvtvwGxxEnql9l7yZODVEMnKd_sUgkOkdkbQ9QhIC2ydvrAINuK4V9tp6Bk_i87KnrQj6gkPk4uzXaW5uiC7I29B_XZ6IbODLZSH5fI-bJjMqKdaq3AmjQddEUTdG7x9B0mUFf3g6zaTDNEFD6zISTghIj_6wlQYtV6Cm68ub85Ax07DEEAkJrz56OCSG9Lkn9O9CTPvppq4OKDq3kp0z0yOZm73eMB73HA02WvwAtbyxKUxnj7j2SVONdQR08cKEuUGQv-8_xPCAtlvm6NWTsRhkHaMwsyJBBA5TOqgRjiJrMJsVm0CorKv&region=ID&locale=id-ID&source=seller_center&hide_tips=&no-cache=1&e=1"
                             }
                         ]
                     }

@@ -45,6 +45,6 @@ const catalogData = [
         slug: "others",
         image: "assets/catalogues/grass.png",
         description: "Exciting new designs coming soon. Stay tuned for our latest catalogue.",
-        buttonText: "Coming Soon"
+        buttonText: "View Catalogue"
     }
 ];
