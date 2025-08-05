@@ -168,6 +168,19 @@ header {
 
 /* Mobile menu styles */
 @media (max-width: 992px) {
+    /* Hero carousel adjustments for mobile */
+    .hero-carousel {
+        height: 40vh;
+        min-height: 400px;
+    }
+    
+    .carousel-item img {
+        object-fit: contain;
+        object-position: center;
+        max-width: 100%;
+        height: auto;
+    }
+    
     .menu-toggle {
         display: block;
     }
