@@ -9,7 +9,7 @@ const shaggyCollectionData = [
                     {
                         id: "sh-001",
                         title: "Silver Gray",
-                        description: "Ultra-soft shaggy rug that's perfect for kids to play on.",
+                        description: "Experience the ultimate in plush comfort with our Silver Gray Shaggy Rug. Each fiber is crafted from premium, ultra-soft microfiber that's gentle on sensitive skin, making it perfect for children's play areas and cozy bedroom corners. The elegant silver-gray hue complements any modern decor scheme, from minimalist to contemporary. The high-density pile provides exceptional cushioning underfoot, creating a warm and inviting atmosphere in any room. This rug is not only beautiful but also practical, featuring a non-slip backing for safety and durability that stands up to daily use.",
                         image: "assets/catalogues/shaggy/silver_gray-150x200.png",
                         sizes: [
                             {
@@ -41,7 +41,7 @@ const shaggyCollectionData = [
                     {
                         id: "sh-002",
                         title: "Ivory",
-                        description: "Colorful shaggy rug that sparks imagination.",
+                        description: "Transform your space with the timeless elegance of our Ivory Shaggy Rug. The sumptuous high-pile design offers a cloud-like walking experience, perfect for barefoot comfort. The creamy ivory shade creates a bright, airy atmosphere while serving as a versatile neutral base for any color scheme. Made from hypoallergenic microfiber, this rug is gentle on sensitive skin and ideal for family homes. The dense construction provides excellent sound absorption, making it perfect for apartments and multi-level homes. Resistant to shedding and easy to maintain, this rug combines beauty with practical functionality.",
                         image: "assets/catalogues/shaggy/ivory-150x200.png",
                         sizes: [
                             {
@@ -73,7 +73,7 @@ const shaggyCollectionData = [
                     {
                         id: "sh-003",
                         title: "Dark Gold",
-                        description: "Colorful shaggy rug that sparks imagination.",
+                        description: "Make a bold statement with our Dark Gold Shaggy Rug, a luxurious addition that brings warmth and sophistication to any space. The rich, golden-brown fibers create a stunning visual depth that changes with the light, adding dynamic interest to your decor. Crafted from premium synthetic fibers, this rug offers exceptional softness underfoot while maintaining its plush appearance over time. The deep pile provides excellent insulation, making it perfect for colder months. The elegant gold hue pairs beautifully with neutral tones or serves as a striking contrast to darker color schemes. This rug is not only a visual centerpiece but also highly functional, with a durable construction that resists matting and crushing.",
                         image: "assets/catalogues/shaggy/dark_gold-150x200.png",
                         sizes: [
                             {
@@ -105,7 +105,7 @@ const shaggyCollectionData = [
                     {
                         id: "sh-004",
                         title: "Soft Blue",
-                        description: "Colorful shaggy rug that sparks imagination.",
+                        description: "Create a serene oasis with our Soft Blue Shaggy Rug, featuring a calming blue hue that brings a sense of tranquility to any space. The plush, high-pile design provides a cloud-like softness underfoot, making it perfect for bedrooms, nurseries, or meditation spaces. The subtle blue tones evoke the peacefulness of a clear sky, creating a relaxing atmosphere that helps reduce stress. Made from premium, eco-friendly fibers, this rug is not only incredibly soft but also durable and easy to clean. The even pile height and dense construction ensure even wear and long-lasting beauty. Whether used as a focal point or to complement your existing decor, this rug adds a touch of coastal-inspired elegance to your home.",
                         image: "assets/catalogues/shaggy/soft_blue-150x200.png",
                         sizes: [
                             {
@@ -137,7 +137,7 @@ const shaggyCollectionData = [
                     {
                         id: "sh-005",
                         title: "Ruby Red",
-                        description: "Colorful shaggy rug that sparks imagination.",
+                        description: "Make a bold statement with our Ruby Red Shaggy Rug, a vibrant centerpiece that adds warmth and energy to any room. The deep, rich red hue creates a sense of luxury and sophistication, perfect for making a dramatic impact in living rooms or dining areas. The extra-plush pile provides exceptional comfort underfoot, making it ideal for areas where you love to relax and unwind. Crafted from premium synthetic fibers, this rug is both durable and easy to maintain, resisting stains and shedding. The non-slip backing ensures safety on all floor types, while the lush texture adds depth and dimension to your space. This rug is more than just a floor covering—it's a statement piece that elevates your home's aesthetic with its bold color and sumptuous feel.",
                         image: "assets/catalogues/shaggy/ruby_red-150x200.png",
                         sizes: [
                             {

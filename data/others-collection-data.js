@@ -4,12 +4,12 @@ const othersCollectionData = [
         categories: [
             {
                 title: "Keset Lantai",
-                description: "Limited edition and special collection rugs",
+                description: "Premium doormats and floor mats designed for both functionality and style. Our collection features high-quality, anti-slip mats perfect for entrances, kitchens, and bathrooms, combining practical use with elegant designs.",
                 products: [
                     {
                         id: "ot-001",
                         title: "DM1",
-                        description: "Exclusive hand-knotted rug with intricate patterns and premium materials.",
+                        description: "Elegant and durable doormat featuring a sophisticated geometric pattern. Made with high-quality, weather-resistant materials that trap dirt and moisture, keeping your floors clean while adding a touch of style to your entrance.",
                         image: "assets/catalogues/others/keset-lantai/DM1.jpeg",
                         sizes: [
                             {
@@ -24,7 +24,7 @@ const othersCollectionData = [
                     {
                         id: "ot-002",
                         title: "DM2",
-                        description: "Handcrafted by master artisans using traditional techniques.",
+                        description: "Premium doormat with a classic striped design, offering both functionality and visual appeal. The durable construction ensures long-lasting performance while the textured surface effectively removes dirt and debris from shoes.",
                         image: "assets/catalogues/others/keset-lantai/DM2.jpeg",
                         sizes: [
                             {
@@ -39,7 +39,7 @@ const othersCollectionData = [
                     {
                         id: "ot-003",
                         title: "DM3",
-                        description: "Handcrafted by master artisans using traditional techniques.",
+                        description: "Premium doormat with a classic striped design, offering both functionality and visual appeal. The durable construction ensures long-lasting performance while the textured surface effectively removes dirt and debris from shoes.",
                         image: "assets/catalogues/others/keset-lantai/DM3.jpeg",
                         sizes: [
                             {
@@ -54,7 +54,7 @@ const othersCollectionData = [
                     {
                         id: "ot-004",
                         title: "DM4",
-                        description: "Handcrafted by master artisans using traditional techniques.",
+                        description: "Premium doormat with a classic striped design, offering both functionality and visual appeal. The durable construction ensures long-lasting performance while the textured surface effectively removes dirt and debris from shoes.",
                         image: "assets/catalogues/others/keset-lantai/DM4.jpeg",
                         sizes: [
                             {
@@ -69,7 +69,7 @@ const othersCollectionData = [
                     {
                         id: "ot-005",
                         title: "DM5",
-                        description: "Handcrafted by master artisans using traditional techniques.",
+                        description: "Premium doormat with a classic striped design, offering both functionality and visual appeal. The durable construction ensures long-lasting performance while the textured surface effectively removes dirt and debris from shoes.",
                         image: "assets/catalogues/others/keset-lantai/DM5.jpeg",
                         sizes: [
                             {
@@ -84,7 +84,7 @@ const othersCollectionData = [
                     {
                         id: "ot-007",
                         title: "DM7",
-                        description: "Handcrafted by master artisans using traditional techniques.",
+                        description: "Premium doormat with a classic striped design, offering both functionality and visual appeal. The durable construction ensures long-lasting performance while the textured surface effectively removes dirt and debris from shoes.",
                         image: "assets/catalogues/others/keset-lantai/DM7.jpeg",
                         sizes: [
                             {
@@ -99,7 +99,7 @@ const othersCollectionData = [
                     {
                         id: "ot-008",
                         title: "DM8",
-                        description: "Handcrafted by master artisans using traditional techniques.",
+                        description: "Premium doormat with a classic striped design, offering both functionality and visual appeal. The durable construction ensures long-lasting performance while the textured surface effectively removes dirt and debris from shoes.",
                         image: "assets/catalogues/others/keset-lantai/DM8.jpeg",
                         sizes: [
                             {
@@ -114,7 +114,7 @@ const othersCollectionData = [
                     {
                         id: "ot-009",
                         title: "DM9",
-                        description: "Handcrafted by master artisans using traditional techniques.",
+                        description: "Premium doormat with a classic striped design, offering both functionality and visual appeal. The durable construction ensures long-lasting performance while the textured surface effectively removes dirt and debris from shoes.",
                         image: "assets/catalogues/others/keset-lantai/DM9.jpeg",
                         sizes: [
                             {
@@ -129,7 +129,7 @@ const othersCollectionData = [
                     {
                         id: "ot-010",
                         title: "DM10",
-                        description: "Handcrafted by master artisans using traditional techniques.",
+                        description: "Premium doormat with a classic striped design, offering both functionality and visual appeal. The durable construction ensures long-lasting performance while the textured surface effectively removes dirt and debris from shoes.",
                         image: "assets/catalogues/others/keset-lantai/DM10.jpeg",
                         sizes: [
                             {
@@ -145,12 +145,12 @@ const othersCollectionData = [
             },
             {
                 title: "Grass",
-                description: "Handcrafted by master artisans using traditional techniques.",
+                description: "Lush, realistic artificial grass perfect for both indoor and outdoor spaces. Our premium synthetic turf offers the beauty of natural grass without the maintenance, creating a vibrant green space that stays perfect year-round.",
                 products: [
                     {
                         id: "ot-101",
                         title: "Grass",
-                        description: "Handcrafted by master artisans using traditional techniques.",
+                        description: "Transform any space with our premium synthetic grass, offering a lush, natural look without the maintenance. This high-quality artificial turf features realistic texture and vibrant green color, perfect for balconies, patios, or indoor play areas. UV-resistant and weatherproof for year-round beauty.",
                         image: "assets/catalogues/others/grass/grass.jpeg",
                         sizes: [
                             {
@@ -201,12 +201,12 @@ const othersCollectionData = [
             },
             {
                 title: "Gift Voucher",
-                description: "",
+                description: "The perfect gift for rug lovers and home decor enthusiasts. Our gift vouchers allow your loved ones to choose their favorite rug from our premium collection, making every occasion special. Whether it's a housewarming, anniversary, or just because, give the gift of beautiful home decor.",
                 products: [
                     {
                         id: "ot-201",
                         title: "Gift Voucher 100K",
-                        description: "",
+                        description: "A Rp100,000 gift voucher that can be redeemed against any product in our collection. Perfect for showing appreciation or celebrating special occasions with the gift of beautiful home decor. Let your loved ones choose their perfect rug or home accessory.",
                         image: "assets/catalogues/others/gift-voucher/GV_100K.jpeg",
                         sizes: [
                             {
@@ -221,7 +221,7 @@ const othersCollectionData = [
                     {
                         id: "ot-202",
                         title: "Gift Voucher 500K",
-                        description: "",
+                        description: "A generous Rp500,000 gift voucher for those who appreciate quality home furnishings. This voucher can be used towards any item in our collection, making it an ideal gift for housewarmings, weddings, or as a special treat for interior design enthusiasts.",
                         image: "assets/catalogues/others/gift-voucher/GV_500K.jpg",
                         sizes: [
                             {
@@ -236,7 +236,7 @@ const othersCollectionData = [
                     {
                         id: "ot-203",
                         title: "Gift Voucher 1 Juta",
-                        description: "",
+                        description: "Our premium Rp1,000,000 gift voucher offers the ultimate flexibility in home decor shopping. Perfect for significant occasions, this voucher allows the recipient to select from our finest rugs and home accessories, ensuring they find something that perfectly matches their style and space.",
                         image: "assets/catalogues/others/gift-voucher/GV_1JUTA.jpg",
                         sizes: [
                             {

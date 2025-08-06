@@ -4,12 +4,12 @@ const springCollectionData = [
         categories: [
             {
                 title: "Persian Collection",
-                description: "Clean lines and subtle patterns for contemporary spaces",
+                description: "Timeless elegance meets modern sophistication in our Persian Collection. Each piece is a masterpiece of intricate patterns and luxurious textures, handcrafted to bring an air of regal charm to any space. The perfect harmony of traditional artistry and contemporary design.",
                 products: [
                     {
                         id: "sp-001",
                         title: "AR51 - RECTANGLE",
-                        description: "Soft pastel tones with geometric patterns that bring a calm, airy feel to any room.",
+                        description: "A symphony of precision and grace, the RECTANGLE design features a mesmerizing geometric lattice that draws the eye with its perfect symmetry. The soft pastel palette whispers sophistication, creating a serene oasis of tranquility in any setting.",
                         image: "assets/catalogues/spring/persian/AR51-200x300.jpg",
                         sizes: [
                             {
@@ -33,7 +33,7 @@ const springCollectionData = [
                     {
                         id: "sp-002",
                         title: "AR52 - PATTERN LINE",
-                        description: "Light beige with subtle texture, perfect for brightening up your living space.",
+                        description: "Elegance flows through every thread of the PATTERN LINE, where delicate linear motifs dance across a canvas of warm beige. The subtle texture adds depth and dimension, creating a refined foundation that elevates any interior with understated luxury.",
                         image: "assets/catalogues/spring/persian/AR52-150x200_1.png",
                         sizes: [
                             {
@@ -57,7 +57,7 @@ const springCollectionData = [
                     {
                         id: "sp-003",
                         title: "AR53 - LINE ART",
-                        description: "Crisp white with subtle gray accents, creating a serene and spacious feel.",
+                        description: "A study in minimalist sophistication, LINE ART presents a breathtaking composition of crisp white space accented by delicate gray brushstrokes. This design transforms any room into a gallery-worthy space, where light and shadow play in perfect harmony.",
                         image: "assets/catalogues/spring/persian/AR53-200x300.jpg",
                         sizes: [
                             {
@@ -81,7 +81,7 @@ const springCollectionData = [
                     {
                         id: "sp-004",
                         title: "AR54 - RED FLOWER",
-                        description: "Soft gray tones with a subtle linear pattern for a modern, sophisticated look.",
+                        description: "A bold statement of passion and grace, RED FLOWER showcases an exquisite floral motif in rich crimson against a refined gray backdrop. The intricate details bloom with artistic precision, creating a captivating focal point that commands attention.",
                         image: "assets/catalogues/spring/persian/AR54-150x200_1.png",
                         sizes: [
                             {
@@ -105,7 +105,7 @@ const springCollectionData = [
                     {
                         id: "sp-005",
                         title: "AR55 - GEOMETRIC",
-                        description: "Pale blue-gray with a soft, cloud-like texture for a calming atmosphere.",
+                        description: "Where mathematics meets artistry, GEOMETRIC presents a stunning interplay of angular precision and soft blue-gray hues. The cloud-like texture adds a touch of ethereal softness, creating a space that is both intellectually stimulating and profoundly calming.",
                         image: "assets/catalogues/spring/persian/AR55-200x300.jpg",
                         sizes: [
                             {
@@ -129,7 +129,7 @@ const springCollectionData = [
                     {
                         id: "sp-006",
                         title: "AR56 - VALENCIA ART",
-                        description: "Textured gray with subtle variations, inspired by modern architectural elements.",
+                        description: "Inspired by the architectural wonders of Valencia, this piece weaves together textured grays in a masterful composition that captures the essence of modern design. The subtle variations in tone create a dynamic surface that shifts beautifully with the light.",
                         image: "assets/catalogues/spring/persian/AR56-150x200_1.png",
                         sizes: [
                             {
@@ -153,7 +153,7 @@ const springCollectionData = [
                     {
                         id: "sp-007",
                         title: "AR57 - INK SPOT",
-                        description: "Natural beige with a subtle linen texture for an organic, minimalist look.",
+                        description: "A poetic expression of negative space, INK SPOT features artful splashes of darkness on a natural beige canvas. The subtle linen texture adds warmth and character, creating a piece that is both bold in statement and soothing in its organic minimalism.",
                         image: "assets/catalogues/spring/persian/AR57-200x300.jpg",
                         sizes: [
                             {
@@ -177,7 +177,7 @@ const springCollectionData = [
                     {
                         id: "sp-008",
                         title: "AR58 - MARBLE",
-                        description: "Pale mint green with a soft, frosted finish for a refreshing spring feel.",
+                        description: "Evoking the timeless beauty of veined marble, this design in pale mint green features a soft, frosted finish that captures the essence of spring's first breath. The organic patterns flow like gentle ripples on water, creating a sense of movement and tranquility.",
                         image: "assets/catalogues/spring/persian/AR58-150x200_1.png",
                         sizes: [
                             {
@@ -202,12 +202,12 @@ const springCollectionData = [
             },
             {
                 title: "Abstract Collection",
-                description: "Vibrant colors and eclectic patterns for a lively atmosphere",
+                description: "A celebration of artistic expression, our Abstract Collection transforms floors into canvases of modern artistry. Each piece is a bold statement of color, form, and movement, designed to ignite imagination and spark conversation in any living space. These rugs are not just floor coverings—they're conversation-starting masterpieces.",
                 products: [
                     {
                         id: "sp-101",
                         title: "AB51 - FADING",
-                        description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
+                        description: "A mesmerizing gradient of warm terracotta that seems to shift and flow like a desert sunset, FADING creates an organic, ever-changing landscape underfoot. The intricate patterns whisper of ancient Moroccan artistry while maintaining a thoroughly contemporary aesthetic, perfect for adding warmth and depth to modern interiors.",
                         image: "assets/catalogues/spring/abstract/AB51-150x200_1.jpeg",
                         sizes: [
                             {
@@ -231,7 +231,7 @@ const springCollectionData = [
                     {
                         id: "sp-102",
                         title: "AB52 - CRUMPLE TAPE",
-                        description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
+                        description: "Bold geometric lines intersect and overlap in CRUMPLE TAPE, creating a dynamic visual rhythm that energizes any space. The rich terracotta palette is balanced by subtle neutral tones, resulting in a design that's both striking and sophisticated—a true testament to modern abstract expressionism.",
                         image: "assets/catalogues/spring/abstract/AB52-200x300.jpg",
                         sizes: [
                             {
@@ -255,7 +255,7 @@ const springCollectionData = [
                     {
                         id: "sp-103",
                         title: "AB53 - CONCRETE BRICK",
-                        description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
+                        description: "A striking urban-inspired design, CONCRETE BRICK features a bold geometric pattern that mimics the texture of weathered city walls. The warm terracotta tones are beautifully balanced by subtle variations in shade, creating a dynamic interplay of light and shadow that adds depth and character to any modern space.",
                         image: "assets/catalogues/spring/abstract/AB53-150x200_1.jpeg",
                         sizes: [
                             {
@@ -279,7 +279,7 @@ const springCollectionData = [
                     {
                         id: "sp-104",
                         title: "AB54 - BLUE HASTAG",
-                        description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
+                        description: "A contemporary masterpiece, BLUE HASTAG weaves together intersecting lines in a vibrant blue palette that commands attention. The hashtag-inspired pattern creates a modern, graphic statement, while the rich terracotta undertones add warmth and balance to this bold, eye-catching design.",
                         image: "assets/catalogues/spring/abstract/AB54-200x300.jpg",
                         sizes: [
                             {
@@ -303,7 +303,7 @@ const springCollectionData = [
                     {
                         id: "sp-105",
                         title: "AB55 - ROUNDWAVE",
-                        description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
+                        description: "Fluid, concentric circles in ROUNDWAVE create a mesmerizing optical effect, drawing the eye inward in a dance of color and form. The warm terracotta base is enlivened by subtle tonal variations, resulting in a design that's both dynamic and harmonious—perfect for adding movement to contemporary spaces.",
                         image: "assets/catalogues/spring/abstract/AB55-150x200_1.jpeg",
                         sizes: [
                             {
@@ -327,7 +327,7 @@ const springCollectionData = [
                     {
                         id: "sp-106",
                         title: "AB56 - CHAMELEON",
-                        description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
+                        description: "Like its namesake, CHAMELEON transforms with the light, revealing different facets of its complex personality. The intricate pattern features a sophisticated blend of organic and geometric elements in a rich terracotta palette, creating a rug that's as versatile as it is visually captivating.",
                         image: "assets/catalogues/spring/abstract/AB56-200x300.jpg",
                         sizes: [
                             {
@@ -351,7 +351,7 @@ const springCollectionData = [
                     {
                         id: "sp-107",
                         title: "AB57 - CLOUDY",
-                        description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
+                        description: "Soft, ethereal patterns drift across the surface of CLOUDY, creating a dreamlike quality that's both calming and sophisticated. The warm terracotta base is enlivened by subtle variations in texture and tone, resulting in a rug that brings a sense of lightness and airiness to any room.",
                         image: "assets/catalogues/spring/abstract/AB57-150x200_1.jpeg",
                         sizes: [
                             {
@@ -375,7 +375,7 @@ const springCollectionData = [
                     {
                         id: "sp-108",
                         title: "AB58 - BROWN WAVES",
-                        description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
+                        description: "A sophisticated play of light and shadow, BROWN WAVES features undulating patterns in rich earth tones that create a sense of depth and movement. The organic, flowing design brings a touch of natural elegance to any space, while the warm color palette ensures it remains inviting and versatile.",
                         image: "assets/catalogues/spring/abstract/AB58-200x300.jpg",
                         sizes: [
                             {
@@ -400,12 +400,12 @@ const springCollectionData = [
             },
             {
                 title: "Tropical Collection",
-                description: "Clean lines and subtle patterns for contemporary spaces",
+                description: "Immerse yourself in an exotic paradise with our Tropical Collection, where lush foliage and vibrant botanicals come to life underfoot. Each piece is a celebration of nature's most enchanting patterns, designed to bring the serene beauty of the tropics into your living space. These rugs transform any room into a tranquil oasis of natural elegance.",
                 products: [
                     {
                         id: "sp-201",
                         title: "TRO51 - MONSTERA",
-                        description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
+                        description: "Inspired by the iconic split-leaf Monstera deliciosa, this elegant design features lush, tropical foliage patterns that bring a fresh, organic energy to any space. The intricate leaf patterns create a sense of depth and movement, transforming your floor into a vibrant tropical garden that exudes natural sophistication.",
                         image: "assets/catalogues/spring/tropical/TRO51-100.jpg",
                         sizes: [
                             {
@@ -421,7 +421,7 @@ const springCollectionData = [
                     {
                         id: "sp-202",
                         title: "TRO52 - ACACIA",
-                        description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
+                        description: "Drawing inspiration from the graceful Acacia tree, this design features delicate, feathery leaf patterns that create an airy, open feel. The subtle interplay of light and shadow across the textured surface mimics the dappled sunlight filtering through tropical canopies, bringing a serene, natural elegance to your space.",
                         image: "assets/catalogues/spring/tropical/TRO52-100.jpg",
                         sizes: [
                             {
@@ -437,7 +437,7 @@ const springCollectionData = [
                     {
                         id: "sp-203",
                         title: "TRO53 - CHESTNUT",
-                        description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
+                        description: "Rich, warm tones of chestnut wood are artfully blended with tropical leaf motifs in this sophisticated design. The deep, earthy colors create a grounded, organic feel, while the intricate patterns add a touch of exotic luxury, making it perfect for creating a cozy yet refined tropical ambiance.",
                         image: "assets/catalogues/spring/tropical/TRO53-100.jpg",
                         sizes: [
                             {
@@ -453,7 +453,7 @@ const springCollectionData = [
                     {
                         id: "sp-204",
                         title: "TRO54 - ROWAN",
-                        description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
+                        description: "Inspired by the vibrant Rowan tree, this design features a stunning array of tropical leaves in varying shades of green and gold. The dynamic composition creates a sense of movement and vitality, as if a gentle breeze is rustling through the foliage, bringing the magic of the tropics into your home.",
                         image: "assets/catalogues/spring/tropical/TRO54-100.jpg",
                         sizes: [
                             {
@@ -469,7 +469,7 @@ const springCollectionData = [
                     {
                         id: "sp-205",
                         title: "TRO55 - ASH",
-                        description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
+                        description: "Elegant and understated, the ASH design features soft, muted tones that evoke the quiet beauty of tropical misty mornings. The subtle leaf patterns create a sophisticated, contemporary look that brings a sense of calm and tranquility to any space, perfect for creating a serene tropical retreat.",
                         image: "assets/catalogues/spring/tropical/TRO55-100.jpg",
                         sizes: [
                             {
@@ -485,7 +485,7 @@ const springCollectionData = [
                     {
                         id: "sp-206",
                         title: "TRO56 - WILLOW",
-                        description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
+                        description: "Graceful and flowing, the WILLOW design captures the gentle movement of tropical willow branches swaying in the breeze. The delicate, elongated leaf patterns create a sense of movement and fluidity, while the soft color palette brings a peaceful, natural elegance to any room.",
                         image: "assets/catalogues/spring/tropical/TRO56-100.jpg",
                         sizes: [
                             {
@@ -502,12 +502,12 @@ const springCollectionData = [
             },
             {
                 title: "Stone Collection",
-                description: "Clean lines and subtle patterns for contemporary spaces",
+                description: "Elegance carved in stone, our Stone Collection embodies the timeless beauty of natural minerals transformed into exquisite floor art. Each piece in this sophisticated series captures the unique veining, rich textures, and subtle color variations found in nature's most precious stones. The perfect harmony of organic patterns and contemporary design, these rugs bring an air of refined luxury to any space.",
                 products: [
                     {
                         id: "sp-301",
                         title: "ST51 - AMBER",
-                        description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
+                        description: "Radiating with the warm, golden glow of fossilized tree resin, AMBER captures the essence of sunlight trapped in stone. The rich, translucent hues of honey and caramel flow seamlessly across the surface, creating a mesmerizing play of light and depth that adds instant warmth and sophistication to any room.",
                         image: "assets/catalogues/spring/stone/ST51-200x300.jpg",
                         sizes: [
                             {
@@ -531,7 +531,7 @@ const springCollectionData = [
                     {
                         id: "sp-302",
                         title: "ST52 - BLUE SAPHIRE",
-                        description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
+                        description: "Deep, velvety blues reminiscent of the finest Ceylon sapphires create a sense of royal elegance in BLUE SAPHIRE. The intricate veining mimics the natural crystalline structure, with subtle variations in tone that catch the light beautifully, transforming your floor into a canvas of liquid midnight and twilight hues.",
                         image: "assets/catalogues/spring/stone/ST52-150x200_1.png",
                         sizes: [
                             {
@@ -555,7 +555,7 @@ const springCollectionData = [
                     {
                         id: "sp-303",
                         title: "ST53 - TOPAZ",
-                        description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
+                        description: "A celebration of golden warmth, TOPAZ shimmers with the rich, honeyed tones of its namesake gemstone. The intricate patterns resemble the natural striations found in imperial topaz, creating a luxurious surface that radiates both sophistication and welcoming comfort underfoot.",
                         image: "assets/catalogues/spring/stone/ST53-200x300.jpg",
                         sizes: [
                             {
@@ -579,7 +579,7 @@ const springCollectionData = [
                     {
                         id: "sp-304",
                         title: "ST54 - MYSTIQUE",
-                        description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
+                        description: "Shrouded in enigmatic beauty, MYSTIQUE captivates with its deep, swirling patterns that seem to shift with the light. The interplay of dark charcoal and soft taupe creates a mesmerizing depth, reminiscent of ancient marble formations. Each glance reveals new dimensions, making it a true conversation piece that adds an air of sophisticated intrigue to any space.",
                         image: "assets/catalogues/spring/stone/ST54-150x200_1.png",
                         sizes: [
                             {
@@ -604,12 +604,12 @@ const springCollectionData = [
             },
             {
                 title: "Fine Art",
-                description: "Clean lines and subtle patterns for contemporary spaces",
+                description: "A curated collection where minimalist design meets artistic expression, transforming floors into canvases of modern sophistication. Each piece is a study in balance, proportion, and refined aesthetics, creating spaces that speak in the language of contemporary art.",
                 products: [
                     {
                         id: "sp-401",
                         title: "FIT51 - TRIANGLE",
-                        description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
+                        description: "A striking geometric composition where precise triangular forms create dynamic visual tension. The clean, angular lines intersect with mathematical precision, while the warm terracotta palette adds organic warmth to this modernist masterpiece that bridges art and function.",
                         image: "assets/catalogues/spring/fine-art/FIT51-150x200_1.png",
                         sizes: [
                             {
@@ -633,7 +633,7 @@ const springCollectionData = [
                     {
                         id: "sp-402",
                         title: "FIT52 - COW",
-                        description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
+                        description: "An abstract interpretation of organic forms, where fluid lines and soft curves create a sense of movement and vitality. The design's organic shapes contrast beautifully with the clean negative space, making it a sophisticated statement piece that brings artistic flair to any contemporary interior.",
                         image: "assets/catalogues/spring/fine-art/FIT52-200x300.jpg",
                         sizes: [
                             {
@@ -657,7 +657,7 @@ const springCollectionData = [
                     {
                         id: "sp-403",
                         title: "FIT53 - MELODY",
-                        description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
+                        description: "A visual symphony of flowing lines that dance across the surface like musical notes on a staff. The rhythmic patterns create a sense of harmony and movement, transforming your floor into a canvas where design and emotion perform in perfect concert.",
                         image: "assets/catalogues/spring/fine-art/FIT53-150x200_1.png",
                         sizes: [
                             {
@@ -681,7 +681,7 @@ const springCollectionData = [
                     {
                         id: "sp-404",
                         title: "FIT54 - BLACK SPOT",
-                        description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
+                        description: "A bold exploration of negative space and form, where dramatic black spots create a striking contrast against a minimalist background. This piece channels the essence of Japanese wabi-sabi aesthetics, celebrating the beauty of imperfection and the power of simplicity.",
                         image: "assets/catalogues/spring/fine-art/FIT54-200x300.jpg",
                         sizes: [
                             {
@@ -705,7 +705,7 @@ const springCollectionData = [
                     {
                         id: "sp-405",
                         title: "FIT55 - SCALLOP",
-                        description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
+                        description: "Elegant undulating curves inspired by natural forms create a sense of fluid movement across the surface. The scalloped pattern plays with light and shadow, adding depth and dimension to create a sophisticated, organic aesthetic that soothes the senses.",
                         image: "assets/catalogues/spring/fine-art/FIT55-150x200_1.png",
                         sizes: [
                             {
@@ -729,7 +729,7 @@ const springCollectionData = [
                     {
                         id: "sp-406",
                         title: "FIT56 - LINE ART",
-                        description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
+                        description: "A masterclass in minimalism, where single continuous lines create an entire composition of remarkable depth and complexity. The design's elegant simplicity belies its profound artistic statement, making it a versatile centerpiece for any modern space seeking understated sophistication.",
                         image: "assets/catalogues/spring/fine-art/FIT56-200x300.jpg",
                         sizes: [
                             {
@@ -754,12 +754,12 @@ const springCollectionData = [
             },
             {
                 title: "Wood Collection",
-                description: "Clean lines and subtle patterns for contemporary spaces",
+                description: "A celebration of nature's most enduring beauty, our Wood Collection captures the organic elegance and timeless appeal of fine timber. Each piece is a masterful interpretation of wood's natural grain and texture, bringing the warmth and sophistication of nature into your living space with artisanal craftsmanship.",
                 products: [
                     {
                         id: "sp-501",
                         title: "WD51 - DARK BROWNY",
-                        description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
+                        description: "A rich, sumptuous interpretation of aged mahogany, where deep chocolate browns blend with subtle amber undertones. The intricate grain patterns flow like liquid silk across the surface, creating a luxurious foundation that exudes warmth and refinement in any setting.",
                         image: "assets/catalogues/spring/wood/WD51-200x300.jpg",
                         sizes: [
                             {
@@ -783,7 +783,7 @@ const springCollectionData = [
                     {
                         id: "sp-502",
                         title: "WD52 - LIGHTY BROWN",
-                        description: "Warm terracotta tones with intricate patterns inspired by Moroccan design.",
+                        description: "Inspired by sun-bleached oak and golden maple, this design captures the ethereal beauty of light streaming through forest canopies. The delicate grain patterns and soft, natural hues create an airy, organic aesthetic that brings a sense of tranquility and understated elegance to any space.",
                         image: "assets/catalogues/spring/wood/WD52-150x200_1.png",
                         sizes: [
                             {

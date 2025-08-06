@@ -2,32 +2,32 @@ const reviewsData = {
     "reviews": [
         {
             "id": 1,
-            "name": "Sarah M.",
-            "review": "The quality of the rugs exceeded my expectations! The colors are vibrant and the material is so soft. Definitely worth every penny.",
+            "name": "babbleput",
+            "review": "Harganya lebih murah dibanding tempat lain. Karpetnya lembut dan tidak terlalu tipis. Seller responsif dan pengiriman cepat, sampai di hari itu juga. Semoga awet, terimakasih seller!",
             "rating": 5
         },
         {
             "id": 2,
-            "name": "James L.",
-            "review": "Amazing customer service and the rug arrived earlier than expected. The design is exactly as shown on the website. Very satisfied!",
+            "name": "mirnamultanty",
+            "review": "Baguss karpetnya. Warnanya bagus. Gak licin. Motifnya keren. Pengiriman cepat 👍🏻👍🏻👍🏻",
             "rating": 5
         },
         {
             "id": 3,
-            "name": "Aisha K.",
-            "review": "I've bought several rugs from Royal Rugs and they never disappoint. The quality is consistent and they have a great variety of designs.",
+            "name": "r*****n",
+            "review": "gak sengaja nemu krn lagi ada live, seller sangat ramah dan mau respon di live. jadi yakin langsung CO. pengiriman jg sangat cepat, packing rapih aman. terima kasih kak..",
             "rating": 5
         },
         {
             "id": 4,
-            "name": "Michael T.",
-            "review": "The rug is perfect for our living room. It's durable, easy to clean, and the colors haven't faded even after several months of use.",
+            "name": "_laurayyy_",
+            "review": "Alhamdulillah barang udh sampaiiii aku sukaaa bangettt motif nya.. ukuran nya jg pass... makasii yaaa admin.. admin juga ramah bangetttt🤍🤍🤍🤍🥰🥰🥰",
             "rating": 5
         },
         {
             "id": 5,
-            "name": "Elena R.",
-            "review": "I was hesitant to buy online, but the detailed product descriptions and customer photos helped me make the right choice. Love my new rug!",
+            "name": "ikacahaya_romano",
+            "review": "Sudah sampai sesuai pesanan, baru sempat review, bagus karpetnya langsung di pasang di mushola, sesuai harapan pengirimanya juga cepat, motif bagus, pokonya sukaaaa,,,,, sukses terus",
             "rating": 5
         }
     ]

@@ -70,18 +70,27 @@
     margin: 0;
 }
 
+.contact-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    min-width: 0; /* Allows flex items to shrink below their content size */
+    flex: 1;
+}
+
 .contact-method {
     background-color: #ffffff;
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
-    transition: all 0.2s ease;
-    flex: 1;
-    min-width: 0; /* Allows flex items to shrink below their content size */
+    transition: all 0.3s ease;
+    height: 100%;
+    border: 1px solid rgba(0, 0, 0, 0.03);
 }
 
 .contact-method:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    transform: translateY(-3px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+    border-color: rgba(59, 130, 246, 0.2);
 }
 
 .contact-method-content {
@@ -122,6 +131,26 @@
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+}
+
+.contact-details p:first-child {
+    font-weight: 500;
+    color: #2c3e50;
+}
+
+.contact-link-text {
+    display: inline-block;
+    color: #3b82f6;
+    font-weight: 500;
+    margin-top: 10px;
+    font-size: 0.85rem;
+    transition: all 0.2s ease;
+    opacity: 0.9;
+}
+
+.contact-method:hover .contact-link-text {
+    color: #2563eb;
+    transform: translateX(2px);
 }
 
 /* Contact Social Links Section */

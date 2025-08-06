@@ -4,7 +4,7 @@ const catalogData = [
         title: "Spring Collections",
         slug: "spring-collections",
         image: "assets/catalogues/spring_3.png",
-        description: "Contemporary designs with clean lines and minimalist aesthetics, perfect for modern living spaces.",
+        description: "Fresh and vibrant designs that bring the renewal of spring into your home. Features floral patterns and pastel colors perfect for refreshing any space.",
         buttonText: "View Catalogue"
     },
     {
@@ -12,7 +12,7 @@ const catalogData = [
         title: "Autumn Collection",
         slug: "autumn-collection",
         image: "assets/catalogues/autumn.png",
-        description: "Classic patterns and timeless designs that bring elegance and warmth to any room.",
+        description: "Warm earth tones and rich textures inspired by autumn leaves. These rugs add coziness and elegance to your living spaces during the cooler months.",
         buttonText: "View Catalogue"
     },
     {
@@ -20,7 +20,7 @@ const catalogData = [
         title: "Winter Collection",
         slug: "winter-collection",
         image: "assets/catalogues/winter.png",
-        description: "Premium materials and exquisite craftsmanship for those who seek the finest in home decor.",
+        description: "Luxurious and plush rugs designed to keep your feet warm. Featuring deep piles and winter-inspired patterns for ultimate comfort in cold weather.",
         buttonText: "View Catalogue"
     },
     {
@@ -28,7 +28,7 @@ const catalogData = [
         title: "Shaggy Collection",
         slug: "shaggy-collection",
         image: "assets/catalogues/shaggy.png",
-        description: "Playful designs and durable materials, perfect for children's rooms and play areas.",
+        description: "Ultra-soft and fluffy rugs with a deep, luxurious pile. Perfect for adding texture and warmth to bedrooms and living areas.",
         buttonText: "View Catalogue"
     },
     {
@@ -36,7 +36,7 @@ const catalogData = [
         title: "Sajadah Collection",
         slug: "sajadah-collection",
         image: "assets/catalogues/sajadah_1.png",
-        description: "Elegant and comfortable prayer rugs for your spiritual needs.",
+        description: "High-quality prayer mats with beautiful designs and comfortable padding. Perfect for daily prayers with excellent comfort and durability.",
         buttonText: "View Catalogue"
     },
     {
@@ -44,7 +44,7 @@ const catalogData = [
         title: "Others",
         slug: "others",
         image: "assets/catalogues/grass.png",
-        description: "Exciting new designs coming soon. Stay tuned for our latest catalogue.",
+        description: "A diverse range of unique and specialty rugs that don't fit into our main collections. Discover hidden gems and limited edition pieces.",
         buttonText: "View Catalogue"
     }
 ];
