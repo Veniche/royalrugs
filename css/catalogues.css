@@ -1,22 +1,30 @@
 /* Page Hero */
-.page-hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../assets/catalogues/banner.png') no-repeat center center/cover;
+.page-hero, .catalog-hero {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7)), url('../assets/catalogues/banner.png') no-repeat center center/cover;
     color: white;
     text-align: center;
     padding: 180px 20px 100px;
     margin-top: 80px;
+    position: relative;
+    overflow: hidden;
 }
 
-.page-hero h1 {
+.page-hero h1, .catalog-hero h1 {
     font-size: 3rem;
     margin-bottom: 1rem;
     font-weight: 700;
+    position: relative;
+    z-index: 2;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.3);
 }
 
-.page-hero p {
+.page-hero p, .catalog-hero p {
     font-size: 1.2rem;
     max-width: 700px;
-    margin: 0 auto;
+    margin: 0 auto 1.5rem;
+    position: relative;
+    z-index: 2;
+    text-shadow: 0 1px 3px rgba(0,0,0,0.3);
 }
 
 /* Catalogues Section */
@@ -432,62 +440,322 @@
     }
 }
 
-@media (max-width: 768px) {
-    .page-hero {
-        padding: 130px 20px 40px;
+@media (max-width: 992px) {
+    .page-hero, .catalog-hero {
+        padding: 100px 20px 50px;
+        margin-top: 70px;
     }
     
-    .page-hero h1 {
-        font-size: 2rem;
+    .page-hero h1, .catalog-hero h1 {
+        font-size: 2.2rem;
+        margin-bottom: 1rem;
+    }
+    
+    .page-hero p, .catalog-hero p {
+        font-size: 1.1rem;
+        padding: 0 1rem;
+        margin-bottom: 1.5rem;
+    }
+    
+    .section-header {
+        margin-bottom: 2rem;
+    }
+    
+    .section-header h2 {
+        font-size: 1.8rem;
+        margin-bottom: 0.8rem;
+    }
+    
+    .section-header p {
+        font-size: 1rem;
+        padding: 0 1rem;
+        color: #666;
+        line-height: 1.5;
+    }
+    
+    .catalogues-section {
+        padding: 3rem 0;
+    }
+    
+    .catalogues-grid {
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+        padding: 0 15px;
+        max-width: 100%;
+        margin: 0 auto 2rem;
+    }
+    
+    .catalogue-card {
+        height: 280px !important;
+        margin-bottom: 0;
+        border-radius: 12px;
+        overflow: hidden;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    
+    .catalogue-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+    }
+    
+    .card-back {
+        padding: 20px;
+        justify-content: center;
+    }
+    
+    .card-back h3 {
+        font-size: 1.3rem;
+        margin-bottom: 12px;
+        color: #fff;
+    }
+    
+    .card-back p {
+        font-size: 0.95rem;
+        margin-bottom: 20px;
+        line-height: 1.5;
+        color: rgba(255, 255, 255, 0.9);
+    }
+    
+    .btn-primary {
+        padding: 10px 20px;
+        font-size: 0.9rem;
+        border-radius: 30px;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+    
+    .banner-content {
+        padding: 0 15px;
+    }
+    
+    .banner-content h2 {
+        font-size: 1.8rem;
+        margin-bottom: 1rem;
+    }
+    
+    .banner-content p {
+        font-size: 1.1rem;
+        margin-bottom: 1.5rem;
+        line-height: 1.6;
+    }
+}
+
+@media (max-width: 768px) {
+    .page-hero, .catalog-hero {
+        padding: 90px 15px 40px;
+        margin-top: 60px;
+        text-align: center;
+    }
+    
+    .page-hero h1, .catalog-hero h1 {
+        font-size: 1.8rem;
+        line-height: 1.3;
+        margin-bottom: 0.8rem;
+    }
+    
+    .page-hero p, .catalog-hero p {
+        font-size: 1.05rem;
+        line-height: 1.6;
+        margin-bottom: 1.5rem;
+    }
+    
+    .section-header {
+        margin-bottom: 1.5rem;
     }
     
     .section-header h2 {
         font-size: 1.6rem;
+        margin-bottom: 0.5rem;
+    }
+    
+    .section-header p {
+        font-size: 0.95rem;
+        padding: 0 10px;
+    }
+    
+    .catalogues-section {
+        padding: 2.5rem 0;
     }
     
     .catalogues-grid {
         grid-template-columns: 1fr;
         max-width: 500px;
-        margin: 0 auto;
-        gap: 2px;
-        padding: 0 10px;
+        margin: 0 auto 1.5rem;
+        gap: 25px;
+        padding: 0 15px;
     }
     
     .catalogue-card {
+        height: 260px !important;
+        margin-bottom: 0;
         grid-column: 1 / -1 !important;
         grid-row: auto !important;
-        height: 300px !important;
+        border-radius: 10px;
     }
     
-    /* Reset all card heights on mobile */
-    .catalogue-card:nth-child(1),
-    .catalogue-card:nth-child(2),
-    .catalogue-card:nth-child(3),
-    .catalogue-card:nth-child(4),
-    .catalogue-card:nth-child(5),
-    .catalogue-card:nth-child(6) {
-        height: 300px !important;
+    .card-back {
+        padding: 25px 20px;
+    }
+    
+    .card-back h3 {
+        font-size: 1.4rem;
+        margin-bottom: 12px;
+    }
+    
+    .card-back p {
+        font-size: 0.95rem;
+        margin-bottom: 20px;
+    }
+    
+    .banner-content {
+        text-align: center;
+        padding: 0 10px;
     }
     
     .banner-content h2 {
-        font-size: 1.8rem;
+        font-size: 1.6rem;
+        margin-bottom: 1rem;
+    }
+    
+    .banner-content p {
+        font-size: 1.05rem;
+        margin-bottom: 1.5rem;
+    }
+    
+    .cta-button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 12px 24px;
+        font-size: 1rem;
     }
 }
 
 @media (max-width: 480px) {
-    .page-hero h1 {
-        font-size: 2rem;
+    .page-hero, .catalog-hero {
+        padding: 80px 15px 40px;
+        margin-top: 60px;
+    }
+    
+    .page-hero h1, .catalog-hero h1 {
+        font-size: 1.7rem;
+        margin-bottom: 0.8rem;
+        line-height: 1.3;
+    }
+    
+    .page-hero p, .catalog-hero p {
+        font-size: 1rem;
+        line-height: 1.6;
+        margin-bottom: 1.2rem;
+    }
+    
+    .section-header {
+        margin-bottom: 1.8rem;
+        padding: 0 5px;
     }
     
     .section-header h2 {
-        font-size: 1.8rem;
+        font-size: 1.5rem;
+        margin-bottom: 0.6rem;
+    }
+    
+    .section-header p {
+        font-size: 0.92rem;
+        line-height: 1.5;
+    }
+    
+    .catalogues-section {
+        padding: 2rem 0;
+    }
+    
+    .catalogues-grid {
+        gap: 20px;
+        padding: 0 10px;
+    }
+    
+    .catalogue-card {
+        height: 240px !important;
+        margin-bottom: 0;
+        border-radius: 8px;
+    }
+    
+    .card-back {
+        padding: 20px 15px;
+    }
+    
+    .card-back h3 {
+        font-size: 1.3rem;
+        margin-bottom: 10px;
+    }
+    
+    .card-back p {
+        font-size: 0.9rem;
+        margin-bottom: 18px;
+        line-height: 1.5;
+    }
+    
+    .btn-primary {
+        padding: 9px 18px;
+        font-size: 0.85rem;
+    }
+    
+    .banner-section {
+        padding: 40px 10px;
+    }
+    
+    .banner-content {
+        padding: 0 5px;
     }
     
     .banner-content h2 {
-        font-size: 1.8rem;
+        font-size: 1.5rem;
+        margin-bottom: 12px;
+        line-height: 1.3;
     }
     
     .banner-content p {
-        font-size: 1rem;
+        font-size: 0.95rem;
+        margin-bottom: 20px;
+        line-height: 1.5;
+    }
+    
+    .banner-content .cta-button {
+        padding: 10px 20px;
+        font-size: 0.92rem;
+    }
+    
+    .footer-section {
+        text-align: center;
+        margin-bottom: 30px;
+        padding: 0 10px;
+    }
+    
+    .footer-section:last-child {
+        margin-bottom: 0;
+    }
+    
+    .footer-section h3 {
+        margin-bottom: 15px;
+        font-size: 1.2rem;
+    }
+    
+    .footer-section ul {
+        padding: 0;
+        list-style: none;
+    }
+    
+    .footer-section li {
+        margin-bottom: 8px;
+    }
+    
+    .footer-section a {
+        font-size: 0.92rem;
+        transition: color 0.2s ease;
+    }
+    
+    .footer-section a:hover {
+        color: #4a90e2;
     }
 }
