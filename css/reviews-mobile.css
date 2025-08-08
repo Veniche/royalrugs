@@ -18,7 +18,7 @@
     position: relative;
     width: 100%;
     overflow: hidden;
-    padding: 1rem 0 3rem;
+    padding: 1rem 0 0;
     touch-action: pan-y;
     -webkit-overflow-scrolling: touch;
     margin: 0 -0.5rem;
@@ -84,7 +84,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 1.5rem;
+    margin-top: 0;
     padding: 0 1rem;
 }
 
