@@ -943,34 +943,49 @@ main {
     margin-bottom: 0.3rem;
 }
 
-.promo-image {
+/* Promotional Carousel */
+.promo-carousel {
     flex: 1;
     position: relative;
-    min-height: 300px;
-    background: #e9ecef;
     border-radius: 8px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    background-color: #f5f5f5;
+    max-width: 100%;
+}
+
+.promo-carousel-inner {
+    position: relative;
+    width: 100%;
     overflow: hidden;
 }
 
-.promo-placeholder {
-    text-align: center;
-    color: #6b7280;
+.promo-carousel-item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    opacity: 0;
+    transition: opacity 0.8s ease-in-out;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #f5f5f5;
 }
 
-.promo-placeholder i {
-    font-size: 4rem;
-    display: block;
-    margin-bottom: 1rem;
-    color: #cbd5e0;
+.promo-carousel-item.active {
+    position: relative;
+    opacity: 1;
+    z-index: 1;
 }
 
-.promo-placeholder span {
-    font-size: 1.1rem;
-    font-weight: 500;
+.promo-carousel-item img {
+    max-width: 100%;
+    height: auto;
     display: block;
+    object-fit: contain;
+    object-position: center;
+    transition: transform 0.5s ease;
 }
 
 /* Responsive Adjustments */
@@ -979,30 +994,54 @@ main {
         flex-direction: column;
         text-align: center;
         gap: 2rem;
+        max-width: 600px;
+        margin: 0 auto;
     }
     
     .promo-description {
         margin-left: auto;
         margin-right: auto;
+        max-width: 90%;
     }
     
     .discount-highlight {
         justify-content: center;
     }
     
-    .promo-image {
+    .promo-carousel {
         width: 100%;
-        min-height: 250px;
+        max-width: 500px;
+        margin: 0 auto;
+    }
+    
+    .promo-carousel-item img {
+        max-height: 400px;
     }
 }
 
 @media (max-width: 768px) {
     .promo-text h2 {
         font-size: 1.8rem;
+        margin-bottom: 1rem;
+    }
+    
+    .promo-description {
+        font-size: 1rem;
+        margin-bottom: 1.5rem;
+    }
+    
+    .promo-carousel {
+        max-width: 100%;
+        border-radius: 0;
+        box-shadow: none;
+    }
+    
+    .promo-carousel-item img {
+        max-height: 350px;
     }
     
     .discount-percentage {
-        font-size: 3rem;
+        font-size: 2.5rem;
     }
     
     .discount-off {

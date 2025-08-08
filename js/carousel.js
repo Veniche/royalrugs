@@ -1,33 +1,51 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const carousel = document.querySelector('.hero-carousel');
-    if (!carousel) return;
-
-    const items = document.querySelectorAll('.carousel-item');
-    let currentIndex = 0;
-    const intervalTime = 3000; // 3 seconds
-    let intervalId = null;
-
-    // Function to show next slide
-    function showNextSlide() {
-        // Hide current item
-        items[currentIndex].classList.remove('active');
+    // Initialize Hero Carousel
+    const heroCarousel = document.querySelector('.hero-carousel');
+    if (heroCarousel) {
+        const heroItems = document.querySelectorAll('.carousel-item');
         
-        // Move to next item, loop back to start if at end
-        currentIndex = (currentIndex + 1) % items.length;
-        
-        // Show new current item
-        items[currentIndex].classList.add('active');
+        if (heroItems.length > 0) {
+            let heroCurrentIndex = 0;
+            const heroIntervalTime = 3000; // 3 seconds
+            let heroIntervalId = null;
+
+            function showNextHeroSlide() {
+                heroItems[heroCurrentIndex].classList.remove('active');
+                heroCurrentIndex = (heroCurrentIndex + 1) % heroItems.length;
+                heroItems[heroCurrentIndex].classList.add('active');
+            }
+
+            function startHeroAutoTransition() {
+                heroItems[0].classList.add('active');
+                heroIntervalId = setInterval(showNextHeroSlide, heroIntervalTime);
+            }
+
+            startHeroAutoTransition();
+        }
     }
 
-    // Start auto transition
-    function startAutoTransition() {
-        // Show first item initially
-        items[0].classList.add('active');
+    // Initialize Promo Carousel
+    const promoCarousel = document.querySelector('.promo-carousel');
+    if (promoCarousel) {
+        const promoItems = document.querySelectorAll('.promo-carousel-item');
         
-        // Start the interval
-        intervalId = setInterval(showNextSlide, intervalTime);
-    }
+        if (promoItems.length > 0) {
+            let promoCurrentIndex = 0;
+            const promoIntervalTime = 3500; // 3.5 seconds (slightly different from hero for visual interest)
+            let promoIntervalId = null;
 
-    // Initialize the carousel
-    startAutoTransition();
+            function showNextPromoSlide() {
+                promoItems[promoCurrentIndex].classList.remove('active');
+                promoCurrentIndex = (promoCurrentIndex + 1) % promoItems.length;
+                promoItems[promoCurrentIndex].classList.add('active');
+            }
+
+            function startPromoAutoTransition() {
+                promoItems[0].classList.add('active');
+                promoIntervalId = setInterval(showNextPromoSlide, promoIntervalTime);
+            }
+
+            startPromoAutoTransition();
+        }
+    }
 });
