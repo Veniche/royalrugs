@@ -29,6 +29,12 @@ const reviewsData = {
             "name": "ikacahaya_romano",
             "review": "Sudah sampai sesuai pesanan, baru sempat review, bagus karpetnya langsung di pasang di mushola, sesuai harapan pengirimanya juga cepat, motif bagus, pokonya sukaaaa,,,,, sukses terus",
             "rating": 5
+        },
+        {
+            "id": 6,
+            "name": "",
+            "review": "",
+            "rating": 5
         }
     ]
 };

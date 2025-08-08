@@ -41,17 +41,13 @@ document.addEventListener('DOMContentLoaded', function() {
             slide.setAttribute('data-index', index);
             slide.setAttribute('aria-hidden', 'true');
             
-            // Create stars
-            const stars = '★'.repeat(review.rating) + '☆'.repeat(5 - review.rating);
+            // Create slide with review screenshot
+            const imageSrc = `assets/reviews/review_${review.id}.png`;
             
             // Set slide content
             slide.innerHTML = `
                 <div class="review-mobile-card">
-                    <div class="review-mobile-rating" aria-label="${review.rating} out of 5 stars">
-                        ${stars}
-                    </div>
-                    <p class="review-mobile-text">"${review.review}"</p>
-                    <div class="review-mobile-author">${review.name}</div>
+                    <img src="${imageSrc}" alt="Customer review ${review.id}" class="review-screenshot">
                 </div>
             `;
             
@@ -267,8 +263,12 @@ document.addEventListener('DOMContentLoaded', function() {
         if (!container) return;
         
         container.innerHTML = `
-            <div class="reviews-fallback">
-                <p>We appreciate your feedback! Check back soon for customer reviews.</p>
+            <div class="reviews-mobile-slides" style="width: 100%;">
+                <div class="review-mobile-slide" style="width: 100%;">
+                    <div class="review-mobile-card">
+                        <img src="assets/reviews/placeholder-review.jpg" alt="Customer reviews coming soon" class="review-screenshot" style="width: 100%; height: auto;">
+                    </div>
+                </div>
             </div>
         `;
     }

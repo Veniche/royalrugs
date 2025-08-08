@@ -31,24 +31,20 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 
-    // Render all review cards
+    // Render all review cards as images
     function renderReviews() {
         if (!reviews.length) return;
 
         // Create a wrapper for each review
         const reviewElements = reviews.map((review, index) => {
-            const stars = '★'.repeat(review.rating) + '☆'.repeat(5 - review.rating);
+            // Use review_1.png, review_2.png, etc. based on review ID
+            const imageSrc = `assets/reviews/review_${review.id}.png`;
             return `
                 <div class="review-card-wrapper" data-index="${index}" tabindex="0">
                     <div class="review-card">
-                        <div class="review-rating" aria-label="${review.rating} out of 5 stars">
-                            ${stars}
-                        </div>
-                        <p class="review-text">"${review.review}"</p>
-                        <div class="review-author">${review.name}</div>
+                        <img src="${imageSrc}" alt="Customer review ${review.id}" class="review-screenshot">
                     </div>
-                </div>
-            `;
+                </div>`;
         }).join('');
 
         track.innerHTML = reviewElements;
@@ -243,9 +239,7 @@ document.addEventListener('DOMContentLoaded', function() {
         track.innerHTML = `
             <div class="review-card-wrapper" style="flex: 0 0 100%;">
                 <div class="review-card">
-                    <div class="review-rating">★★★★★</div>
-                    <p class="review-text">Our customers love our rugs! Check back soon to read their reviews.</p>
-                    <div class="review-author">The Royal Rugs Team</div>
+                    <img src="assets/reviews/placeholder-review.jpg" alt="Customer reviews coming soon" class="review-screenshot">
                 </div>
             </div>
         `;
