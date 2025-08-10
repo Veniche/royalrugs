@@ -1,25 +1,77 @@
+// Make closePopup globally available
+window.closePopup = function() {
+    const popup = document.getElementById('thankYouPopup');
+    if (popup) {
+        popup.style.display = "none";
+        document.body.style.overflow = ''; // Re-enable scrolling
+    }
+};
+
 document.addEventListener('DOMContentLoaded', function() {
-    const contactForm = document.getElementById('contactForm');
-    
-    if (contactForm) {
-        contactForm.addEventListener('submit', function(e) {
+    const form = document.getElementById('contactForm');
+    const popup = document.getElementById('thankYouPopup');
+
+    function showAlert(message) {
+        alert(message);
+    }
+
+    function validateForm() {
+        const email = document.querySelector('input[name="Email"]').value.trim();
+        const phone = document.querySelector('input[name="Phone"]').value.trim();
+
+        const emailPattern = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+        const phonePattern = /^[0-9+\s-]+$/; // Simple pattern for international numbers
+
+        if (!emailPattern.test(email)) {
+            showAlert("❌ Please enter a valid email address.");
+            return false;
+        }
+
+        if (!phonePattern.test(phone)) {
+            showAlert("❌ Please enter a valid phone number. Only numbers, spaces, and + are allowed.");
+            return false;
+        }
+
+        return true; // Proceed if all validations pass
+    }
+
+    if (form) {
+        form.addEventListener('submit', function(e) {
             e.preventDefault();
-            
-            // Get form data
-            const formData = new FormData(contactForm);
-            const formObject = {};
-            formData.forEach((value, key) => {
-                formObject[key] = value;
+
+            if (!validateForm()) {
+                return; // Stop form submission if validation fails
+            }
+
+            const formData = new FormData(form);
+            const object = Object.fromEntries(formData);
+            const json = JSON.stringify(object);
+
+            fetch('https://api.web3forms.com/submit', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Accept': 'application/json'
+                },
+                body: json
+            })
+            .then(async (response) => {
+                let json = await response.json();
+                if (response.status === 200) {
+                    // Show thank you popup
+                    popup.style.display = "flex";
+                    document.body.style.overflow = 'hidden'; // Prevent scrolling when popup is open
+                    // Reset form
+                    form.reset();
+                } else {
+                    console.error(response);
+                    alert("⚠️ Gagal mengirim pesan: " + json.message);
+                }
+            })
+            .catch(error => {
+                console.error(error);
+                alert("⚠️ Terjadi kesalahan, silakan coba lagi.");
             });
-            
-            // Here you would typically send the form data to a server
-            console.log('Form submitted:', formObject);
-            
-            // Show success message
-            alert('Thank you for your message! We will get back to you soon.');
-            
-            // Reset form
-            contactForm.reset();
         });
     }
     
