@@ -24,7 +24,7 @@ let currentCategoryIndex = 0;
 
 // Collection data mapping
 const collectionDataMap = {
-    'spring-collections': springCollectionData[0],
+    'spring-collection': springCollectionData[0],
     'autumn-collection': autumnCollectionData[0],
     'winter-collection': winterCollectionData[0],
     'shaggy-collection': shaggyCollectionData[0],

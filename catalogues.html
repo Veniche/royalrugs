@@ -188,27 +188,29 @@
             catalogData.forEach(catalogue => {
                 const card = document.createElement('div');
                 card.className = 'catalogue-card';
+                const collectionLink = `collection-detail.html?id=${catalogue.slug}`;
                 
                 card.innerHTML = `
-                    <div class="card-inner">
-                        <div class="card-front">
-                            <div class="card-image">
-                                <img src="${catalogue.image}" alt="${catalogue.title}" loading="lazy">
+                    <a href="${collectionLink}" class="card-link">
+                        <div class="card-inner">
+                            <div class="card-front">
+                                <div class="card-image">
+                                    <img src="${catalogue.image}" alt="${catalogue.title}" loading="lazy">
+                                </div>
+                                <div class="card-content">
+                                    <h3>${catalogue.title}</h3>
+                                    <div class="card-overlay"></div>
+                                </div>
                             </div>
-                            <div class="card-content">
-                                <h3>${catalogue.title}</h3>
-                                <div class="card-overlay"></div>
+                            <div class="card-back">
+                                <div class="card-back-content">
+                                    <h3>${catalogue.title}</h3>
+                                    <p>${catalogue.description}</p>
+                                    <span class="btn btn-primary">${catalogue.buttonText}</span>
+                                </div>
                             </div>
                         </div>
-                        <div class="card-back">
-                            <div class="card-back-content">
-                                <h3>${catalogue.title}</h3>
-                                <p>${catalogue.description}</p>
-                                <a href="collection-detail.html?id=${catalogue.slug}" class="btn btn-primary">${catalogue.buttonText}</a>
-                            </div>
-                        </div>
-                    </div>
-                `;
+                    </a>`;
                 container.appendChild(card);
             });
 
@@ -217,8 +219,17 @@
             let currentlyFlipped = null;
             
             cards.forEach(card => {
-                card.addEventListener('click', function() {
-                    if (window.innerWidth <= 768) {
+                // On mobile, handle card flipping
+                if (window.innerWidth <= 992) {
+                    card.addEventListener('click', function(e) {
+                        // Don't handle clicks on the button (let the link work)
+                        if (e.target.closest('.btn')) {
+                            return;
+                        }
+                        
+                        e.preventDefault();
+                        e.stopPropagation();
+                        
                         // If this card is already flipped, unflip it
                         if (this === currentlyFlipped) {
                             this.classList.remove('flipped');
@@ -251,8 +262,20 @@
                         setTimeout(() => {
                             document.addEventListener('click', handleClickOutside);
                         }, 10);
-                    }
-                });
+                    });
+                }
+            });
+            
+            // Handle window resize to update event listeners
+            let isMobile = window.innerWidth <= 992;
+            
+            window.addEventListener('resize', () => {
+                const newIsMobile = window.innerWidth <= 992;
+                if (isMobile !== newIsMobile) {
+                    isMobile = newIsMobile;
+                    // Reload the page to apply the correct behavior
+                    window.location.reload();
+                }
             });
         });
     </script>

@@ -3,7 +3,7 @@ const othersCollectionData = [
         collection: "Others",
         categories: [
             {
-                title: "Keset Lantai",
+                title: "Door Mat",
                 description: "Premium doormats and floor mats designed for both functionality and style. Our collection features high-quality, anti-slip mats perfect for entrances, kitchens, and bathrooms, combining practical use with elegant designs.",
                 products: [
                     {

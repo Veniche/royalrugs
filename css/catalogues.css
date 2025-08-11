@@ -97,7 +97,6 @@
 
 .catalogue-card {
     perspective: 1000px;
-    cursor: pointer;
     position: relative;
     overflow: hidden;
     transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
@@ -106,6 +105,14 @@
     padding: 0;
     margin: 0;
     height: 350px;
+}
+
+.card-link {
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    color: inherit;
 }
 
 /* First row - 3 items */
@@ -125,6 +132,13 @@
 .catalogue-card:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+/* Disable hover effect on mobile */
+@media (min-width: 769px) {
+    .catalogue-card:hover .card-inner {
+        transform: rotateY(180deg);
+    }
 }
 
 .card-inner {
@@ -437,6 +451,32 @@
     .catalogue-card:nth-child(5),
     .catalogue-card:nth-child(6) {
         height: 300px;
+    }
+}
+
+@media (max-width: 992px) {
+    .catalogue-card {
+        height: 300px;
+        cursor: default; /* Remove pointer cursor on mobile */
+    }
+
+    .catalogue-card:nth-child(1),
+    .catalogue-card:nth-child(2),
+    .catalogue-card:nth-child(3),
+    .catalogue-card:nth-child(4),
+    .catalogue-card:nth-child(5),
+    .catalogue-card:nth-child(6) {
+        height: 300px;
+    }
+    
+    /* Enable click on the card content on mobile */
+    .card-link {
+        pointer-events: none; /* Disable link on mobile */
+    }
+    
+    /* Re-enable pointer events for the button on mobile */
+    .btn {
+        pointer-events: auto;
     }
 }
 

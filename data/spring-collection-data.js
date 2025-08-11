@@ -1,6 +1,6 @@
 const springCollectionData = [
     {
-        collection: "Spring Collections",
+        collection: "Spring Collection",
         categories: [
             {
                 title: "Persian Collection",
