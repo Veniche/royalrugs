@@ -678,10 +678,10 @@
         gap: 8px;
     }
     
-    .social-link {
+    /* .social-link {
         padding: 6px 10px;
         font-size: 0.8rem;
-    }
+    } */
 }
 
 @media (max-width: 992px) {
