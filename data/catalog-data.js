@@ -41,7 +41,7 @@ const catalogData = [
     },
     {
         id: 6,
-        title: "Others",
+        title: "Explore More",
         slug: "others",
         image: "assets/catalogues/grass.png",
         description: "A diverse range of unique and specialty rugs that don't fit into our main collections. Discover hidden gems and limited edition pieces.",

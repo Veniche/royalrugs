@@ -1,6 +1,6 @@
 const othersCollectionData = [
     {
-        collection: "Others",
+        collection: "Explore More",
         categories: [
             {
                 title: "Door Mat",

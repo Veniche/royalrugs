@@ -30,7 +30,6 @@
 /* Catalogues Section */
 .catalogues-section {
     padding: 80px 0;
-    background-color: #f9f9f9;
 }
 
 .section-header {
@@ -294,9 +293,9 @@
 .btn-primary {
     display: inline-block;
     padding: 10px 25px;
-    background-color: #fff;
-    color: #2c3e50;
-    border: none;
+    background-color: #000924;
+    color: #ffffff;
+    border: 2px solid #000924;
     border-radius: 30px;
     font-weight: 600;
     text-decoration: none;
@@ -305,9 +304,11 @@
 }
 
 .btn-primary:hover {
-    background-color: #f8f9fa;
+    background-color: #001a4d;
+    border-color: #001a4d;
+    color: #ffffff;
     transform: translateY(-2px);
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
 }
 
 /* Modern CTA Button */
