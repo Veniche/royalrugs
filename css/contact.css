@@ -27,6 +27,21 @@
     object-position: center;
 }
 
+/* Hide mobile image by default */
+.mobile-image {
+    display: none;
+}
+
+/* Show mobile image and hide desktop image on smaller screens */
+@media (max-width: 1200px) {
+    .desktop-image {
+        display: none;
+    }
+    .mobile-image {
+        display: block;
+    }
+}
+
 .contact-content {
     flex: 1;
     display: flex;
