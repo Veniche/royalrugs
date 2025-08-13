@@ -380,7 +380,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/abstract/AB58-150x200_1.jpeg",
+                                image: "assets/catalogues/spring/abstract/AB58-150x200.jpeg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
