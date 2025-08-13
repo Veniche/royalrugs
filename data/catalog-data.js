@@ -12,7 +12,7 @@ const catalogData = [
         title: "Autumn Collection",
         slug: "autumn-collection",
         image: "assets/catalogues/autumn.png",
-        description: "Warm earth tones and rich textures inspired by autumn leaves. These rugs add coziness and elegance to your living spaces during the cooler months.",
+        description: "Warm earthy hues and rich textures, inspired by the fleeting beauty of falling leaves. Crafted with premium 600 GSM nylon yarn, a plush 10 mm pile height, seamless hemmed edges and a soft anti-slip backing for comfort.",
         buttonText: "View Catalogue"
     },
     {

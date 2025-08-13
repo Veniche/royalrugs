@@ -155,7 +155,7 @@ function renderProducts(products) {
             </div>
             <div class="product-info">
                 <h3>${product.title}</h3>
-                <p>${product.description}</p>
+                <div class="product-description">${product.description.split('<br>')[0].substring(0, 100)}${product.description.length > 100 ? '...' : ''}</div>
                 <div class="product-price">
                     ${formatPrice(product.sizes[0].price)}
                     ${product.sizes.length > 1 ? `<span class="size-variants">+${product.sizes.length - 1} more sizes</span>` : ''}
@@ -187,7 +187,7 @@ function openProductModal(product) {
     modalProductImage.src = product.image;
     modalProductImage.alt = product.title;
     modalProductTitle.textContent = product.title;
-    modalProductDescription.textContent = product.description;
+    modalProductDescription.innerHTML = product.description; // Changed to innerHTML to render HTML
     
     // Populate size selector
     sizeSelect.innerHTML = product.sizes.map((size, index) => `
