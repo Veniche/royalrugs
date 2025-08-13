@@ -1,6 +1,7 @@
 // Get URL parameters
 const urlParams = new URLSearchParams(window.location.search);
 const collectionId = urlParams.get('id');
+const categoryParam = urlParams.get('category');
 
 // DOM Elements
 const collectionTitle = document.getElementById('collectionTitle');
@@ -71,9 +72,39 @@ function loadCollectionData() {
     // Render categories
     renderCategories(collectionData.categories);
     
-    // Render products for first category by default
+    // Check if a specific category is requested in the URL
     if (collectionData.categories.length > 0) {
-        renderProducts(collectionData.categories[0].products);
+        let defaultCategoryIndex = 0;
+        
+        if (categoryParam) {
+            // Find the category index by matching the category parameter with category title (lowercase and replace spaces with hyphens)
+            const categoryIndex = collectionData.categories.findIndex(category => 
+                category.title.toLowerCase().replace(/\s+/g, '-') === categoryParam
+            );
+            
+            if (categoryIndex !== -1) {
+                defaultCategoryIndex = categoryIndex;
+                // Update the current category index
+                currentCategoryIndex = categoryIndex;
+                
+                // Add a small delay to ensure the DOM is fully loaded before scrolling
+                setTimeout(() => {
+                    // Find and click the category link to activate it
+                    const categoryLink = document.querySelector(`[data-category="${categoryIndex}"]`);
+                    if (categoryLink) {
+                        categoryLink.click();
+                    }
+                    
+                    // Scroll to the products section
+                    if (productsGrid) {
+                        productsGrid.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    }
+                }, 100);
+            }
+        }
+        
+        // Render products for the selected category
+        renderProducts(collectionData.categories[defaultCategoryIndex].products);
     }
 }
 
