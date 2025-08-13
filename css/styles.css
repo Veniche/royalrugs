@@ -2351,5 +2351,8 @@ box-shadow: 0 5px 15px rgba(0, 9, 36, 0.2);
     .price-range-section {
         padding: 0;
     }
+
+    .promo-container {
+        padding: 0;
+    }
 }
-    
