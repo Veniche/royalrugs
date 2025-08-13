@@ -1,5 +1,37 @@
-// Live Status Banner Functionality
+// Touch device detection
+const isTouchDevice = 'ontouchstart' in window || navigator.maxTouchPoints > 0 || navigator.msMaxTouchPoints > 0;
+
+// Handle touch events for QCDS items on iOS
 document.addEventListener('DOMContentLoaded', function() {
+    // Add touch event listeners for QCDS items
+    if (isTouchDevice) {
+        const qcdsItems = document.querySelectorAll('.qcds-item');
+        
+        qcdsItems.forEach(item => {
+            // Remove hover effects on touch devices to prevent sticky states
+            item.classList.add('touch-device');
+            
+            // Add touch start/end events
+            item.addEventListener('touchstart', function() {
+                this.classList.add('tapped');
+            }, { passive: true });
+            
+            item.addEventListener('touchend', function() {
+                // Small delay to allow the user to see the tap effect
+                setTimeout(() => {
+                    this.classList.remove('tapped');
+                }, 300);
+            }, { passive: true });
+            
+            // Prevent long press context menu on iOS
+            item.addEventListener('contextmenu', function(e) {
+                e.preventDefault();
+                return false;
+            }, false);
+        });
+    }
+    
+    // Live Status Banner Functionality
     const banner = document.querySelector('.live-status-banner');
     const closeButton = document.querySelector('.live-status-close');
     
