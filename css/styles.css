@@ -183,34 +183,25 @@ main {
 @media (max-width: 992px) {
     /* Hero carousel adjustments for tablet */
     .hero-carousel {
-        min-height: 0;
-        margin-top: 100px; /* Add margin below navbar */
-        height: auto;
-        max-height: 50vh;
-        padding: 0;
         width: 100%;
-        margin-left: 0;
-        transform: none;
-        border-radius: 8px; /* Add slight rounding for better mobile appearance */
-        overflow: hidden;
+        height: 50vh;
+        position: relative;
+        top: auto;
+        left: auto;
+        margin: 0;
+        padding: 0;
     }
     
     .carousel-item {
-        height: 100%;
         width: 100%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
+        height: 100%;
     }
-    
+
     .carousel-item img {
+        width: 100%;
+        height: 100%;
         object-fit: cover;
         object-position: center;
-        width: 100%;
-        height: 100%;
-        max-width: 100%;
-        max-height: 100%;
-        display: block;
     }
     
     .menu-toggle {
@@ -407,10 +398,17 @@ main {
 
 @media (max-width: 480px) {
     /* Hero carousel adjustments for small mobile */
-    .hero-carousel {
-        margin-top: 100px;
-        max-height: 40vh;
-        min-height: 200px;
+    .hero {
+        min-height: 60vh;
+    }
+    
+    .hero h1 {
+        font-size: 1.8rem;
+    }
+    
+    .hero-description {
+        font-size: 1rem;
+        margin-bottom: 1.5rem;
     }
     
     .carousel-item img {
@@ -489,27 +487,24 @@ main {
 /* Hero Section */
 .hero {
     margin: 0;
-    background-color: #f9f9f9;
-    min-height: 80vh;
+    min-height: calc(100vh - 80px); /* Account for navbar height */
+    max-height: none;
     display: flex;
     position: relative;
     width: 100%;
     overflow: hidden;
-    padding: 0;
+    padding: 80px 0 0; /* Add top padding for navbar */
+    margin-top: 0;
 }
 
 .hero-content {
-    display: grid;
-    grid-template-columns: 70% 30%;
-    width: 100vw;
-    margin: 0;
-    padding: 0;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
     height: 100%;
     position: relative;
-    left: 50%;
-    right: 50%;
-    margin-left: -50vw;
-    margin-right: -50vw;
+    margin: 0;
+    padding: 0;
 }
 
 .hero-image {
@@ -558,14 +553,20 @@ main {
 }
 
 .hero-text {
-    padding: 2rem;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 3rem 2rem;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    text-align: right;
-    background-color: #fff;
+    justify-content: flex-end;
+    align-items: center;
+    text-align: center;
+    color: white;
     height: 100%;
     max-width: 100%;
+    z-index: 2;
 }
 
 .hero-text h1 {
@@ -590,15 +591,22 @@ main {
 }
 
 .hero h1 {
-    font-size: 3rem;
-    color: #000924;
-    margin-bottom: 1.5rem;
+    font-size: 3.5rem;
+    color: #fff;
+    margin-bottom: 1rem;
     line-height: 1.2;
+    text-shadow: 0 0 5px #000, 0 0 10px #000, 0 0 20px #000, 0 0 40px #000, 0 0 80px #000;
+    max-width: 1000px;
+    width: 90%;
 }
 
 .hero-description {
-    font-size: 1.25rem;
-    color: #555;
+    font-size: 1.5rem;
+    color: #fff;
+    text-shadow: 0 0 5px #000, 0 0 10px #000, 0 0 20px #000, 0 0 40px #000, 0 0 80px #000;
+    margin-bottom: 2rem;
+    max-width: 800px;
+    width: 80%;
     margin-bottom: 2.5rem;
     line-height: 1.6;
 }
@@ -620,7 +628,7 @@ main {
 }
 
 .btn-primary:hover {
-    background-color: transparent;
+    background-color: #f9f9f9;
     color: #000924;
 }
 
@@ -628,8 +636,6 @@ main {
     .hero-content {
         grid-template-columns: 1fr;
         gap: 2.5rem;
-        padding: 0 1.5rem;
-        margin-bottom: 3rem; /* Increased space below hero section */
     }
     
     .hero-text {
@@ -643,26 +649,75 @@ main {
     
     .hero-description {
         font-size: 1.1rem;
+        width: 90%;
     }
 }
 
 @media (max-width: 768px) {
+    .hero {
+        min-height: auto;
+        display: block;
+        padding: 0;
+    }
+    
+    .hero-content {
+        display: block;
+    }
+    
+    .hero-carousel {
+        position: relative;
+        height: 50vh;
+        min-height: 300px;
+    }
+    
+    .hero-text {
+        position: relative;
+        bottom: auto;
+        text-align: center;
+        max-width: 800px;
+        margin: 30px auto;
+        background-color: #f9f9f9;
+        border-radius: 10px;
+        padding: 2.5rem 2rem;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    }
+    
     .hero h1 {
         font-size: 2.2rem;
+        color: #000924;
+        margin-bottom: 2rem;
+        position: relative;
+        display: inline-block;
+        text-shadow: none;
+    }
+    
+    .hero h1::after {
+        content: '';
+        position: absolute;
+        width: 60%;
+        height: 3px;
+        background: #000924;
+        bottom: -10px;
+        left: 20%;
+        border-radius: 2px;
     }
     
     .hero-description {
         font-size: 1.1rem;
-        margin-bottom: 2.5rem;
+        color: #666;
+        line-height: 1.6;
+        margin-bottom: 1.5rem;
+        text-shadow: none;
     }
     
-    .hero-text {
-        padding-bottom: 3.5rem; /* Increased bottom padding on mobile */
+    .price-range-section {
+        padding: 2rem 0 0;
     }
-    
-    /* Add extra space before promo banner on mobile */
-    .promo-banner {
-        margin-top: 2rem;
+}
+
+@media (max-width: 480px) {
+    .hero h1 {
+        font-size: 2rem;
     }
 }
 
@@ -683,7 +738,7 @@ main {
 }
 
 .btn-primary:hover {
-    background-color: transparent;
+    /* background-color: 000924; */
     color: #000924;
 }
 
@@ -2273,3 +2328,10 @@ box-shadow: 0 5px 15px rgba(0, 9, 36, 0.2);
         height: 200px;
     }
 }
+
+@media (max-width: 768px) {
+    .price-range-section {
+        padding: 0;
+    }
+}
+    

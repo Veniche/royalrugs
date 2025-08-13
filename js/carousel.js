@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         if (heroItems.length > 0) {
             let heroCurrentIndex = 0;
-            const heroIntervalTime = 3000; // 3 seconds
+            const heroIntervalTime = 5000; // 5 seconds
             let heroIntervalId = null;
 
             function showNextHeroSlide() {
