@@ -22,7 +22,7 @@ const shaggyCollectionData = [
                             },
                             {
                                 size: "200x300cm",
-                                image: "assets/catalogues/shaggy/silver_gray-200x300.jpeg",
+                                image: "assets/catalogues/shaggy/silver_gray-200x300.png",
                                 price: 2150000,
                                 shopee: "https://shopee.co.id/Carpet-Premium-SHAGGY-200-X-300-cm-Karpet-Lantai-Ruang-Tamu-Jumbo-Besar-Polos-Ngonten-RUGS-i.964448777.25228729591?sp_atk=f88e64f3-9ccc-402b-8be7-025bf1ef9236&xptdk=f88e64f3-9ccc-402b-8be7-025bf1ef9236",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-shaggy-collection-200x300-cm-karpet-ruang-tamu-jumbo-modern-polos-royal-rugs-blue-gold-grey-silver-1730650131225937153?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
@@ -42,7 +42,7 @@ const shaggyCollectionData = [
                         id: "sh-002",
                         title: "Ivory",
                         description: "Transform your space with the timeless elegance of our Ivory Shaggy Rug. The sumptuous high-pile design offers a cloud-like walking experience, perfect for barefoot comfort. The creamy ivory shade creates a bright, airy atmosphere while serving as a versatile neutral base for any color scheme. Made from hypoallergenic microfiber, this rug is gentle on sensitive skin and ideal for family homes. The dense construction provides excellent sound absorption, making it perfect for apartments and multi-level homes. Resistant to shedding and easy to maintain, this rug combines beauty with practical functionality.",
-                        image: "assets/catalogues/shaggy/ivory-150x200.png",
+                        image: "assets/catalogues/shaggy/ivory-200x300.png",
                         sizes: [
                             {
                                 size: "150x200cm",
@@ -54,7 +54,7 @@ const shaggyCollectionData = [
                             },
                             {
                                 size: "200x300cm",
-                                image: "assets/catalogues/shaggy/ivory-200x300.jpeg",
+                                image: "assets/catalogues/shaggy/ivory-200x300.png",
                                 price: 2150000,
                                 shopee: "https://shopee.co.id/Carpet-Premium-SHAGGY-200-X-300-cm-Karpet-Lantai-Ruang-Tamu-Jumbo-Besar-Polos-Ngonten-RUGS-i.964448777.25228729591?sp_atk=f88e64f3-9ccc-402b-8be7-025bf1ef9236&xptdk=f88e64f3-9ccc-402b-8be7-025bf1ef9236",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-shaggy-collection-200x300-cm-karpet-ruang-tamu-jumbo-modern-polos-royal-rugs-blue-gold-grey-silver-1730650131225937153?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
@@ -74,7 +74,7 @@ const shaggyCollectionData = [
                         id: "sh-003",
                         title: "Dark Gold",
                         description: "Make a bold statement with our Dark Gold Shaggy Rug, a luxurious addition that brings warmth and sophistication to any space. The rich, golden-brown fibers create a stunning visual depth that changes with the light, adding dynamic interest to your decor. Crafted from premium synthetic fibers, this rug offers exceptional softness underfoot while maintaining its plush appearance over time. The deep pile provides excellent insulation, making it perfect for colder months. The elegant gold hue pairs beautifully with neutral tones or serves as a striking contrast to darker color schemes. This rug is not only a visual centerpiece but also highly functional, with a durable construction that resists matting and crushing.",
-                        image: "assets/catalogues/shaggy/dark_gold-150x200.png",
+                        image: "assets/catalogues/shaggy/dark_gold-300x400.png",
                         sizes: [
                             {
                                 size: "150x200cm",
@@ -86,7 +86,7 @@ const shaggyCollectionData = [
                             },
                             {
                                 size: "200x300cm",
-                                image: "assets/catalogues/shaggy/dark_gold-200x300.jpeg",
+                                image: "assets/catalogues/shaggy/dark_gold-200x300.png",
                                 price: 2150000,
                                 shopee: "https://shopee.co.id/Carpet-Premium-SHAGGY-200-X-300-cm-Karpet-Lantai-Ruang-Tamu-Jumbo-Besar-Polos-Ngonten-RUGS-i.964448777.25228729591?sp_atk=f88e64f3-9ccc-402b-8be7-025bf1ef9236&xptdk=f88e64f3-9ccc-402b-8be7-025bf1ef9236",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-shaggy-collection-200x300-cm-karpet-ruang-tamu-jumbo-modern-polos-royal-rugs-blue-gold-grey-silver-1730650131225937153?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
@@ -118,7 +118,7 @@ const shaggyCollectionData = [
                             },
                             {
                                 size: "200x300cm",
-                                image: "assets/catalogues/shaggy/soft_blue-200x300.jpeg",
+                                image: "assets/catalogues/shaggy/soft_blue-200x300.png",
                                 price: 2150000,
                                 shopee: "https://shopee.co.id/Carpet-Premium-SHAGGY-200-X-300-cm-Karpet-Lantai-Ruang-Tamu-Jumbo-Besar-Polos-Ngonten-RUGS-i.964448777.25228729591?sp_atk=f88e64f3-9ccc-402b-8be7-025bf1ef9236&xptdk=f88e64f3-9ccc-402b-8be7-025bf1ef9236",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-shaggy-collection-200x300-cm-karpet-ruang-tamu-jumbo-modern-polos-royal-rugs-blue-gold-grey-silver-1730650131225937153?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
@@ -138,7 +138,7 @@ const shaggyCollectionData = [
                         id: "sh-005",
                         title: "Ruby Red",
                         description: "Make a bold statement with our Ruby Red Shaggy Rug, a vibrant centerpiece that adds warmth and energy to any room. The deep, rich red hue creates a sense of luxury and sophistication, perfect for making a dramatic impact in living rooms or dining areas. The extra-plush pile provides exceptional comfort underfoot, making it ideal for areas where you love to relax and unwind. Crafted from premium synthetic fibers, this rug is both durable and easy to maintain, resisting stains and shedding. The non-slip backing ensures safety on all floor types, while the lush texture adds depth and dimension to your space. This rug is more than just a floor covering—it's a statement piece that elevates your home's aesthetic with its bold color and sumptuous feel.",
-                        image: "assets/catalogues/shaggy/ruby_red-150x200.png",
+                        image: "assets/catalogues/shaggy/ruby_red-200x300.png",
                         sizes: [
                             {
                                 size: "150x200cm",
@@ -150,7 +150,7 @@ const shaggyCollectionData = [
                             },
                             {
                                 size: "200x300cm",
-                                image: "assets/catalogues/shaggy/ruby_red-200x300.jpeg",
+                                image: "assets/catalogues/shaggy/ruby_red-200x300.png",
                                 price: 2150000,
                                 shopee: "https://shopee.co.id/Carpet-Premium-SHAGGY-200-X-300-cm-Karpet-Lantai-Ruang-Tamu-Jumbo-Besar-Polos-Ngonten-RUGS-i.964448777.25228729591?sp_atk=f88e64f3-9ccc-402b-8be7-025bf1ef9236&xptdk=f88e64f3-9ccc-402b-8be7-025bf1ef9236",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-shaggy-collection-200x300-cm-karpet-ruang-tamu-jumbo-modern-polos-royal-rugs-blue-gold-grey-silver-1730650131225937153?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",

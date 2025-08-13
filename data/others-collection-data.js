@@ -10,7 +10,7 @@ const othersCollectionData = [
                         id: "ot-001",
                         title: "DM1",
                         description: "Elegant and durable doormat featuring a sophisticated geometric pattern. Made with high-quality, weather-resistant materials that trap dirt and moisture, keeping your floors clean while adding a touch of style to your entrance.",
-                        image: "assets/catalogues/others/keset-lantai/DM1.jpeg",
+                        image: "assets/catalogues/others/keset-lantai/DM1.png",
                         sizes: [
                             {
                                 size: "160x230cm",
@@ -25,7 +25,7 @@ const othersCollectionData = [
                         id: "ot-002",
                         title: "DM2",
                         description: "Premium doormat with a classic striped design, offering both functionality and visual appeal. The durable construction ensures long-lasting performance while the textured surface effectively removes dirt and debris from shoes.",
-                        image: "assets/catalogues/others/keset-lantai/DM2.jpeg",
+                        image: "assets/catalogues/others/keset-lantai/DM2.png",
                         sizes: [
                             {
                                 size: "160x230cm",
@@ -40,7 +40,7 @@ const othersCollectionData = [
                         id: "ot-003",
                         title: "DM3",
                         description: "Premium doormat with a classic striped design, offering both functionality and visual appeal. The durable construction ensures long-lasting performance while the textured surface effectively removes dirt and debris from shoes.",
-                        image: "assets/catalogues/others/keset-lantai/DM3.jpeg",
+                        image: "assets/catalogues/others/keset-lantai/DM3.png",
                         sizes: [
                             {
                                 size: "160x230cm",
@@ -55,7 +55,7 @@ const othersCollectionData = [
                         id: "ot-004",
                         title: "DM4",
                         description: "Premium doormat with a classic striped design, offering both functionality and visual appeal. The durable construction ensures long-lasting performance while the textured surface effectively removes dirt and debris from shoes.",
-                        image: "assets/catalogues/others/keset-lantai/DM4.jpeg",
+                        image: "assets/catalogues/others/keset-lantai/DM4.png",
                         sizes: [
                             {
                                 size: "160x230cm",
@@ -70,7 +70,22 @@ const othersCollectionData = [
                         id: "ot-005",
                         title: "DM5",
                         description: "Premium doormat with a classic striped design, offering both functionality and visual appeal. The durable construction ensures long-lasting performance while the textured surface effectively removes dirt and debris from shoes.",
-                        image: "assets/catalogues/others/keset-lantai/DM5.jpeg",
+                        image: "assets/catalogues/others/keset-lantai/DM5.png",
+                        sizes: [
+                            {
+                                size: "160x230cm",
+                                price: 89000,
+                                shopee: "https://shopee.co.id/Keset-Kaki-Premium-Keset-Dapur-Kamar-Mandi-Anti-Slip-40x60-cm-Kitchen-Mats-Door-Mat-Alas-Lantai-i.964448777.26127542663?sp_atk=be179928-0754-4a4c-94fc-a93e85b05c53&xptdk=be179928-0754-4a4c-94fc-a93e85b05c53",
+                                tokopedia: "https://www.tokopedia.com/royalrugsindonesia/keset-lantai-kamar-mandi-keset-dapur-anti-slip-40x60-cm-kitchen-mats-door-mat-alas-lantai-bathroom-depan-pintu-1730926739521963265?extParam=whid%3D15250858%26src%3Dshop&aff_unique_id=&channel=others&chain_key=",
+                                tiktok: "https://shop-id.tokopedia.com/pdp/keset-lantai-anti-slip-royal-rugs-nyaman-dan-stylish/1730926708221445377?source=product_detail&enter_from=product_detail&enter_method=feed_list_more_from"
+                            }
+                        ]
+                    },
+                    {
+                        id: "ot-006",
+                        title: "DM6",
+                        description: "Premium doormat with a classic striped design, offering both functionality and visual appeal. The durable construction ensures long-lasting performance while the textured surface effectively removes dirt and debris from shoes.",
+                        image: "assets/catalogues/others/keset-lantai/DM6.png",
                         sizes: [
                             {
                                 size: "160x230cm",
@@ -85,7 +100,7 @@ const othersCollectionData = [
                         id: "ot-007",
                         title: "DM7",
                         description: "Premium doormat with a classic striped design, offering both functionality and visual appeal. The durable construction ensures long-lasting performance while the textured surface effectively removes dirt and debris from shoes.",
-                        image: "assets/catalogues/others/keset-lantai/DM7.jpeg",
+                        image: "assets/catalogues/others/keset-lantai/DM7.png",
                         sizes: [
                             {
                                 size: "160x230cm",
@@ -100,7 +115,7 @@ const othersCollectionData = [
                         id: "ot-008",
                         title: "DM8",
                         description: "Premium doormat with a classic striped design, offering both functionality and visual appeal. The durable construction ensures long-lasting performance while the textured surface effectively removes dirt and debris from shoes.",
-                        image: "assets/catalogues/others/keset-lantai/DM8.jpeg",
+                        image: "assets/catalogues/others/keset-lantai/DM8.png",
                         sizes: [
                             {
                                 size: "160x230cm",
@@ -115,7 +130,7 @@ const othersCollectionData = [
                         id: "ot-009",
                         title: "DM9",
                         description: "Premium doormat with a classic striped design, offering both functionality and visual appeal. The durable construction ensures long-lasting performance while the textured surface effectively removes dirt and debris from shoes.",
-                        image: "assets/catalogues/others/keset-lantai/DM9.jpeg",
+                        image: "assets/catalogues/others/keset-lantai/DM9.png",
                         sizes: [
                             {
                                 size: "160x230cm",
@@ -130,7 +145,7 @@ const othersCollectionData = [
                         id: "ot-010",
                         title: "DM10",
                         description: "Premium doormat with a classic striped design, offering both functionality and visual appeal. The durable construction ensures long-lasting performance while the textured surface effectively removes dirt and debris from shoes.",
-                        image: "assets/catalogues/others/keset-lantai/DM10.jpeg",
+                        image: "assets/catalogues/others/keset-lantai/DM10.png",
                         sizes: [
                             {
                                 size: "160x230cm",
@@ -151,10 +166,11 @@ const othersCollectionData = [
                         id: "ot-101",
                         title: "Grass",
                         description: "Transform any space with our premium synthetic grass, offering a lush, natural look without the maintenance. This high-quality artificial turf features realistic texture and vibrant green color, perfect for balconies, patios, or indoor play areas. UV-resistant and weatherproof for year-round beauty.",
-                        image: "assets/catalogues/others/grass/grass.jpeg",
+                        image: "assets/catalogues/others/grass/grass_1.png",
                         sizes: [
                             {
                                 size: "100x200cm",
+                                image: "assets/catalogues/others/grass/grass_1.png",
                                 price: 391350,
                                 shopee: "https://shopee.co.id/Synthetic-Oasis-Green-Grass-Royal-Karpet-Rumput-Sintetis-3-cm-Carpet-Dekorasi-Taman-Artificial-i.964448777.26153994686?sp_atk=07a1dc70-270d-4988-890c-64041cf8fcce&xptdk=07a1dc70-270d-4988-890c-64041cf8fcce",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/synthetic-oasis-green-grass-royal-karpet-rumput-sintetis-3-cm-premium-eco-friendly-tahan-uv-untuk-dekorasi-rumah-taman-outdoor-indoor-1729704556249384193?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
@@ -162,6 +178,7 @@ const othersCollectionData = [
                             },
                             {
                                 size: "150x200cm",
+                                image: "assets/catalogues/others/grass/grass_2.png",
                                 price: 441500,
                                 shopee: "https://shopee.co.id/Synthetic-Oasis-Green-Grass-Royal-Karpet-Rumput-Sintetis-3-cm-Carpet-Dekorasi-Taman-Artificial-i.964448777.26153994686?sp_atk=07a1dc70-270d-4988-890c-64041cf8fcce&xptdk=07a1dc70-270d-4988-890c-64041cf8fcce",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/synthetic-oasis-green-grass-royal-karpet-rumput-sintetis-3-cm-premium-eco-friendly-tahan-uv-untuk-dekorasi-rumah-taman-outdoor-indoor-1729704556249384193?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
@@ -169,6 +186,7 @@ const othersCollectionData = [
                             },
                             {
                                 size: "200x200cm",
+                                image: "assets/catalogues/others/grass/grass_3.png",
                                 price: 579000,
                                 shopee: "https://shopee.co.id/Synthetic-Oasis-Green-Grass-Royal-Karpet-Rumput-Sintetis-3-cm-Carpet-Dekorasi-Taman-Artificial-i.964448777.26153994686?sp_atk=07a1dc70-270d-4988-890c-64041cf8fcce&xptdk=07a1dc70-270d-4988-890c-64041cf8fcce",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/synthetic-oasis-green-grass-royal-karpet-rumput-sintetis-3-cm-premium-eco-friendly-tahan-uv-untuk-dekorasi-rumah-taman-outdoor-indoor-1729704556249384193?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
@@ -176,6 +194,7 @@ const othersCollectionData = [
                             },
                             {
                                 size: "300x200cm",
+                                image: "assets/catalogues/others/grass/grass_4.png",
                                 price: 868500,
                                 shopee: "https://shopee.co.id/Synthetic-Oasis-Green-Grass-Royal-Karpet-Rumput-Sintetis-3-cm-Carpet-Dekorasi-Taman-Artificial-i.964448777.26153994686?sp_atk=07a1dc70-270d-4988-890c-64041cf8fcce&xptdk=07a1dc70-270d-4988-890c-64041cf8fcce",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/synthetic-oasis-green-grass-royal-karpet-rumput-sintetis-3-cm-premium-eco-friendly-tahan-uv-untuk-dekorasi-rumah-taman-outdoor-indoor-1729704556249384193?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
@@ -183,6 +202,7 @@ const othersCollectionData = [
                             },
                             {
                                 size: "400x200cm",
+                                image: "assets/catalogues/others/grass/grass_5.png",
                                 price: 1178500,
                                 shopee: "https://shopee.co.id/Synthetic-Oasis-Green-Grass-Royal-Karpet-Rumput-Sintetis-3-cm-Carpet-Dekorasi-Taman-Artificial-i.964448777.26153994686?sp_atk=07a1dc70-270d-4988-890c-64041cf8fcce&xptdk=07a1dc70-270d-4988-890c-64041cf8fcce",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/synthetic-oasis-green-grass-royal-karpet-rumput-sintetis-3-cm-premium-eco-friendly-tahan-uv-untuk-dekorasi-rumah-taman-outdoor-indoor-1729704556249384193?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
@@ -190,6 +210,7 @@ const othersCollectionData = [
                             },
                             {
                                 size: "500x200cm",
+                                image: "assets/catalogues/others/grass/grass_6.png",
                                 price: 1423500,
                                 shopee: "https://shopee.co.id/Synthetic-Oasis-Green-Grass-Royal-Karpet-Rumput-Sintetis-3-cm-Carpet-Dekorasi-Taman-Artificial-i.964448777.26153994686?sp_atk=07a1dc70-270d-4988-890c-64041cf8fcce&xptdk=07a1dc70-270d-4988-890c-64041cf8fcce",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/synthetic-oasis-green-grass-royal-karpet-rumput-sintetis-3-cm-premium-eco-friendly-tahan-uv-untuk-dekorasi-rumah-taman-outdoor-indoor-1729704556249384193?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",

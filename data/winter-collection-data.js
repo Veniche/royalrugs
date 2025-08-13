@@ -42,7 +42,7 @@ const winterCollectionData = [
                         id: "wn-002",
                         title: "BF202 - AMARINE",
                         description: "Sumptuous deep brown wool rug with a rich, velvety pile that provides exceptional warmth and comfort. The dense, plush texture creates a soft underfoot experience, making it perfect for creating a cozy winter retreat in any living space.",
-                        image: "assets/catalogues/winter/bespoke-fusion/BF202-160x240.png",
+                        image: "assets/catalogues/winter/bespoke-fusion/BF202-200x300.png",
                         sizes: [
                             {
                                 size: "160x240cm",
@@ -74,7 +74,7 @@ const winterCollectionData = [
                         id: "wn-003",
                         title: "BF203 - CRIMSON",
                         description: "Sumptuous deep brown wool rug with a rich, velvety pile that provides exceptional warmth and comfort. The dense, plush texture creates a soft underfoot experience, making it perfect for creating a cozy winter retreat in any living space.",
-                        image: "assets/catalogues/winter/bespoke-fusion/BF203-160x240.png",
+                        image: "assets/catalogues/winter/bespoke-fusion/BF203-300x400.png",
                         sizes: [
                             {
                                 size: "160x240cm",
@@ -138,7 +138,7 @@ const winterCollectionData = [
                         id: "wn-005",
                         title: "BF205 - HARMONY",
                         description: "Sumptuous deep brown wool rug with a rich, velvety pile that provides exceptional warmth and comfort. The dense, plush texture creates a soft underfoot experience, making it perfect for creating a cozy winter retreat in any living space.",
-                        image: "assets/catalogues/winter/bespoke-fusion/BF205-160x240.png",
+                        image: "assets/catalogues/winter/bespoke-fusion/BF205-200x300.png",
                         sizes: [
                             {
                                 size: "160x240cm",
@@ -170,7 +170,7 @@ const winterCollectionData = [
                         id: "wn-006",
                         title: "BF206 - BLUE OCEAN",
                         description: "Sumptuous deep brown wool rug with a rich, velvety pile that provides exceptional warmth and comfort. The dense, plush texture creates a soft underfoot experience, making it perfect for creating a cozy winter retreat in any living space.",
-                        image: "assets/catalogues/winter/bespoke-fusion/BF206-160x240.png",
+                        image: "assets/catalogues/winter/bespoke-fusion/BF206-300x400.png",
                         sizes: [
                             {
                                 size: "160x240cm",
@@ -234,7 +234,7 @@ const winterCollectionData = [
                         id: "wn-008",
                         title: "BF208 - WHITEY SNAKE",
                         description: "Sumptuous deep brown wool rug with a rich, velvety pile that provides exceptional warmth and comfort. The dense, plush texture creates a soft underfoot experience, making it perfect for creating a cozy winter retreat in any living space.",
-                        image: "assets/catalogues/winter/bespoke-fusion/BF208-160x240.png",
+                        image: "assets/catalogues/winter/bespoke-fusion/BF208-200x300.png",
                         sizes: [
                             {
                                 size: "160x240cm",
@@ -266,7 +266,7 @@ const winterCollectionData = [
                         id: "wn-009",
                         title: "BF209 - VELVET",
                         description: "Sumptuous deep brown wool rug with a rich, velvety pile that provides exceptional warmth and comfort. The dense, plush texture creates a soft underfoot experience, making it perfect for creating a cozy winter retreat in any living space.",
-                        image: "assets/catalogues/winter/bespoke-fusion/BF209-160x240.png",
+                        image: "assets/catalogues/winter/bespoke-fusion/BF209-300x400.png",
                         sizes: [
                             {
                                 size: "160x240cm",
@@ -348,7 +348,7 @@ const winterCollectionData = [
                             },
                             {
                                 size: "200x300cm",
-                                image: "assets/catalogues/winter/bespoke-abstract/BA202-200x300.png",
+                                image: "assets/catalogues/winter/bespoke-abstract/BA202-160x240.png",
                                 price: 1999000,
                                 shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-ABSTRACT-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-abstract-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
@@ -368,7 +368,7 @@ const winterCollectionData = [
                         id: "wn-103",
                         title: "BA203 - SHORE",
                         description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
-                        image: "assets/catalogues/winter/bespoke-abstract/BA203-160x240.png",
+                        image: "assets/catalogues/winter/bespoke-abstract/BA203-300x400.png",
                         sizes: [
                             {
                                 size: "160x240cm",
@@ -432,7 +432,7 @@ const winterCollectionData = [
                         id: "wn-105",
                         title: "BA205 - DIM",
                         description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
-                        image: "assets/catalogues/winter/bespoke-abstract/BA205-160x240.png",
+                        image: "assets/catalogues/winter/bespoke-abstract/BA205-200x300.png",
                         sizes: [
                             {
                                 size: "160x240cm",
@@ -464,7 +464,7 @@ const winterCollectionData = [
                         id: "wn-106",
                         title: "BA206 - BLACKY",
                         description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
-                        image: "assets/catalogues/winter/bespoke-abstract/BA206-160x240.png",
+                        image: "assets/catalogues/winter/bespoke-abstract/BA206-300x400.png",
                         sizes: [
                             {
                                 size: "160x240cm",
@@ -528,7 +528,7 @@ const winterCollectionData = [
                         id: "wn-108",
                         title: "BA208 - ARTSY",
                         description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
-                        image: "assets/catalogues/winter/bespoke-abstract/BA208-160x240.png",
+                        image: "assets/catalogues/winter/bespoke-abstract/BA208-200x300.png",
                         sizes: [
                             {
                                 size: "160x240cm",
@@ -560,7 +560,7 @@ const winterCollectionData = [
                         id: "wn-109",
                         title: "BA209 - GREY HASTAG",
                         description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
-                        image: "assets/catalogues/winter/bespoke-abstract/BA209-160x240.png",
+                        image: "assets/catalogues/winter/bespoke-abstract/BA209-300x400.png",
                         sizes: [
                             {
                                 size: "160x240cm",
@@ -630,7 +630,7 @@ const winterCollectionData = [
                         id: "wn-202",
                         title: "BM202 - SHIRAZ",
                         description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
-                        image: "assets/catalogues/winter/bespoke-moroccan/BM202-160x240.png",
+                        image: "assets/catalogues/winter/bespoke-moroccan/BM202-200x300.png",
                         sizes: [
                             {
                                 size: "160x240cm",
@@ -662,7 +662,7 @@ const winterCollectionData = [
                         id: "wn-203",
                         title: "BM203 - MAROC RETRO",
                         description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
-                        image: "assets/catalogues/winter/bespoke-moroccan/BM203-160x240.png",
+                        image: "assets/catalogues/winter/bespoke-moroccan/BM203-300x400.png",
                         sizes: [
                             {
                                 size: "160x240cm",
@@ -726,7 +726,7 @@ const winterCollectionData = [
                         id: "wn-205",
                         title: "BM205 - LUMINE",
                         description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
-                        image: "assets/catalogues/winter/bespoke-moroccan/BM205-160x240.png",
+                        image: "assets/catalogues/winter/bespoke-moroccan/BM205-200x300.png",
                         sizes: [
                             {
                                 size: "160x240cm",
@@ -758,7 +758,7 @@ const winterCollectionData = [
                         id: "wn-206",
                         title: "BM206 - VATTEN KIDOR",
                         description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
-                        image: "assets/catalogues/winter/bespoke-moroccan/BM206-160x240.png",
+                        image: "assets/catalogues/winter/bespoke-moroccan/BM206-300x400.png",
                         sizes: [
                             {
                                 size: "160x240cm",
@@ -822,7 +822,7 @@ const winterCollectionData = [
                         id: "wn-208",
                         title: "BM208 - LUXURY",
                         description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
-                        image: "assets/catalogues/winter/bespoke-moroccan/BM208-160x240.png",
+                        image: "assets/catalogues/winter/bespoke-moroccan/BM208-200x300.png",
                         sizes: [
                             {
                                 size: "160x240cm",
@@ -854,7 +854,7 @@ const winterCollectionData = [
                         id: "wn-209",
                         title: "BM209 - VALBY RUTH",
                         description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
-                        image: "assets/catalogues/winter/bespoke-moroccan/BM209-160x240.png",
+                        image: "assets/catalogues/winter/bespoke-moroccan/BM209-300x400.png",
                         sizes: [
                             {
                                 size: "160x240cm",
@@ -892,11 +892,11 @@ const winterCollectionData = [
                         id: "wn-301",
                         title: "BD201 - OLINE",
                         description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
-                        image: "assets/catalogues/winter/bespoke-disc/BD201-140.jpeg",
+                        image: "assets/catalogues/winter/bespoke-disc/BD201-140.png",
                         sizes: [
                             {
                                 size: "Diameter 140cm",
-                                image: "assets/catalogues/winter/bespoke-disc/BD201-140.jpeg",
+                                image: "assets/catalogues/winter/bespoke-disc/BD201-140.png",
                                 price: 699000,
                                 shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-DISC-140cm-Diameter-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-disc-140cm-diameter-permadani-estetik-modern-artisan-dekorasi-ruangan-karpet-lantai-rugs-1730716257841241602?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=1%3A1730716257841241602",
