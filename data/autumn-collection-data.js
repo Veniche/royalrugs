@@ -5,11 +5,17 @@ const autumnCollectionData = [
             {
                 "title": "Premium Turkish",
                 "description": "Exquisite Turkish rugs featuring intricate patterns and warm autumn palettes that bring timeless elegance to any space. Each piece is crafted with premium materials and traditional techniques.",
+                "specifications": "<div class='specifications'><strong>Specifications</strong><ul>" +
+                "<li><strong>Material:</strong> Premium 600 GSM Nylon Yarn</li>" +
+                "<li><strong>Thickness:</strong> 10 mm</li>" +
+                "<li><strong>Border:</strong> Frameless with Hemming Finish</li>" +
+                "<li><strong>Backing:</strong> Soft, Anti-Slip Layer</li>" +
+                "<li><strong>Warranty:</strong> 3 Years</li></ul></div>",
                 "products": [
                     {
                         "id": "au-001",
                         "title": "PT101 - AMBER MEDINA",
-                        "description": "Rich chocolate browns and warm caramels intertwine in this elegant Turkish design, featuring subtle leaf motifs that capture the essence of autumn. The plush texture provides comfort underfoot while the sophisticated pattern adds a touch of luxury to any room. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "Rich chocolate browns and warm caramels intertwine in this elegant Turkish design, featuring subtle leaf motifs that capture the essence of autumn. The plush texture provides comfort underfoot while the sophisticated pattern adds a touch of luxury to any room.",
                         "image": "assets/catalogues/autumn/premium-turkish/PT101-200x300.png",
                         "sizes": [
                             {
@@ -33,7 +39,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-002",
                         "title": "PT102 - ETHNIC MYSTIQUE",
-                        "description": "Luxurious golden amber and deep bronze tones create a radiant glow in this handcrafted Turkish rug. The intricate geometric patterns are inspired by traditional Anatolian designs, offering both visual interest and a cozy foundation for autumn gatherings. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "Luxurious golden amber and deep bronze tones create a radiant glow in this handcrafted Turkish rug. The intricate geometric patterns are inspired by traditional Anatolian designs, offering both visual interest and a cozy foundation for autumn gatherings.",
                         "image": "assets/catalogues/autumn/premium-turkish/PT102-150x200.png",
                         "sizes": [
                             {
@@ -57,7 +63,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-003",
                         "title": "PT103 - TRADITIONAL HENA",
-                        "description": "A sophisticated blend of terracotta, olive, and cream in a traditional plaid design that brings warmth and texture to any space. The rich colors are reminiscent of autumn leaves and harvest season, creating an inviting atmosphere in your home. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "A sophisticated blend of terracotta, olive, and cream in a traditional plaid design that brings warmth and texture to any space. The rich colors are reminiscent of autumn leaves and harvest season, creating an inviting atmosphere in your home.",
                         "image": "assets/catalogues/autumn/premium-turkish/PT103-200x300.png",
                         "sizes": [
                             {
@@ -81,7 +87,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-004",
                         "title": "PT104 - ARABIAN TONKA",
-                        "description": "Soft ivory and muted taupe tones are delicately woven into this design. Touches of antique gold add a subtle warmth, evoking the golden light of early autumn. This rug offers timeless beauty to anchor your living space. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "Soft ivory and muted taupe tones are delicately woven into this design. Touches of antique gold add a subtle warmth, evoking the golden light of early autumn. This rug offers timeless beauty to anchor your living space.",
                         "image": "assets/catalogues/autumn/premium-turkish/PT104-150x200.png",
                         "sizes": [
                             {
@@ -105,7 +111,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-005",
                         "title": "PT105 - OTTOMAN TWILIGHT",
-                        "description": "A deep midnight blue is accented with gentle gold and ivory undertones for this design. The rich hues and ornate detailing echo the depth of a breezy autumn night, creating a cozy yet elegant foundation for your space. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "A deep midnight blue is accented with gentle gold and ivory undertones for this design. The rich hues and ornate detailing echo the depth of a breezy autumn night, creating a cozy yet elegant foundation for your space.",
                         "image": "assets/catalogues/autumn/premium-turkish/PT105-200x300.png",
                         "sizes": [
                             {
@@ -129,7 +135,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-006",
                         "title": "PT106 - HONEY SOUK",
-                        "description": "Shades of beige and cream weave together in a harmonious classic pattern. Its gentle tones and intricate details resemble the autumn sunlight filtering through golden leaves \u2014 a perfect statement piece to add warmth to any room. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "Shades of beige and cream weave together in a harmonious classic pattern. Its gentle tones and intricate details resemble the autumn sunlight filtering through golden leaves — a perfect statement piece to add warmth to any room.",
                         "image": "assets/catalogues/autumn/premium-turkish/PT106-150x200.png",
                         "sizes": [
                             {
@@ -153,7 +159,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-007",
                         "title": "PT107 - RUSTIC BLOSSOM",
-                        "description": "A tapestry of earthy browns, warm chestnut and delicate cream blooms. This rug reflects the changing leaves and timeless beauty of autumn. Its detailed floral design brings both richness and refinement to your living area. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "A tapestry of earthy browns, warm chestnut and delicate cream blooms. This rug reflects the changing leaves and timeless beauty of autumn. Its detailed floral design brings both richness and refinement to your living area.",
                         "image": "assets/catalogues/autumn/premium-turkish/PT107-200x300.png",
                         "sizes": [
                             {
@@ -177,7 +183,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-008",
                         "title": "PT108 - HORIZON SAPPHIRE",
-                        "description": "Marble-like waves of deep blue and slate grey flow towards an intricate circular motif, creating a striking balance of movement and symmetry. This design echos autumn\u2019s blend of rich landscapes adding a touch of elegance to your home. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "Marble-like waves of deep blue and slate grey flow towards an intricate circular motif, creating a striking balance of movement and symmetry. This design echos autumn’s blend of rich landscapes adding a touch of elegance to your home.",
                         "image": "assets/catalogues/autumn/premium-turkish/PT108-150x200.png",
                         "sizes": [
                             {

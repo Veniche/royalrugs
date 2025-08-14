@@ -268,6 +268,40 @@
     margin-bottom: 25px;
 }
 
+/* Specifications Styles */
+.specifications {
+    margin-top: 20px;
+    padding: 20px 0;
+    border-top: 1px solid #e9ecef;
+    border-bottom: 1px solid #e9ecef;
+}
+
+.specifications strong {
+    display: block;
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.specifications ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.specifications li {
+    padding: 5px 0;
+    color: #6c757d;
+    line-height: 1.6;
+}
+
+.specifications li strong {
+    display: inline;
+    color: #495057;
+    font-size: 1rem;
+    margin-right: 5px;
+}
+
 .size-selector {
     margin: 25px 0;
 }

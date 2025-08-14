@@ -155,7 +155,7 @@ function renderProducts(products) {
             </div>
             <div class="product-info">
                 <h3>${product.title}</h3>
-                <div class="product-description">${product.description.split('<br>')[0].substring(0, 100)}${product.description.length > 100 ? '...' : ''}</div>
+                <div class="product-description">${product.description.substring(0, 100)}${product.description.length > 100 ? '...' : ''}</div>
                 <div class="product-price">
                     ${formatPrice(product.sizes[0].price)}
                     ${product.sizes.length > 1 ? `<span class="size-variants">+${product.sizes.length - 1} more sizes</span>` : ''}
@@ -187,7 +187,18 @@ function openProductModal(product) {
     modalProductImage.src = product.image;
     modalProductImage.alt = product.title;
     modalProductTitle.textContent = product.title;
-    modalProductDescription.innerHTML = product.description; // Changed to innerHTML to render HTML
+    
+    // Get the current category to access its specifications
+    const collectionData = collectionDataMap[collectionId];
+    const category = collectionData.categories[currentCategoryIndex];
+    
+    // Combine product description with category specifications if they exist
+    let fullDescription = product.description;
+    if (category.specifications) {
+        fullDescription += category.specifications;
+    }
+    
+    modalProductDescription.innerHTML = fullDescription; // Render HTML
     
     // Populate size selector
     sizeSelect.innerHTML = product.sizes.map((size, index) => `
