@@ -3,7 +3,7 @@ const catalogData = [
         id: 1,
         title: "Spring Collection",
         slug: "spring-collection",
-        image: "assets/catalogues/spring_3.png",
+        image: "assets/catalogues/spring.png",
         description: "Fresh and vibrant designs that bring the renewal of spring into your home. Features floral patterns and pastel colors perfect for refreshing any space.",
         buttonText: "View Catalogue"
     },

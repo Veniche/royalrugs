@@ -14,7 +14,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/persian/AR51-150x200_1.png",
+                                image: "assets/catalogues/spring/persian/AR51-150x200.jpg",
                                 price: 399200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-Aesthetic-PERSIAN-150x200-cm-Permadani-Ruang-Tamu-Halus-Anti-Slip-Carpet-Tebal-Turki-i.964448777.17397368160",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-persian-anti-slip-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -34,11 +34,11 @@ const springCollectionData = [
                         id: "sp-002",
                         title: "AR52 - PATTERN LINE",
                         description: "Elegance flows through every thread of the PATTERN LINE, where delicate linear motifs dance across a canvas of warm beige. The subtle texture adds depth and dimension, creating a refined foundation that elevates any interior with understated luxury.",
-                        image: "assets/catalogues/spring/persian/AR52-150x200_1.png",
+                        image: "assets/catalogues/spring/persian/AR52-150x200.jpg",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/persian/AR52-150x200_1.png",
+                                image: "assets/catalogues/spring/persian/AR52-150x200.jpg",
                                 price: 399200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-Aesthetic-PERSIAN-150x200-cm-Permadani-Ruang-Tamu-Halus-Anti-Slip-Carpet-Tebal-Turki-i.964448777.17397368160",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-persian-anti-slip-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -62,7 +62,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/persian/AR53-150x200_1.png",
+                                image: "assets/catalogues/spring/persian/AR53-150x200.jpg",
                                 price: 399200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-Aesthetic-PERSIAN-150x200-cm-Permadani-Ruang-Tamu-Halus-Anti-Slip-Carpet-Tebal-Turki-i.964448777.17397368160",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-persian-anti-slip-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -82,11 +82,11 @@ const springCollectionData = [
                         id: "sp-004",
                         title: "AR54 - RED FLOWER",
                         description: "A bold statement of passion and grace, RED FLOWER showcases an exquisite floral motif in rich crimson against a refined gray backdrop. The intricate details bloom with artistic precision, creating a captivating focal point that commands attention.",
-                        image: "assets/catalogues/spring/persian/AR54-150x200_1.png",
+                        image: "assets/catalogues/spring/persian/AR54-150x200.jpg",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/persian/AR54-150x200_1.png",
+                                image: "assets/catalogues/spring/persian/AR54-150x200.jpg",
                                 price: 399200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-Aesthetic-PERSIAN-150x200-cm-Permadani-Ruang-Tamu-Halus-Anti-Slip-Carpet-Tebal-Turki-i.964448777.17397368160",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-persian-anti-slip-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -110,7 +110,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/persian/AR55-150x200_1.png",
+                                image: "assets/catalogues/spring/persian/AR55-150x200.jpg",
                                 price: 399200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-Aesthetic-PERSIAN-150x200-cm-Permadani-Ruang-Tamu-Halus-Anti-Slip-Carpet-Tebal-Turki-i.964448777.17397368160",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-persian-anti-slip-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -130,11 +130,11 @@ const springCollectionData = [
                         id: "sp-006",
                         title: "AR56 - VALENCIA ART",
                         description: "Inspired by the architectural wonders of Valencia, this piece weaves together textured grays in a masterful composition that captures the essence of modern design. The subtle variations in tone create a dynamic surface that shifts beautifully with the light.",
-                        image: "assets/catalogues/spring/persian/AR56-150x200_1.png",
+                        image: "assets/catalogues/spring/persian/AR56-150x200.jpg",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/persian/AR56-150x200_1.png",
+                                image: "assets/catalogues/spring/persian/AR56-150x200.jpg",
                                 price: 399200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-Aesthetic-PERSIAN-150x200-cm-Permadani-Ruang-Tamu-Halus-Anti-Slip-Carpet-Tebal-Turki-i.964448777.17397368160",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-persian-anti-slip-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -158,7 +158,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/persian/AR57-150x200_1.png",
+                                image: "assets/catalogues/spring/persian/AR57-150x200.jpg",
                                 price: 399200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-Aesthetic-PERSIAN-150x200-cm-Permadani-Ruang-Tamu-Halus-Anti-Slip-Carpet-Tebal-Turki-i.964448777.17397368160",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-persian-anti-slip-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -178,11 +178,11 @@ const springCollectionData = [
                         id: "sp-008",
                         title: "AR58 - MARBLE",
                         description: "Evoking the timeless beauty of veined marble, this design in pale mint green features a soft, frosted finish that captures the essence of spring's first breath. The organic patterns flow like gentle ripples on water, creating a sense of movement and tranquility.",
-                        image: "assets/catalogues/spring/persian/AR58-150x200_1.png",
+                        image: "assets/catalogues/spring/persian/AR58-150x200.jpg",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/persian/AR58-150x200_1.png",
+                                image: "assets/catalogues/spring/persian/AR58-150x200.jpg",
                                 price: 399200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-Aesthetic-PERSIAN-150x200-cm-Permadani-Ruang-Tamu-Halus-Anti-Slip-Carpet-Tebal-Turki-i.964448777.17397368160",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-persian-anti-slip-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -208,11 +208,11 @@ const springCollectionData = [
                         id: "sp-101",
                         title: "AB51 - FADING",
                         description: "A mesmerizing gradient of warm terracotta that seems to shift and flow like a desert sunset, FADING creates an organic, ever-changing landscape underfoot. The intricate patterns whisper of ancient Moroccan artistry while maintaining a thoroughly contemporary aesthetic, perfect for adding warmth and depth to modern interiors.",
-                        image: "assets/catalogues/spring/abstract/AB51-150x200_1.jpeg",
+                        image: "assets/catalogues/spring/abstract/AB51-150x200.jpg",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/abstract/AB51-150x200_1.jpeg",
+                                image: "assets/catalogues/spring/abstract/AB51-150x200.jpg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -236,7 +236,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/abstract/AB52-150x200_1.jpeg",
+                                image: "assets/catalogues/spring/abstract/AB52-150x200.jpg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -256,11 +256,11 @@ const springCollectionData = [
                         id: "sp-103",
                         title: "AB53 - CONCRETE BRICK",
                         description: "A striking urban-inspired design, CONCRETE BRICK features a bold geometric pattern that mimics the texture of weathered city walls. The warm terracotta tones are beautifully balanced by subtle variations in shade, creating a dynamic interplay of light and shadow that adds depth and character to any modern space.",
-                        image: "assets/catalogues/spring/abstract/AB53-150x200_1.jpeg",
+                        image: "assets/catalogues/spring/abstract/AB53-150x200.jpg",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/abstract/AB53-150x200_1.jpeg",
+                                image: "assets/catalogues/spring/abstract/AB53-150x200.jpg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -284,7 +284,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/abstract/AB54-150x200_1.jpeg",
+                                image: "assets/catalogues/spring/abstract/AB54-150x200.jpg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -304,11 +304,11 @@ const springCollectionData = [
                         id: "sp-105",
                         title: "AB55 - ROUNDWAVE",
                         description: "Fluid, concentric circles in ROUNDWAVE create a mesmerizing optical effect, drawing the eye inward in a dance of color and form. The warm terracotta base is enlivened by subtle tonal variations, resulting in a design that's both dynamic and harmonious—perfect for adding movement to contemporary spaces.",
-                        image: "assets/catalogues/spring/abstract/AB55-150x200_1.jpeg",
+                        image: "assets/catalogues/spring/abstract/AB55-150x200.jpg",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/abstract/AB55-150x200_1.jpeg",
+                                image: "assets/catalogues/spring/abstract/AB55-150x200.jpg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -332,7 +332,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/abstract/AB56-150x200_1.jpeg",
+                                image: "assets/catalogues/spring/abstract/AB56-150x200.jpg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -352,11 +352,11 @@ const springCollectionData = [
                         id: "sp-107",
                         title: "AB57 - CLOUDY",
                         description: "Soft, ethereal patterns drift across the surface of CLOUDY, creating a dreamlike quality that's both calming and sophisticated. The warm terracotta base is enlivened by subtle variations in texture and tone, resulting in a rug that brings a sense of lightness and airiness to any room.",
-                        image: "assets/catalogues/spring/abstract/AB57-150x200_1.jpeg",
+                        image: "assets/catalogues/spring/abstract/AB57-150x200.jpg",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/abstract/AB57-150x200_1.jpeg",
+                                image: "assets/catalogues/spring/abstract/AB57-150x200.jpg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -414,7 +414,7 @@ const springCollectionData = [
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
-                                tiktok: "https://www.tiktok.com/view/product/1729642485583612161?_svg=1&encode_params=MIIBQQQM4p9CgxBtJmioJpNcBIIBHfq7FhWjf9lOXGK86ly4wOF-rieseg0odO2RkYeemDfY1eHIwWv_1J5ZJd2_5C8_tYrOT3IPZixjdcOHfxF0Xx-dJU_pAH_r-IoTOz662ZaK4kJVfoP-WV5GYk6_dwZhk6kBGfAa7FVGrj5I-pS2V695yvU94VEM11nEBCKOgvaFoVYFnRAkt6yXF1g_MKGRcBhMi6j-id3DKwbnFNmjeZvizDvX4yKNL-WY1k9Ah2UVLjrh1YkqF38XHADp7tNIY3V48iH-EzFV6xCP2ZFmNrEOkkH8p9BcAq1ejHsrcQK0umfkAV7Zd8yAbvwQR2Qx7dr_8n7EDtiyXM392ro0Ui-zUKUL9LF4_oCQu1PoAX_7Hm901_pq_Lb6DBTaZwQQlaQsxbW9pl8NTILOxHRlbw%3D%3D&og_info=%7B%22title%22%3A%22Karpet+Lantai+Bulat+Tropical+Anti+Slip+Diameter+100X100+-+By+Royal+Rugs%22%2C%22image%22%3A%22https%3A%5C%2F%5C%2Fp16-oec-va.ibyteimg.com%5C%2Ftos-maliva-i-o3syd03w52-us%5C%2Fd2d082f3fcdc46149da8d2e2ae430ab1~tplv-o3syd03w52-resize-webp%3A260%3A260.webp%3Fdr%3D15582%26t%3D555f072d%26ps%3D933b5bde%26shp%3D7745054a%26shcp%3D9b759fb9%26idc%3Dmy2%26from%3D2001012042%22%7D&share_app_id=1180&share_iid=7534583107844949778&share_link_id=6432bd65-790f-45b6-999c-c9258ddfa599&social_share_type=15&timestamp=1754282263&trackParams=%7B%22traffic_source_list%22%3A%5B6%2C7%5D%2C%22enable_shop_tab_popup%22%3A1%2C%22device_id%22%3A%227187305931318838789%22%7D&u_code=0&ug_btm=b0813%2Cb6661&ugbiz_name=UNKNOWN&unique_id=&utm_campaign=client_share&utm_medium=android&utm_source=whatsapp"
+                                tiktok: "https://www.tiktok.com/view/product/1729642485583612161?_svg=1&encode_params=MIIBQQQM4p9CgxBtJmioJpNcBIIBHfq7FhWjf9lOXGK86ly4wOF-rieseg0odO2RkYeemDfY1eHIwWvJ5ZJd2_5C8_tYrOT3IPZixjdcOHfxF0Xx-dJU_pAH_r-IoTOz662ZaK4kJVfoP-WV5GYk6_dwZhk6kBGfAa7FVGrj5I-pS2V695yvU94VEM11nEBCKOgvaFoVYFnRAkt6yXF1g_MKGRcBhMi6j-id3DKwbnFNmjeZvizDvX4yKNL-WY1k9Ah2UVLjrh1YkqF38XHADp7tNIY3V48iH-EzFV6xCP2ZFmNrEOkkH8p9BcAq1ejHsrcQK0umfkAV7Zd8yAbvwQR2Qx7dr_8n7EDtiyXM392ro0Ui-zUKUL9LF4_oCQu1PoAX_7Hm901_pq_Lb6DBTaZwQQlaQsxbW9pl8NTILOxHRlbw%3D%3D&og_info=%7B%22title%22%3A%22Karpet+Lantai+Bulat+Tropical+Anti+Slip+Diameter+100X100+-+By+Royal+Rugs%22%2C%22image%22%3A%22https%3A%5C%2F%5C%2Fp16-oec-va.ibyteimg.com%5C%2Ftos-maliva-i-o3syd03w52-us%5C%2Fd2d082f3fcdc46149da8d2e2ae430ab1~tplv-o3syd03w52-resize-webp%3A260%3A260.webp%3Fdr%3D15582%26t%3D555f072d%26ps%3D933b5bde%26shp%3D7745054a%26shcp%3D9b759fb9%26idc%3Dmy2%26from%3D2001012042%22%7D&share_app_id=1180&share_iid=7534583107844949778&share_link_id=6432bd65-790f-45b6-999c-c9258ddfa599&social_share_type=15&timestamp=1754282263&trackParams=%7B%22traffic_source_list%22%3A%5B6%2C7%5D%2C%22enable_shop_tab_popup%22%3A1%2C%22device_id%22%3A%227187305931318838789%22%7D&u_code=0&ug_btm=b0813%2Cb6661&ugbiz_name=UNKNOWN&unique_id=&utm_campaign=client_share&utm_medium=android&utm_source=whatsapp"
                             }
                         ]
                     },
@@ -430,7 +430,7 @@ const springCollectionData = [
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
-                                tiktok: "https://www.tiktok.com/view/product/1729642485583612161?_svg=1&encode_params=MIIBQQQM4p9CgxBtJmioJpNcBIIBHfq7FhWjf9lOXGK86ly4wOF-rieseg0odO2RkYeemDfY1eHIwWv_1J5ZJd2_5C8_tYrOT3IPZixjdcOHfxF0Xx-dJU_pAH_r-IoTOz662ZaK4kJVfoP-WV5GYk6_dwZhk6kBGfAa7FVGrj5I-pS2V695yvU94VEM11nEBCKOgvaFoVYFnRAkt6yXF1g_MKGRcBhMi6j-id3DKwbnFNmjeZvizDvX4yKNL-WY1k9Ah2UVLjrh1YkqF38XHADp7tNIY3V48iH-EzFV6xCP2ZFmNrEOkkH8p9BcAq1ejHsrcQK0umfkAV7Zd8yAbvwQR2Qx7dr_8n7EDtiyXM392ro0Ui-zUKUL9LF4_oCQu1PoAX_7Hm901_pq_Lb6DBTaZwQQlaQsxbW9pl8NTILOxHRlbw%3D%3D&og_info=%7B%22title%22%3A%22Karpet+Lantai+Bulat+Tropical+Anti+Slip+Diameter+100X100+-+By+Royal+Rugs%22%2C%22image%22%3A%22https%3A%5C%2F%5C%2Fp16-oec-va.ibyteimg.com%5C%2Ftos-maliva-i-o3syd03w52-us%5C%2Fd2d082f3fcdc46149da8d2e2ae430ab1~tplv-o3syd03w52-resize-webp%3A260%3A260.webp%3Fdr%3D15582%26t%3D555f072d%26ps%3D933b5bde%26shp%3D7745054a%26shcp%3D9b759fb9%26idc%3Dmy2%26from%3D2001012042%22%7D&share_app_id=1180&share_iid=7534583107844949778&share_link_id=6432bd65-790f-45b6-999c-c9258ddfa599&social_share_type=15&timestamp=1754282263&trackParams=%7B%22traffic_source_list%22%3A%5B6%2C7%5D%2C%22enable_shop_tab_popup%22%3A1%2C%22device_id%22%3A%227187305931318838789%22%7D&u_code=0&ug_btm=b0813%2Cb6661&ugbiz_name=UNKNOWN&unique_id=&utm_campaign=client_share&utm_medium=android&utm_source=whatsapp"
+                                tiktok: "https://www.tiktok.com/view/product/1729642485583612161?_svg=1&encode_params=MIIBQQQM4p9CgxBtJmioJpNcBIIBHfq7FhWjf9lOXGK86ly4wOF-rieseg0odO2RkYeemDfY1eHIwWvJ5ZJd2_5C8_tYrOT3IPZixjdcOHfxF0Xx-dJU_pAH_r-IoTOz662ZaK4kJVfoP-WV5GYk6_dwZhk6kBGfAa7FVGrj5I-pS2V695yvU94VEM11nEBCKOgvaFoVYFnRAkt6yXF1g_MKGRcBhMi6j-id3DKwbnFNmjeZvizDvX4yKNL-WY1k9Ah2UVLjrh1YkqF38XHADp7tNIY3V48iH-EzFV6xCP2ZFmNrEOkkH8p9BcAq1ejHsrcQK0umfkAV7Zd8yAbvwQR2Qx7dr_8n7EDtiyXM392ro0Ui-zUKUL9LF4_oCQu1PoAX_7Hm901_pq_Lb6DBTaZwQQlaQsxbW9pl8NTILOxHRlbw%3D%3D&og_info=%7B%22title%22%3A%22Karpet+Lantai+Bulat+Tropical+Anti+Slip+Diameter+100X100+-+By+Royal+Rugs%22%2C%22image%22%3A%22https%3A%5C%2F%5C%2Fp16-oec-va.ibyteimg.com%5C%2Ftos-maliva-i-o3syd03w52-us%5C%2Fd2d082f3fcdc46149da8d2e2ae430ab1~tplv-o3syd03w52-resize-webp%3A260%3A260.webp%3Fdr%3D15582%26t%3D555f072d%26ps%3D933b5bde%26shp%3D7745054a%26shcp%3D9b759fb9%26idc%3Dmy2%26from%3D2001012042%22%7D&share_app_id=1180&share_iid=7534583107844949778&share_link_id=6432bd65-790f-45b6-999c-c9258ddfa599&social_share_type=15&timestamp=1754282263&trackParams=%7B%22traffic_source_list%22%3A%5B6%2C7%5D%2C%22enable_shop_tab_popup%22%3A1%2C%22device_id%22%3A%227187305931318838789%22%7D&u_code=0&ug_btm=b0813%2Cb6661&ugbiz_name=UNKNOWN&unique_id=&utm_campaign=client_share&utm_medium=android&utm_source=whatsapp"
                             }
                         ]
                     },
@@ -446,7 +446,7 @@ const springCollectionData = [
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
-                                tiktok: "https://www.tiktok.com/view/product/1729642485583612161?_svg=1&encode_params=MIIBQQQM4p9CgxBtJmioJpNcBIIBHfq7FhWjf9lOXGK86ly4wOF-rieseg0odO2RkYeemDfY1eHIwWv_1J5ZJd2_5C8_tYrOT3IPZixjdcOHfxF0Xx-dJU_pAH_r-IoTOz662ZaK4kJVfoP-WV5GYk6_dwZhk6kBGfAa7FVGrj5I-pS2V695yvU94VEM11nEBCKOgvaFoVYFnRAkt6yXF1g_MKGRcBhMi6j-id3DKwbnFNmjeZvizDvX4yKNL-WY1k9Ah2UVLjrh1YkqF38XHADp7tNIY3V48iH-EzFV6xCP2ZFmNrEOkkH8p9BcAq1ejHsrcQK0umfkAV7Zd8yAbvwQR2Qx7dr_8n7EDtiyXM392ro0Ui-zUKUL9LF4_oCQu1PoAX_7Hm901_pq_Lb6DBTaZwQQlaQsxbW9pl8NTILOxHRlbw%3D%3D&og_info=%7B%22title%22%3A%22Karpet+Lantai+Bulat+Tropical+Anti+Slip+Diameter+100X100+-+By+Royal+Rugs%22%2C%22image%22%3A%22https%3A%5C%2F%5C%2Fp16-oec-va.ibyteimg.com%5C%2Ftos-maliva-i-o3syd03w52-us%5C%2Fd2d082f3fcdc46149da8d2e2ae430ab1~tplv-o3syd03w52-resize-webp%3A260%3A260.webp%3Fdr%3D15582%26t%3D555f072d%26ps%3D933b5bde%26shp%3D7745054a%26shcp%3D9b759fb9%26idc%3Dmy2%26from%3D2001012042%22%7D&share_app_id=1180&share_iid=7534583107844949778&share_link_id=6432bd65-790f-45b6-999c-c9258ddfa599&social_share_type=15&timestamp=1754282263&trackParams=%7B%22traffic_source_list%22%3A%5B6%2C7%5D%2C%22enable_shop_tab_popup%22%3A1%2C%22device_id%22%3A%227187305931318838789%22%7D&u_code=0&ug_btm=b0813%2Cb6661&ugbiz_name=UNKNOWN&unique_id=&utm_campaign=client_share&utm_medium=android&utm_source=whatsapp"
+                                tiktok: "https://www.tiktok.com/view/product/1729642485583612161?_svg=1&encode_params=MIIBQQQM4p9CgxBtJmioJpNcBIIBHfq7FhWjf9lOXGK86ly4wOF-rieseg0odO2RkYeemDfY1eHIwWvJ5ZJd2_5C8_tYrOT3IPZixjdcOHfxF0Xx-dJU_pAH_r-IoTOz662ZaK4kJVfoP-WV5GYk6_dwZhk6kBGfAa7FVGrj5I-pS2V695yvU94VEM11nEBCKOgvaFoVYFnRAkt6yXF1g_MKGRcBhMi6j-id3DKwbnFNmjeZvizDvX4yKNL-WY1k9Ah2UVLjrh1YkqF38XHADp7tNIY3V48iH-EzFV6xCP2ZFmNrEOkkH8p9BcAq1ejHsrcQK0umfkAV7Zd8yAbvwQR2Qx7dr_8n7EDtiyXM392ro0Ui-zUKUL9LF4_oCQu1PoAX_7Hm901_pq_Lb6DBTaZwQQlaQsxbW9pl8NTILOxHRlbw%3D%3D&og_info=%7B%22title%22%3A%22Karpet+Lantai+Bulat+Tropical+Anti+Slip+Diameter+100X100+-+By+Royal+Rugs%22%2C%22image%22%3A%22https%3A%5C%2F%5C%2Fp16-oec-va.ibyteimg.com%5C%2Ftos-maliva-i-o3syd03w52-us%5C%2Fd2d082f3fcdc46149da8d2e2ae430ab1~tplv-o3syd03w52-resize-webp%3A260%3A260.webp%3Fdr%3D15582%26t%3D555f072d%26ps%3D933b5bde%26shp%3D7745054a%26shcp%3D9b759fb9%26idc%3Dmy2%26from%3D2001012042%22%7D&share_app_id=1180&share_iid=7534583107844949778&share_link_id=6432bd65-790f-45b6-999c-c9258ddfa599&social_share_type=15&timestamp=1754282263&trackParams=%7B%22traffic_source_list%22%3A%5B6%2C7%5D%2C%22enable_shop_tab_popup%22%3A1%2C%22device_id%22%3A%227187305931318838789%22%7D&u_code=0&ug_btm=b0813%2Cb6661&ugbiz_name=UNKNOWN&unique_id=&utm_campaign=client_share&utm_medium=android&utm_source=whatsapp"
                             }
                         ]
                     },
@@ -462,7 +462,7 @@ const springCollectionData = [
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
-                                tiktok: "https://www.tiktok.com/view/product/1729642485583612161?_svg=1&encode_params=MIIBQQQM4p9CgxBtJmioJpNcBIIBHfq7FhWjf9lOXGK86ly4wOF-rieseg0odO2RkYeemDfY1eHIwWv_1J5ZJd2_5C8_tYrOT3IPZixjdcOHfxF0Xx-dJU_pAH_r-IoTOz662ZaK4kJVfoP-WV5GYk6_dwZhk6kBGfAa7FVGrj5I-pS2V695yvU94VEM11nEBCKOgvaFoVYFnRAkt6yXF1g_MKGRcBhMi6j-id3DKwbnFNmjeZvizDvX4yKNL-WY1k9Ah2UVLjrh1YkqF38XHADp7tNIY3V48iH-EzFV6xCP2ZFmNrEOkkH8p9BcAq1ejHsrcQK0umfkAV7Zd8yAbvwQR2Qx7dr_8n7EDtiyXM392ro0Ui-zUKUL9LF4_oCQu1PoAX_7Hm901_pq_Lb6DBTaZwQQlaQsxbW9pl8NTILOxHRlbw%3D%3D&og_info=%7B%22title%22%3A%22Karpet+Lantai+Bulat+Tropical+Anti+Slip+Diameter+100X100+-+By+Royal+Rugs%22%2C%22image%22%3A%22https%3A%5C%2F%5C%2Fp16-oec-va.ibyteimg.com%5C%2Ftos-maliva-i-o3syd03w52-us%5C%2Fd2d082f3fcdc46149da8d2e2ae430ab1~tplv-o3syd03w52-resize-webp%3A260%3A260.webp%3Fdr%3D15582%26t%3D555f072d%26ps%3D933b5bde%26shp%3D7745054a%26shcp%3D9b759fb9%26idc%3Dmy2%26from%3D2001012042%22%7D&share_app_id=1180&share_iid=7534583107844949778&share_link_id=6432bd65-790f-45b6-999c-c9258ddfa599&social_share_type=15&timestamp=1754282263&trackParams=%7B%22traffic_source_list%22%3A%5B6%2C7%5D%2C%22enable_shop_tab_popup%22%3A1%2C%22device_id%22%3A%227187305931318838789%22%7D&u_code=0&ug_btm=b0813%2Cb6661&ugbiz_name=UNKNOWN&unique_id=&utm_campaign=client_share&utm_medium=android&utm_source=whatsapp"
+                                tiktok: "https://www.tiktok.com/view/product/1729642485583612161?_svg=1&encode_params=MIIBQQQM4p9CgxBtJmioJpNcBIIBHfq7FhWjf9lOXGK86ly4wOF-rieseg0odO2RkYeemDfY1eHIwWvJ5ZJd2_5C8_tYrOT3IPZixjdcOHfxF0Xx-dJU_pAH_r-IoTOz662ZaK4kJVfoP-WV5GYk6_dwZhk6kBGfAa7FVGrj5I-pS2V695yvU94VEM11nEBCKOgvaFoVYFnRAkt6yXF1g_MKGRcBhMi6j-id3DKwbnFNmjeZvizDvX4yKNL-WY1k9Ah2UVLjrh1YkqF38XHADp7tNIY3V48iH-EzFV6xCP2ZFmNrEOkkH8p9BcAq1ejHsrcQK0umfkAV7Zd8yAbvwQR2Qx7dr_8n7EDtiyXM392ro0Ui-zUKUL9LF4_oCQu1PoAX_7Hm901_pq_Lb6DBTaZwQQlaQsxbW9pl8NTILOxHRlbw%3D%3D&og_info=%7B%22title%22%3A%22Karpet+Lantai+Bulat+Tropical+Anti+Slip+Diameter+100X100+-+By+Royal+Rugs%22%2C%22image%22%3A%22https%3A%5C%2F%5C%2Fp16-oec-va.ibyteimg.com%5C%2Ftos-maliva-i-o3syd03w52-us%5C%2Fd2d082f3fcdc46149da8d2e2ae430ab1~tplv-o3syd03w52-resize-webp%3A260%3A260.webp%3Fdr%3D15582%26t%3D555f072d%26ps%3D933b5bde%26shp%3D7745054a%26shcp%3D9b759fb9%26idc%3Dmy2%26from%3D2001012042%22%7D&share_app_id=1180&share_iid=7534583107844949778&share_link_id=6432bd65-790f-45b6-999c-c9258ddfa599&social_share_type=15&timestamp=1754282263&trackParams=%7B%22traffic_source_list%22%3A%5B6%2C7%5D%2C%22enable_shop_tab_popup%22%3A1%2C%22device_id%22%3A%227187305931318838789%22%7D&u_code=0&ug_btm=b0813%2Cb6661&ugbiz_name=UNKNOWN&unique_id=&utm_campaign=client_share&utm_medium=android&utm_source=whatsapp"
                             }
                         ]
                     },
@@ -478,7 +478,7 @@ const springCollectionData = [
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
-                                tiktok: "https://www.tiktok.com/view/product/1729642485583612161?_svg=1&encode_params=MIIBQQQM4p9CgxBtJmioJpNcBIIBHfq7FhWjf9lOXGK86ly4wOF-rieseg0odO2RkYeemDfY1eHIwWv_1J5ZJd2_5C8_tYrOT3IPZixjdcOHfxF0Xx-dJU_pAH_r-IoTOz662ZaK4kJVfoP-WV5GYk6_dwZhk6kBGfAa7FVGrj5I-pS2V695yvU94VEM11nEBCKOgvaFoVYFnRAkt6yXF1g_MKGRcBhMi6j-id3DKwbnFNmjeZvizDvX4yKNL-WY1k9Ah2UVLjrh1YkqF38XHADp7tNIY3V48iH-EzFV6xCP2ZFmNrEOkkH8p9BcAq1ejHsrcQK0umfkAV7Zd8yAbvwQR2Qx7dr_8n7EDtiyXM392ro0Ui-zUKUL9LF4_oCQu1PoAX_7Hm901_pq_Lb6DBTaZwQQlaQsxbW9pl8NTILOxHRlbw%3D%3D&og_info=%7B%22title%22%3A%22Karpet+Lantai+Bulat+Tropical+Anti+Slip+Diameter+100X100+-+By+Royal+Rugs%22%2C%22image%22%3A%22https%3A%5C%2F%5C%2Fp16-oec-va.ibyteimg.com%5C%2Ftos-maliva-i-o3syd03w52-us%5C%2Fd2d082f3fcdc46149da8d2e2ae430ab1~tplv-o3syd03w52-resize-webp%3A260%3A260.webp%3Fdr%3D15582%26t%3D555f072d%26ps%3D933b5bde%26shp%3D7745054a%26shcp%3D9b759fb9%26idc%3Dmy2%26from%3D2001012042%22%7D&share_app_id=1180&share_iid=7534583107844949778&share_link_id=6432bd65-790f-45b6-999c-c9258ddfa599&social_share_type=15&timestamp=1754282263&trackParams=%7B%22traffic_source_list%22%3A%5B6%2C7%5D%2C%22enable_shop_tab_popup%22%3A1%2C%22device_id%22%3A%227187305931318838789%22%7D&u_code=0&ug_btm=b0813%2Cb6661&ugbiz_name=UNKNOWN&unique_id=&utm_campaign=client_share&utm_medium=android&utm_source=whatsapp"
+                                tiktok: "https://www.tiktok.com/view/product/1729642485583612161?_svg=1&encode_params=MIIBQQQM4p9CgxBtJmioJpNcBIIBHfq7FhWjf9lOXGK86ly4wOF-rieseg0odO2RkYeemDfY1eHIwWvJ5ZJd2_5C8_tYrOT3IPZixjdcOHfxF0Xx-dJU_pAH_r-IoTOz662ZaK4kJVfoP-WV5GYk6_dwZhk6kBGfAa7FVGrj5I-pS2V695yvU94VEM11nEBCKOgvaFoVYFnRAkt6yXF1g_MKGRcBhMi6j-id3DKwbnFNmjeZvizDvX4yKNL-WY1k9Ah2UVLjrh1YkqF38XHADp7tNIY3V48iH-EzFV6xCP2ZFmNrEOkkH8p9BcAq1ejHsrcQK0umfkAV7Zd8yAbvwQR2Qx7dr_8n7EDtiyXM392ro0Ui-zUKUL9LF4_oCQu1PoAX_7Hm901_pq_Lb6DBTaZwQQlaQsxbW9pl8NTILOxHRlbw%3D%3D&og_info=%7B%22title%22%3A%22Karpet+Lantai+Bulat+Tropical+Anti+Slip+Diameter+100X100+-+By+Royal+Rugs%22%2C%22image%22%3A%22https%3A%5C%2F%5C%2Fp16-oec-va.ibyteimg.com%5C%2Ftos-maliva-i-o3syd03w52-us%5C%2Fd2d082f3fcdc46149da8d2e2ae430ab1~tplv-o3syd03w52-resize-webp%3A260%3A260.webp%3Fdr%3D15582%26t%3D555f072d%26ps%3D933b5bde%26shp%3D7745054a%26shcp%3D9b759fb9%26idc%3Dmy2%26from%3D2001012042%22%7D&share_app_id=1180&share_iid=7534583107844949778&share_link_id=6432bd65-790f-45b6-999c-c9258ddfa599&social_share_type=15&timestamp=1754282263&trackParams=%7B%22traffic_source_list%22%3A%5B6%2C7%5D%2C%22enable_shop_tab_popup%22%3A1%2C%22device_id%22%3A%227187305931318838789%22%7D&u_code=0&ug_btm=b0813%2Cb6661&ugbiz_name=UNKNOWN&unique_id=&utm_campaign=client_share&utm_medium=android&utm_source=whatsapp"
                             }
                         ]
                     },
@@ -494,7 +494,7 @@ const springCollectionData = [
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
-                                tiktok: "https://www.tiktok.com/view/product/1729642485583612161?_svg=1&encode_params=MIIBQQQM4p9CgxBtJmioJpNcBIIBHfq7FhWjf9lOXGK86ly4wOF-rieseg0odO2RkYeemDfY1eHIwWv_1J5ZJd2_5C8_tYrOT3IPZixjdcOHfxF0Xx-dJU_pAH_r-IoTOz662ZaK4kJVfoP-WV5GYk6_dwZhk6kBGfAa7FVGrj5I-pS2V695yvU94VEM11nEBCKOgvaFoVYFnRAkt6yXF1g_MKGRcBhMi6j-id3DKwbnFNmjeZvizDvX4yKNL-WY1k9Ah2UVLjrh1YkqF38XHADp7tNIY3V48iH-EzFV6xCP2ZFmNrEOkkH8p9BcAq1ejHsrcQK0umfkAV7Zd8yAbvwQR2Qx7dr_8n7EDtiyXM392ro0Ui-zUKUL9LF4_oCQu1PoAX_7Hm901_pq_Lb6DBTaZwQQlaQsxbW9pl8NTILOxHRlbw%3D%3D&og_info=%7B%22title%22%3A%22Karpet+Lantai+Bulat+Tropical+Anti+Slip+Diameter+100X100+-+By+Royal+Rugs%22%2C%22image%22%3A%22https%3A%5C%2F%5C%2Fp16-oec-va.ibyteimg.com%5C%2Ftos-maliva-i-o3syd03w52-us%5C%2Fd2d082f3fcdc46149da8d2e2ae430ab1~tplv-o3syd03w52-resize-webp%3A260%3A260.webp%3Fdr%3D15582%26t%3D555f072d%26ps%3D933b5bde%26shp%3D7745054a%26shcp%3D9b759fb9%26idc%3Dmy2%26from%3D2001012042%22%7D&share_app_id=1180&share_iid=7534583107844949778&share_link_id=6432bd65-790f-45b6-999c-c9258ddfa599&social_share_type=15&timestamp=1754282263&trackParams=%7B%22traffic_source_list%22%3A%5B6%2C7%5D%2C%22enable_shop_tab_popup%22%3A1%2C%22device_id%22%3A%227187305931318838789%22%7D&u_code=0&ug_btm=b0813%2Cb6661&ugbiz_name=UNKNOWN&unique_id=&utm_campaign=client_share&utm_medium=android&utm_source=whatsapp"
+                                tiktok: "https://www.tiktok.com/view/product/1729642485583612161?_svg=1&encode_params=MIIBQQQM4p9CgxBtJmioJpNcBIIBHfq7FhWjf9lOXGK86ly4wOF-rieseg0odO2RkYeemDfY1eHIwWvJ5ZJd2_5C8_tYrOT3IPZixjdcOHfxF0Xx-dJU_pAH_r-IoTOz662ZaK4kJVfoP-WV5GYk6_dwZhk6kBGfAa7FVGrj5I-pS2V695yvU94VEM11nEBCKOgvaFoVYFnRAkt6yXF1g_MKGRcBhMi6j-id3DKwbnFNmjeZvizDvX4yKNL-WY1k9Ah2UVLjrh1YkqF38XHADp7tNIY3V48iH-EzFV6xCP2ZFmNrEOkkH8p9BcAq1ejHsrcQK0umfkAV7Zd8yAbvwQR2Qx7dr_8n7EDtiyXM392ro0Ui-zUKUL9LF4_oCQu1PoAX_7Hm901_pq_Lb6DBTaZwQQlaQsxbW9pl8NTILOxHRlbw%3D%3D&og_info=%7B%22title%22%3A%22Karpet+Lantai+Bulat+Tropical+Anti+Slip+Diameter+100X100+-+By+Royal+Rugs%22%2C%22image%22%3A%22https%3A%5C%2F%5C%2Fp16-oec-va.ibyteimg.com%5C%2Ftos-maliva-i-o3syd03w52-us%5C%2Fd2d082f3fcdc46149da8d2e2ae430ab1~tplv-o3syd03w52-resize-webp%3A260%3A260.webp%3Fdr%3D15582%26t%3D555f072d%26ps%3D933b5bde%26shp%3D7745054a%26shcp%3D9b759fb9%26idc%3Dmy2%26from%3D2001012042%22%7D&share_app_id=1180&share_iid=7534583107844949778&share_link_id=6432bd65-790f-45b6-999c-c9258ddfa599&social_share_type=15&timestamp=1754282263&trackParams=%7B%22traffic_source_list%22%3A%5B6%2C7%5D%2C%22enable_shop_tab_popup%22%3A1%2C%22device_id%22%3A%227187305931318838789%22%7D&u_code=0&ug_btm=b0813%2Cb6661&ugbiz_name=UNKNOWN&unique_id=&utm_campaign=client_share&utm_medium=android&utm_source=whatsapp"
                             }
                         ]
                     }
@@ -512,7 +512,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/stone/ST51-150x200_1.png",
+                                image: "assets/catalogues/spring/stone/ST51-150x200.jpg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -532,11 +532,11 @@ const springCollectionData = [
                         id: "sp-302",
                         title: "ST52 - BLUE SAPHIRE",
                         description: "Deep, velvety blues reminiscent of the finest Ceylon sapphires create a sense of royal elegance in BLUE SAPHIRE. The intricate veining mimics the natural crystalline structure, with subtle variations in tone that catch the light beautifully, transforming your floor into a canvas of liquid midnight and twilight hues.",
-                        image: "assets/catalogues/spring/stone/ST52-150x200_1.png",
+                        image: "assets/catalogues/spring/stone/ST52-150x200.jpg",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/stone/ST52-150x200_1.png",
+                                image: "assets/catalogues/spring/stone/ST52-150x200.jpg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -560,7 +560,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/stone/ST53-150x200_1.png",
+                                image: "assets/catalogues/spring/stone/ST53-150x200.jpg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -580,11 +580,11 @@ const springCollectionData = [
                         id: "sp-304",
                         title: "ST54 - MYSTIQUE",
                         description: "Shrouded in enigmatic beauty, MYSTIQUE captivates with its deep, swirling patterns that seem to shift with the light. The interplay of dark charcoal and soft taupe creates a mesmerizing depth, reminiscent of ancient marble formations. Each glance reveals new dimensions, making it a true conversation piece that adds an air of sophisticated intrigue to any space.",
-                        image: "assets/catalogues/spring/stone/ST54-150x200_1.png",
+                        image: "assets/catalogues/spring/stone/ST54-150x200.jpg",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/stone/ST54-150x200_1.png",
+                                image: "assets/catalogues/spring/stone/ST54-150x200.jpg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -610,11 +610,11 @@ const springCollectionData = [
                         id: "sp-401",
                         title: "FIT51 - TRIANGLE",
                         description: "A striking geometric composition where precise triangular forms create dynamic visual tension. The clean, angular lines intersect with mathematical precision, while the warm terracotta palette adds organic warmth to this modernist masterpiece that bridges art and function.",
-                        image: "assets/catalogues/spring/fine-art/FIT51-150x200_1.png",
+                        image: "assets/catalogues/spring/fine-art/FIT51-150x200.jpg",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/fine-art/FIT51-150x200_1.png",
+                                image: "assets/catalogues/spring/fine-art/FIT51-150x200.jpg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -638,7 +638,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/fine-art/FIT52-150x200_1.png",
+                                image: "assets/catalogues/spring/fine-art/FIT52-150x200.jpg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -658,11 +658,11 @@ const springCollectionData = [
                         id: "sp-403",
                         title: "FIT53 - MELODY",
                         description: "A visual symphony of flowing lines that dance across the surface like musical notes on a staff. The rhythmic patterns create a sense of harmony and movement, transforming your floor into a canvas where design and emotion perform in perfect concert.",
-                        image: "assets/catalogues/spring/fine-art/FIT53-150x200_1.png",
+                        image: "assets/catalogues/spring/fine-art/FIT53-150x200.jpg",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/fine-art/FIT53-150x200_1.png",
+                                image: "assets/catalogues/spring/fine-art/FIT53-150x200.jpg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -686,7 +686,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/fine-art/FIT54-150x200_1.png",
+                                image: "assets/catalogues/spring/fine-art/FIT54-150x200.jpg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -706,11 +706,11 @@ const springCollectionData = [
                         id: "sp-405",
                         title: "FIT55 - SCALLOP",
                         description: "Elegant undulating curves inspired by natural forms create a sense of fluid movement across the surface. The scalloped pattern plays with light and shadow, adding depth and dimension to create a sophisticated, organic aesthetic that soothes the senses.",
-                        image: "assets/catalogues/spring/fine-art/FIT55-150x200_1.png",
+                        image: "assets/catalogues/spring/fine-art/FIT55-150x200.jpg",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/fine-art/FIT55-150x200_1.png",
+                                image: "assets/catalogues/spring/fine-art/FIT55-150x200.jpg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -734,7 +734,7 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/fine-art/FIT56-150x200_1.png",
+                                image: "assets/catalogues/spring/fine-art/FIT56-150x200.jpg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
@@ -764,11 +764,11 @@ const springCollectionData = [
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/wood/WD51-150x200_1.png",
+                                image: "assets/catalogues/spring/wood/WD51-150x200.jpg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
-                                tiktok: "https://www.tiktok.com/view/product/1729642506366257409?_svg=1&encode_params=MIIBQQQM61ZuwsZriRF00-UsBIIBHYaZmw34XYQ-BGTLc_ROqk2srN9_6OtNoc4nh_rHJOO049Ot31pQiAhFy1Ayb90JBiSuiEybCkBIJ_IEtU-3AEv4HoRz6QPisf5smGo20ZIoWJ6UM9TkPBXWm10SZE_1TyYHNr2cl0NdMUikixF6eBXnSuNBYltSBcmEW2rfEp61wz34pMGQKZd_xx7Nwd2ta7l_WgAhccoZo61Ox_jGKsh0lvW5MlBsE_7d_nm1SWD0M-Qmb9R3zNtir807c3hSbTKOtLR1GeAHjP4HMtYmcvPBmRJi0vryY6QaEUTykGn85H3HLg5YDe2q4YfMYp1CjQvtjdXYBabHfkiBoyMdSBLcN0B1hFSvt4OBUEiO3wVHWmlrGJFhBo02nbgnbAQQOdxYgOwrL3kQVlk7B8rCLw%3D%3D&og_info=%7B%22title%22%3A%22Karpet+Lantai+Wood+Anti+Slip+150X200cm+-+Carpet+Bulu+Permadani+Ruang+Tamu+Dekorasi+Estetik+Motif+Kayu%22%2C%22image%22%3A%22https%3A%5C%2F%5C%2Fp16-oec-sg.ibyteimg.com%5C%2Ftos-alisg-i-aphluv4xwc-sg%5C%2F313ba0d278034668bf9462b509a6d278~tplv-aphluv4xwc-resize-webp%3A260%3A260.webp%3Fdr%3D15582%26t%3D555f072d%26ps%3D933b5bde%26shp%3D7745054a%26shcp%3D9b759fb9%26idc%3Dmy2%26from%3D2001012042%22%7D&share_app_id=1180&share_iid=7534583107844949778&share_link_id=2abb5c92-85b9-4e7d-99e9-b9c6b2504717&social_share_type=15&timestamp=1754282564&trackParams=%7B%22traffic_source_list%22%3A%5B6%2C7%5D%2C%22enable_shop_tab_popup%22%3A1%2C%22device_id%22%3A%227187305931318838789%22%7D&u_code=0&ug_btm=b0813%2Cb6661&ugbiz_name=UNKNOWN&unique_id=&utm_campaign=client_share&utm_medium=android&utm_source=whatsapp"
+                                tiktok: "https://www.tiktok.com/view/product/1729642506366257409?_svg=1&encode_params=MIIBQQQM61ZuwsZriRF00-UsBIIBHYaZmw34XYQ-BGTLc_ROqk2srN9_6OtNoc4nh_rHJOO049Ot31pQiAhFy1Ayb90JBiSuiEybCkBIJ_IEtU-3AEv4HoRz6QPisf5smGo20ZIoWJ6UM9TkPBXWm10SZETyYHNr2cl0NdMUikixF6eBXnSuNBYltSBcmEW2rfEp61wz34pMGQKZd_xx7Nwd2ta7l_WgAhccoZo61Ox_jGKsh0lvW5MlBsE_7d_nm1SWD0M-Qmb9R3zNtir807c3hSbTKOtLR1GeAHjP4HMtYmcvPBmRJi0vryY6QaEUTykGn85H3HLg5YDe2q4YfMYp1CjQvtjdXYBabHfkiBoyMdSBLcN0B1hFSvt4OBUEiO3wVHWmlrGJFhBo02nbgnbAQQOdxYgOwrL3kQVlk7B8rCLw%3D%3D&og_info=%7B%22title%22%3A%22Karpet+Lantai+Wood+Anti+Slip+150X200cm+-+Carpet+Bulu+Permadani+Ruang+Tamu+Dekorasi+Estetik+Motif+Kayu%22%2C%22image%22%3A%22https%3A%5C%2F%5C%2Fp16-oec-sg.ibyteimg.com%5C%2Ftos-alisg-i-aphluv4xwc-sg%5C%2F313ba0d278034668bf9462b509a6d278~tplv-aphluv4xwc-resize-webp%3A260%3A260.webp%3Fdr%3D15582%26t%3D555f072d%26ps%3D933b5bde%26shp%3D7745054a%26shcp%3D9b759fb9%26idc%3Dmy2%26from%3D2001012042%22%7D&share_app_id=1180&share_iid=7534583107844949778&share_link_id=2abb5c92-85b9-4e7d-99e9-b9c6b2504717&social_share_type=15&timestamp=1754282564&trackParams=%7B%22traffic_source_list%22%3A%5B6%2C7%5D%2C%22enable_shop_tab_popup%22%3A1%2C%22device_id%22%3A%227187305931318838789%22%7D&u_code=0&ug_btm=b0813%2Cb6661&ugbiz_name=UNKNOWN&unique_id=&utm_campaign=client_share&utm_medium=android&utm_source=whatsapp"
                             },
                             {
                                 size: "200x300cm",
@@ -784,15 +784,15 @@ const springCollectionData = [
                         id: "sp-502",
                         title: "WD52 - LIGHTY BROWN",
                         description: "Inspired by sun-bleached oak and golden maple, this design captures the ethereal beauty of light streaming through forest canopies. The delicate grain patterns and soft, natural hues create an airy, organic aesthetic that brings a sense of tranquility and understated elegance to any space.",
-                        image: "assets/catalogues/spring/wood/WD52-150x200_1.png",
+                        image: "assets/catalogues/spring/wood/WD52-150x200.jpg",
                         sizes: [
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/spring/wood/WD52-150x200_1.png",
+                                image: "assets/catalogues/spring/wood/WD52-150x200.jpg",
                                 price: 349200,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-ABSTRACT-150x200-cm-Karpet-Motif-Minimalis-Carpet-Ruang-Tamu-Aesthetic-Anti-Slip-i.964448777.25042325451",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-abstract-150x200cm-karpet-minimalis-modern-permadani-by-royal-rugs-1729642454856730881",
-                                tiktok: "https://www.tiktok.com/view/product/1729642506366257409?_svg=1&encode_params=MIIBQQQM61ZuwsZriRF00-UsBIIBHYaZmw34XYQ-BGTLc_ROqk2srN9_6OtNoc4nh_rHJOO049Ot31pQiAhFy1Ayb90JBiSuiEybCkBIJ_IEtU-3AEv4HoRz6QPisf5smGo20ZIoWJ6UM9TkPBXWm10SZE_1TyYHNr2cl0NdMUikixF6eBXnSuNBYltSBcmEW2rfEp61wz34pMGQKZd_xx7Nwd2ta7l_WgAhccoZo61Ox_jGKsh0lvW5MlBsE_7d_nm1SWD0M-Qmb9R3zNtir807c3hSbTKOtLR1GeAHjP4HMtYmcvPBmRJi0vryY6QaEUTykGn85H3HLg5YDe2q4YfMYp1CjQvtjdXYBabHfkiBoyMdSBLcN0B1hFSvt4OBUEiO3wVHWmlrGJFhBo02nbgnbAQQOdxYgOwrL3kQVlk7B8rCLw%3D%3D&og_info=%7B%22title%22%3A%22Karpet+Lantai+Wood+Anti+Slip+150X200cm+-+Carpet+Bulu+Permadani+Ruang+Tamu+Dekorasi+Estetik+Motif+Kayu%22%2C%22image%22%3A%22https%3A%5C%2F%5C%2Fp16-oec-sg.ibyteimg.com%5C%2Ftos-alisg-i-aphluv4xwc-sg%5C%2F313ba0d278034668bf9462b509a6d278~tplv-aphluv4xwc-resize-webp%3A260%3A260.webp%3Fdr%3D15582%26t%3D555f072d%26ps%3D933b5bde%26shp%3D7745054a%26shcp%3D9b759fb9%26idc%3Dmy2%26from%3D2001012042%22%7D&share_app_id=1180&share_iid=7534583107844949778&share_link_id=2abb5c92-85b9-4e7d-99e9-b9c6b2504717&social_share_type=15&timestamp=1754282564&trackParams=%7B%22traffic_source_list%22%3A%5B6%2C7%5D%2C%22enable_shop_tab_popup%22%3A1%2C%22device_id%22%3A%227187305931318838789%22%7D&u_code=0&ug_btm=b0813%2Cb6661&ugbiz_name=UNKNOWN&unique_id=&utm_campaign=client_share&utm_medium=android&utm_source=whatsapp"
+                                tiktok: "https://www.tiktok.com/view/product/1729642506366257409?_svg=1&encode_params=MIIBQQQM61ZuwsZriRF00-UsBIIBHYaZmw34XYQ-BGTLc_ROqk2srN9_6OtNoc4nh_rHJOO049Ot31pQiAhFy1Ayb90JBiSuiEybCkBIJ_IEtU-3AEv4HoRz6QPisf5smGo20ZIoWJ6UM9TkPBXWm10SZETyYHNr2cl0NdMUikixF6eBXnSuNBYltSBcmEW2rfEp61wz34pMGQKZd_xx7Nwd2ta7l_WgAhccoZo61Ox_jGKsh0lvW5MlBsE_7d_nm1SWD0M-Qmb9R3zNtir807c3hSbTKOtLR1GeAHjP4HMtYmcvPBmRJi0vryY6QaEUTykGn85H3HLg5YDe2q4YfMYp1CjQvtjdXYBabHfkiBoyMdSBLcN0B1hFSvt4OBUEiO3wVHWmlrGJFhBo02nbgnbAQQOdxYgOwrL3kQVlk7B8rCLw%3D%3D&og_info=%7B%22title%22%3A%22Karpet+Lantai+Wood+Anti+Slip+150X200cm+-+Carpet+Bulu+Permadani+Ruang+Tamu+Dekorasi+Estetik+Motif+Kayu%22%2C%22image%22%3A%22https%3A%5C%2F%5C%2Fp16-oec-sg.ibyteimg.com%5C%2Ftos-alisg-i-aphluv4xwc-sg%5C%2F313ba0d278034668bf9462b509a6d278~tplv-aphluv4xwc-resize-webp%3A260%3A260.webp%3Fdr%3D15582%26t%3D555f072d%26ps%3D933b5bde%26shp%3D7745054a%26shcp%3D9b759fb9%26idc%3Dmy2%26from%3D2001012042%22%7D&share_app_id=1180&share_iid=7534583107844949778&share_link_id=2abb5c92-85b9-4e7d-99e9-b9c6b2504717&social_share_type=15&timestamp=1754282564&trackParams=%7B%22traffic_source_list%22%3A%5B6%2C7%5D%2C%22enable_shop_tab_popup%22%3A1%2C%22device_id%22%3A%227187305931318838789%22%7D&u_code=0&ug_btm=b0813%2Cb6661&ugbiz_name=UNKNOWN&unique_id=&utm_campaign=client_share&utm_medium=android&utm_source=whatsapp"
                             },
                             {
                                 size: "200x300cm",
