@@ -348,7 +348,7 @@ const winterCollectionData = [
                             },
                             {
                                 size: "200x300cm",
-                                image: "assets/catalogues/winter/bespoke-abstract/BA202-160x240.png",
+                                image: "assets/catalogues/winter/bespoke-abstract/BA202-200x300.png",
                                 price: 1999000,
                                 shopee: "https://shopee.co.id/Karpet-Premium-BESPOKE-ABSTRACT-200x300-cm-Carpet-Bulu-Permadani-Karpet-Lantai-Ruang-Tamu-Empuk-i.964448777.25219246803?sp_atk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b&xptdk=8d3b0c61-3b0b-4d8e-8a3b-4f8f3d9a7d1b",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-premium-bespoke-abstract-200x300-cm-carpet-bulu-permadani-karpet-lantai-ruang-tamu-empuk-1730822601322693889?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=",
