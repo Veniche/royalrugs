@@ -1867,13 +1867,6 @@ footer {
     margin-top: 80px; /* Space for the fixed navbar */
 }
 
-/* Adjust for desktop */
-@media (min-width: 992px) {
-    .video-hero {
-        margin-top: 0;
-    }
-}
-
 .video-hero .video-container {
     width: 100%;
     max-width: 100%;
