@@ -5,10 +5,23 @@ document.addEventListener('DOMContentLoaded', function() {
     let isAnimating = false;
     let totalReviews = 0;
 
+    // Array of review image filenames in the assets/reviews directory
+    const reviewImages = [
+        'review_9.png',
+        'review_8.png',
+        'review_1.png',
+        'review_2.png',
+        'review_3.png',
+        'review_4.png',
+        'review_5.png',
+        'review_6.png',
+        'review_7.png'
+    ];
+
     // Initialize the reviews
     function initReviews() {
-        if (typeof reviewsData !== 'undefined' && Array.isArray(reviewsData.reviews)) {
-            reviews = reviewsData.reviews;
+        if (reviewImages && reviewImages.length > 0) {
+            reviews = reviewImages;
             totalReviews = reviews.length;
             
             // Clone first and last items for seamless looping
@@ -36,13 +49,11 @@ document.addEventListener('DOMContentLoaded', function() {
         if (!reviews.length) return;
 
         // Create a wrapper for each review
-        const reviewElements = reviews.map((review, index) => {
-            // Use review_1.png, review_2.png, etc. based on review ID
-            const imageSrc = `assets/reviews/review_${review.id}.png`;
+        const reviewElements = reviews.map((image, index) => {
             return `
                 <div class="review-card-wrapper" data-index="${index}" tabindex="0">
                     <div class="review-card">
-                        <img src="${imageSrc}" alt="Customer review ${review.id}" class="review-screenshot">
+                        <img src="assets/reviews/${image}" alt="Customer review ${index + 1}" class="review-screenshot" loading="lazy">
                     </div>
                 </div>`;
         }).join('');

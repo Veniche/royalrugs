@@ -14,14 +14,27 @@ document.addEventListener('DOMContentLoaded', function() {
     let prevButton, nextButton;
     let slideWidth = 0;
     
+    // Array of review image filenames in the assets/reviews directory
+    const reviewImages = [
+        'review_9.png',
+        'review_8.png',
+        'review_1.png',
+        'review_2.png',
+        'review_3.png',
+        'review_4.png',
+        'review_5.png',
+        'review_6.png',
+        'review_7.png'
+    ];
+    
     // Initialize the reviews
     function initReviews() {
-        if (typeof reviewsData === 'undefined' || !Array.isArray(reviewsData.reviews)) {
+        if (!reviewImages || reviewImages.length === 0) {
             showFallbackMessage();
             return;
         }
         
-        const reviews = reviewsData.reviews;
+        const reviews = reviewImages;
         
         // Clear any existing content
         if (slidesContainer) {
@@ -41,13 +54,10 @@ document.addEventListener('DOMContentLoaded', function() {
             slide.setAttribute('data-index', index);
             slide.setAttribute('aria-hidden', 'true');
             
-            // Create slide with review screenshot
-            const imageSrc = `assets/reviews/review_${review.id}.png`;
-            
-            // Set slide content
+            // Set slide content with review screenshot
             slide.innerHTML = `
                 <div class="review-mobile-card">
-                    <img src="${imageSrc}" alt="Customer review ${review.id}" class="review-screenshot">
+                    <img src="assets/reviews/${review}" alt="Customer review ${index + 1}" class="review-screenshot" loading="lazy">
                 </div>
             `;
             
