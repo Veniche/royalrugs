@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Array of review image filenames in the assets/reviews directory
     const reviewImages = [
-        'review_9.png',
+        'review_7.png',
         'review_8.png',
         'review_1.png',
         'review_2.png',
@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'review_4.png',
         'review_5.png',
         'review_6.png',
-        'review_7.png'
+        'review_9.png'
     ];
 
     // Function to create a review item
