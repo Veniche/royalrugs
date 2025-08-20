@@ -16,6 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Array of review image filenames in the assets/reviews directory
     const reviewImages = [
+        'review_7.png',
         'review_9.png',
         'review_8.png',
         'review_1.png',
@@ -23,8 +24,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'review_3.png',
         'review_4.png',
         'review_5.png',
-        'review_6.png',
-        'review_7.png'
+        'review_6.png'
+        
     ];
     
     // Initialize the reviews
@@ -68,18 +69,19 @@ document.addEventListener('DOMContentLoaded', function() {
                 // Previous button
                 prevButton = document.createElement('button');
                 prevButton.className = 'reviews-mobile-arrow';
-                prevButton.innerHTML = '&larr;';
+                prevButton.innerHTML = '<svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12l4.58-4.59z"/></svg>';
                 prevButton.setAttribute('aria-label', 'Previous review');
                 prevButton.addEventListener('click', () => goToSlide(currentIndex - 1));
                 
                 // Next button
                 nextButton = document.createElement('button');
                 nextButton.className = 'reviews-mobile-arrow';
-                nextButton.innerHTML = '&rarr;';
+                nextButton.innerHTML = '<svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6-6-6z"/></svg>';
                 nextButton.setAttribute('aria-label', 'Next review');
                 nextButton.addEventListener('click', () => goToSlide(currentIndex + 1));
                 
                 // Add buttons to nav container
+                navContainer.innerHTML = '';
                 navContainer.appendChild(prevButton);
                 navContainer.appendChild(nextButton);
             }
@@ -106,14 +108,10 @@ document.addEventListener('DOMContentLoaded', function() {
         });
         
         // Update navigation buttons
-        if (prevButton) {
-            prevButton.disabled = currentIndex === 0;
-        }
-        if (nextButton) {
-            nextButton.disabled = currentIndex === slides.length - 1;
-        }
+        if (prevButton) prevButton.disabled = currentIndex === 0;
+        if (nextButton) nextButton.disabled = currentIndex === slides.length - 1;
         
-        // Move to the current slide
+        // Update slider position
         setSliderPosition();
     }
     
