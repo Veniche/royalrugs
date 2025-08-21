@@ -35,7 +35,7 @@ const catalogData = [
         id: 5,
         title: "Sajadah Collection",
         slug: "sajadah-collection",
-        image: "assets/catalogues/sajadah_1.png",
+        image: "assets/catalogues/sajadah.png",
         description: "High-quality prayer mats with beautiful designs and comfortable padding. Perfect for daily prayers with excellent comfort and durability.",
         buttonText: "View Catalogue"
     },
