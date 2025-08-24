@@ -867,7 +867,12 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
-    overflow: hidden;
+    overflow: visible;
+}
+
+.promo-video {
+    max-height: 300px;
+    border-radius: 10px;
 }
 
 .promo-placeholder {
@@ -883,11 +888,11 @@ main {
 }
 
 /* Hide promo image on mobile */
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
     .promo-image {
         display: none;
     }
-}
+} */
 
 .promo-placeholder span {
     font-size: 1.1rem;
