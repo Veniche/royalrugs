@@ -299,11 +299,17 @@ const winterCollectionData = [
             {
                 title: "Bespoke Abstract",
                 description: "Artistic abstract designs that capture the serene beauty of winter, featuring elegant patterns inspired by frost, snowflakes, and icy landscapes. Each rug in this collection combines modern aesthetics with the cozy comfort needed during the winter season.",
+                specifications: "<div class='specifications'><strong>Specifications</strong><ul>" +
+                "<li><strong>Material:</strong> Premium 550 GSM Velvet Nylon Yarn</li>" +
+                "<li><strong>Thickness:</strong> 9 mm</li>" +
+                "<li><strong>Border:</strong> Full Obrass</li>" +
+                "<li><strong>Backing:</strong> Latex Dott Soft Backing Anti-Slip Layer</li>" +
+                "<li><strong>Warranty:</strong> 3 Years</li></ul></div>",
                 products: [
                     {
                         id: "wn-101",
-                        title: "BA201 - BLUE SALVA",
-                        description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
+                        title: "BA201 - GLACIER FADE",
+                        description: "Cool tones of icy blue, misty grey and ivory meet in an abstract design reminiscent of distant glaciers. This captures the tranquil beauty of winter, with a crisp palette that brings serene refinement to any interior space.",
                         image: "assets/catalogues/winter/bespoke-abstract/BA201-160x240.png",
                         sizes: [
                             {
@@ -334,8 +340,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-102",
-                        title: "BA202 - SMOKE HASTAG",
-                        description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
+                        title: "BA202 - FROST VEIL",
+                        description: "An elegant interplay of frost-kissed greys, muted blues, and earthy taupe, this abstract design mirrors winter landscapes dusted with fresh snow. Soft gradients evoke drifting snow and misty horizons, offering a statement piece for your home.",
                         image: "assets/catalogues/winter/bespoke-abstract/BA202-160x240.png",
                         sizes: [
                             {
@@ -366,8 +372,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-103",
-                        title: "BA203 - SHORE",
-                        description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
+                        title: "BA203 - ARCTIC GLOW",
+                        description: "Pale winter greys and soft ivory form a serene base, contrasted by golden-bronze accents in an expressive abstract layout. Together, these tones create a sense of layered depth, enhancing any room with quiet sophistication.",
                         image: "assets/catalogues/winter/bespoke-abstract/BA203-300x400.png",
                         sizes: [
                             {
@@ -398,8 +404,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-104",
-                        title: "BA204 - CLOUD",
-                        description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
+                        title: "BA204 - SNOW VEIN",
+                        description: "Delicate winter whites form the backdrop for flowing abstract lines in deep sapphire and warm taupe. This design reflects frozen river currents against snowy banks, adding a balanced harmony. It’s vein-like pattern makes it a perfect centrepiece.",
                         image: "assets/catalogues/winter/bespoke-abstract/BA204-160x240.png",
                         sizes: [
                             {
@@ -430,8 +436,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-105",
-                        title: "BA205 - DIM",
-                        description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
+                        title: "BA205 - CRYSTAL FLAME",
+                        description: "Refined blend of frosted neutrals and ember-like accents, this abstract composition merges the cool poise of winter with the subtle warmth of firelight. Its texture is intriguing, complementing your living area with an artful touch.",
                         image: "assets/catalogues/winter/bespoke-abstract/BA205-200x300.png",
                         sizes: [
                             {
@@ -462,8 +468,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-106",
-                        title: "BA206 - BLACKY",
-                        description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
+                        title: "BA206 - ICE DRIFT",
+                        description: "Inspired by winter’s first frost, this abstract rug showcases delicate crystalline patterns in shimmering silver-grey tones. Its textured surface and muted gradients create a modern yet timeless allure, making it an ideal addition to elevate any space.",
                         image: "assets/catalogues/winter/bespoke-abstract/BA206-300x400.png",
                         sizes: [
                             {
@@ -494,8 +500,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-107",
-                        title: "BA207 - ILLUSION",
-                        description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
+                        title: "BA207 - FROZEN SHORE",
+                        description: "Deep navy, arctic grey and warm beige merge seamlessly in an abstract pattern that recalls the meeting of icy waters and sandy shores. The textured surface mirrors the rugged beauty of winter coastlines, adding visual interest to your home.",
                         image: "assets/catalogues/winter/bespoke-abstract/BA207-160x240.png",
                         sizes: [
                             {
@@ -526,8 +532,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-108",
-                        title: "BA208 - ARTSY",
-                        description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
+                        title: "BA208 - FOREST PINE",
+                        description: "Deep emerald greens, ivory, and warm golden accents intertwine in an abstract botanicalinspired pattern. Hints of muted frost tones weave through the design, evoking the stillness of a pine forest dusted with winter snow, offering a striking focal point.",
                         image: "assets/catalogues/winter/bespoke-abstract/BA208-200x300.png",
                         sizes: [
                             {
@@ -558,8 +564,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-109",
-                        title: "BA209 - GREY HASTAG",
-                        description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
+                        title: "BA209 - POLAR MIST",
+                        description: "Shades of misty grey, light cream, and glacier blue flow together in a refined abstract pattern, reminiscent of snow settling over rugged terrain. This winter-inspired rug adds understated luxury without overpowering the overall aesthetic.",
                         image: "assets/catalogues/winter/bespoke-abstract/BA209-300x400.png",
                         sizes: [
                             {
