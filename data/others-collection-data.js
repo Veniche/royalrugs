@@ -228,7 +228,7 @@ const othersCollectionData = [
                         id: "ot-201",
                         title: "Gift Voucher 100K",
                         description: "A Rp100,000 gift voucher that can be redeemed against any product in our collection. Perfect for showing appreciation or celebrating special occasions with the gift of beautiful home decor. Let your loved ones choose their perfect rug or home accessory.",
-                        image: "assets/catalogues/others/gift-voucher/GV_100K.jpeg",
+                        image: "assets/catalogues/others/gift-voucher/GV_100K_1.jpeg",
                         sizes: [
                             {
                                 size: "100K",
@@ -243,7 +243,7 @@ const othersCollectionData = [
                         id: "ot-202",
                         title: "Gift Voucher 500K",
                         description: "A generous Rp500,000 gift voucher for those who appreciate quality home furnishings. This voucher can be used towards any item in our collection, making it an ideal gift for housewarmings, weddings, or as a special treat for interior design enthusiasts.",
-                        image: "assets/catalogues/others/gift-voucher/GV_500K.jpg",
+                        image: "assets/catalogues/others/gift-voucher/GV_500K_1.jpeg",
                         sizes: [
                             {
                                 size: "500K",
@@ -258,7 +258,7 @@ const othersCollectionData = [
                         id: "ot-203",
                         title: "Gift Voucher 1 Juta",
                         description: "Our premium Rp1,000,000 gift voucher offers the ultimate flexibility in home decor shopping. Perfect for significant occasions, this voucher allows the recipient to select from our finest rugs and home accessories, ensuring they find something that perfectly matches their style and space.",
-                        image: "assets/catalogues/others/gift-voucher/GV_1JUTA.jpg",
+                        image: "assets/catalogues/others/gift-voucher/GV_1JUTA_1.jpeg",
                         sizes: [
                             {
                                 size: "1 Juta",
