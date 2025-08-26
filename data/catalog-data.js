@@ -20,7 +20,7 @@ const catalogData = [
         title: "Winter Collection",
         slug: "winter-collection",
         image: "assets/catalogues/winter.png",
-        description: "Luxurious and plush rugs designed to keep your feet warm. Featuring deep piles and winter-inspired patterns for ultimate comfort in cold weather.",
+        description: "Cool, muted tones and intricate detailing, drawn from the serene stillness of winter frost. Designed with bespoke 550 GSM velvet-finish nylon yarn, a 9 mm pile height and framed by an opulent obrass border. A supple latex-dotted backing ensures slip-resistant stability.",
         buttonText: "View Catalogue"
     },
     {
