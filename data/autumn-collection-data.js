@@ -207,7 +207,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-009",
                         "title": "PT109 - AQUA ANATOLIA",
-                        "description": "Cool sky blue meets deep espresso and hints of crimson in this heritage inspired rug. The rich contrasts and floral motifs evoke the gentle beauty of an autumn garden, making it a bold centrepiece for your space. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "Cool sky blue meets deep espresso and hints of crimson in this heritage inspired rug. The rich contrasts and floral motifs evoke the gentle beauty of an autumn garden, making it a bold centrepiece for your space.",
                         "image": "assets/catalogues/autumn/premium-turkish/PT109-200x300.png",
                         "sizes": [
                             {
@@ -233,11 +233,17 @@ const autumnCollectionData = [
             {
                 "title": "Premium Abstract",
                 "description": "Textured rugs with traditional patterns",
+                "specifications": "<div class='specifications'><strong>Specifications</strong><ul>" +
+                "<li><strong>Material:</strong> Premium 600 GSM Nylon Yarn</li>" +
+                "<li><strong>Thickness:</strong> 10 mm</li>" +
+                "<li><strong>Border:</strong> Frameless with Hemming Finish</li>" +
+                "<li><strong>Backing:</strong> Soft, Anti-Slip Layer</li>" +
+                "<li><strong>Warranty:</strong> 3 Years</li></ul></div>",
                 "products": [
                     {
                         "id": "au-101",
                         "title": "PA101 - AZURE MIST",
-                        "description": "Deep ocean blues fade into misty sky tones, layered with weathered textures that echo the serenity of a crisp autumn horizon. A modern abstract masterpiece that blends warmth with cool, calming elegance - perfect way to elevate your living space. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "Deep ocean blues fade into misty sky tones, layered with weathered textures that echo the serenity of a crisp autumn horizon. A modern abstract masterpiece that blends warmth with cool, calming elegance - perfect way to elevate your living space.",
                         "image": "assets/catalogues/autumn/premium-abstract/PA101-150x200.png",
                         "sizes": [
                             {
@@ -261,7 +267,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-102",
                         "title": "PA102 - RUST WAVE",
-                        "description": "Soft clouds of blue mingle with rustic shades in an abstract composition that feels both tranquil and vibrant. Reminiscent of a fall sky meeting the warmth of the earth. The interplay of colors brings movement to your room. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "Soft clouds of blue mingle with rustic shades in an abstract composition that feels both tranquil and vibrant. Reminiscent of a fall sky meeting the warmth of the earth. The interplay of colors brings movement to your room.",
                         "image": "assets/catalogues/autumn/premium-abstract/PA102-200x300.png",
                         "sizes": [
                             {
@@ -285,7 +291,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-103",
                         "title": "PA103 - DUSKY OAK",
-                        "description": "A serene fusion of cool slate blues, soft greys, and sandy tones creates a layered, textured look. This design evokes the quiet beauty of an autumn landscape after rain, grounding the room with natural elegance and timeless charm. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "A serene fusion of cool slate blues, soft greys, and sandy tones creates a layered, textured look. This design evokes the quiet beauty of an autumn landscape after rain, grounding the room with natural elegance and timeless charm.",
                         "image": "assets/catalogues/autumn/premium-abstract/PA103-150x200.png",
                         "sizes": [
                             {
@@ -309,7 +315,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-104",
                         "title": "PA104 -  MAPLE HAZE",
-                        "description": "A distressed abstract design where muted blue-grey tones meet flecks of brown rust, accented with ivory highlights and subtle texture variations. This captures the shifting beauty of autumn in abstract form, bringing understated allure to your space. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "A distressed abstract design where muted blue-grey tones meet flecks of brown rust, accented with ivory highlights and subtle texture variations. This captures the shifting beauty of autumn in abstract form, bringing understated allure to your space.",
                         "image": "assets/catalogues/autumn/premium-abstract/PA104-200x300.png",
                         "sizes": [
                             {
@@ -333,7 +339,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-105",
                         "title": "PA105 - ASHEN SKY",
-                        "description": "A soothing blend of smoky greys and dusty blues along with soft ivory tones. This abstract design evokes the gentle transitions of autumn skies. The shades adds depth, infusing your space with a sense of quiet sophistication. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "A soothing blend of smoky greys and dusty blues along with soft ivory tones. This abstract design evokes the gentle transitions of autumn skies. The shades adds depth, infusing your space with a sense of quiet sophistication.",
                         "image": "assets/catalogues/autumn/premium-abstract/PA105-150x200.png",
                         "sizes": [
                             {
@@ -357,7 +363,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-106",
                         "title": "PA106 - OLIVE HUES",
-                        "description": "A palette of sage olive, weathered stone grey, and antique ivory flows across a softly distressed abstract design, recalling the glow of late-harvest fields. Layered tones and textures adds dimension, grounding your home in comfort and style. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "A palette of sage olive, weathered stone grey, and antique ivory flows across a softly distressed abstract design, recalling the glow of late-harvest fields. Layered tones and textures adds dimension, grounding your home in comfort and style.",
                         "image": "assets/catalogues/autumn/premium-abstract/PA106-200x300.png",
                         "sizes": [
                             {
@@ -381,7 +387,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-107",
                         "title": "PA107 - CHARCOAL GLOW",
-                        "description": "Dynamic shades of deep charcoal, golden ochre, and smoky grey unfold in a bold abstract with linear accents, infused with the warmth of harvest gold. This is designed to anchor your space with modern sophistication. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "Dynamic shades of deep charcoal, golden ochre, and smoky grey unfold in a bold abstract with linear accents, infused with the warmth of harvest gold. This is designed to anchor your space with modern sophistication.",
                         "image": "assets/catalogues/autumn/premium-abstract/PA107-150x200.png",
                         "sizes": [
                             {
@@ -405,7 +411,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-108",
                         "title": "PA108 - COPPER GROVE",
-                        "description": "Rich strokes of golden amber meet pale stone grey and ivory in a dynamic abstract pattern. The layered detailing gives the rug an enduring appeal, making it a perfect piece to enhance your space. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "Rich strokes of golden amber meet pale stone grey and ivory in a dynamic abstract pattern. The layered detailing gives the rug an enduring appeal, making it a perfect piece to enhance your space.",
                         "image": "assets/catalogues/autumn/premium-abstract/PA108-200x300.png",
                         "sizes": [
                             {
@@ -429,7 +435,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-109",
                         "title": "PA109 -  FOG GRID",
-                        "description": "A delicate balance of misty grey and gentle ivory is accented with hints of rust and deep blue, forming a distressed grid-like abstract. The design brings both structure and fluidity, making it a unique focal point for any interior. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "A delicate balance of misty grey and gentle ivory is accented with hints of rust and deep blue, forming a distressed grid-like abstract. The design brings both structure and fluidity, making it a unique focal point for any interior.",
                         "image": "assets/catalogues/autumn/premium-abstract/PA109-150x200.png",
                         "sizes": [
                             {
@@ -455,11 +461,17 @@ const autumnCollectionData = [
             {
                 "title": "Premium Vintage",
                 "description": "Textured rugs with traditional patterns",
+                "specifications": "<div class='specifications'><strong>Specifications</strong><ul>" +
+                "<li><strong>Material:</strong> Premium 600 GSM Nylon Yarn</li>" +
+                "<li><strong>Thickness:</strong> 10 mm</li>" +
+                "<li><strong>Border:</strong> Frameless with Hemming Finish</li>" +
+                "<li><strong>Backing:</strong> Soft, Anti-Slip Layer</li>" +
+                "<li><strong>Warranty:</strong> 3 Years</li></ul></div>",
                 "products": [
                     {
                         "id": "au-201",
                         "title": "PV101 - HONEYCOMB",
-                        "description": "A vintage-inspired rug featuring a warm taupe base framed by a deep, honeycomb-patterned border in inky black. Its timeless geometric design, paired with the inviting warmth of muted neutrals\u2014 suited for spaces that blend heritage charm with modern comfort. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "A vintage-inspired rug featuring a warm taupe base framed by a deep, honeycomb-patterned border in inky black. Its timeless geometric design, paired with the inviting warmth of muted neutrals\u2014 suited for spaces that blend heritage charm with modern comfort.",
                         "image": "assets/catalogues/autumn/premium-vintage/PV101-200x300.png",
                         "sizes": [
                             {
@@ -483,7 +495,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-202",
                         "title": "PV102 -  PLUMWOOD",
-                        "description": "Softly layered hues flow together, merging deep plum, warm russet, and muted taupe in a subtle ombr\u00e9 effect. The distressed detailing adds character, resembling leaves fading into rich earth tones. An effortless touch of sophistication for your room. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "Softly layered hues flow together, merging deep plum, warm russet, and muted taupe in a subtle ombr\u00e9 effect. The distressed detailing adds character, resembling leaves fading into rich earth tones. An effortless touch of sophistication for your room.",
                         "image": "assets/catalogues/autumn/premium-vintage/PV102-150x200.png",
                         "sizes": [
                             {
@@ -507,7 +519,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-203",
                         "title": "PV103 - FOGSTONE",
-                        "description": "Subtle tones of stone grey and ivory flow together like fog over a quiet morning. Framed by a bold geometric border, the symmetry adds a distinctive presence to your space. A piece which compliments both modern and classic interiors. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "Subtle tones of stone grey and ivory flow together like fog over a quiet morning. Framed by a bold geometric border, the symmetry adds a distinctive presence to your space. A piece which compliments both modern and classic interiors.",
                         "image": "assets/catalogues/autumn/premium-vintage/PV103-200x300.png",
                         "sizes": [
                             {
@@ -531,7 +543,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-204",
                         "title": "PV104 - BLUEPINE",
-                        "description": "A striking fusion of deep navy and ivory creates a bold canvas, brought to life with an abstract web of intersecting lines. The sharp contrast and dynamic pattern make it an eye-catching piece that transforms any space with style. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "A striking fusion of deep navy and ivory creates a bold canvas, brought to life with an abstract web of intersecting lines. The sharp contrast and dynamic pattern make it an eye-catching piece that transforms any space with style.",
                         "image": "assets/catalogues/autumn/premium-vintage/PV104-150x200.png",
                         "sizes": [
                             {
@@ -555,7 +567,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-205",
                         "title": "PV105 - MULBERRY",
-                        "description": "Cool steel-grey and dove-grey tones meet a bold burgundy geometric border, with an abstract pattern that adds depth and a modern edge to your space. Hints of rich burgundy bring a touch of fall\u2019s warmth to the design. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "Cool steel-grey and dove-grey tones meet a bold burgundy geometric border, with an abstract pattern that adds depth and a modern edge to your space. Hints of rich burgundy bring a touch of fall\u2019s warmth to the design.",
                         "image": "assets/catalogues/autumn/premium-vintage/PV105-200x300.png",
                         "sizes": [
                             {
@@ -579,7 +591,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-206",
                         "title": "PV106 - CHESTNUT",
-                        "description": "Warm beige and grey tones are layered with linear accents in deep rust and brick red, creating a striking yet balanced design. The earthy palette adds a touch of warmth, perfect for bringing an inviting feel to your space. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "Warm beige and grey tones are layered with linear accents in deep rust and brick red, creating a striking yet balanced design. The earthy palette adds a touch of warmth, perfect for bringing an inviting feel to your space.",
                         "image": "assets/catalogues/autumn/premium-vintage/PV106-150x200.png",
                         "sizes": [
                             {
@@ -605,11 +617,17 @@ const autumnCollectionData = [
             {
                 "title": "Premium Marble",
                 "description": "Textured rugs with traditional patterns",
+                "specifications": "<div class='specifications'><strong>Specifications</strong><ul>" +
+                "<li><strong>Material:</strong> Premium 600 GSM Nylon Yarn</li>" +
+                "<li><strong>Thickness:</strong> 10 mm</li>" +
+                "<li><strong>Border:</strong> Frameless with Hemming Finish</li>" +
+                "<li><strong>Backing:</strong> Soft, Anti-Slip Layer</li>" +
+                "<li><strong>Warranty:</strong> 3 Years</li></ul></div>",
                 "products": [
                     {
                         "id": "au-301",
                         "title": "PM101 - MARBLE ASH",
-                        "description": "Dove grey serves as the backdrop for striking black marble-like veining, framed with bold geometric accents. This sleek design blends elegance and drama, creating a refined focal point that pairs luxury with bold modernity. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "Dove grey serves as the backdrop for striking black marble-like veining, framed with bold geometric accents. This sleek design blends elegance and drama, creating a refined focal point that pairs luxury with bold modernity.",
                         "image": "assets/catalogues/autumn/premium-marble/PM101-150x200.png",
                         "sizes": [
                             {
@@ -633,7 +651,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-302",
                         "title": "PM102 - MARBLE OAK",
-                        "description": "Charcoal and golden-brown veining flow over a soft grey base, evoking the richness of autumn streams. An organic marble design that integrates fluid movement with striking contrast, creating a captivating allure to any space. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "Charcoal and golden-brown veining flow over a soft grey base, evoking the richness of autumn streams. An organic marble design that integrates fluid movement with striking contrast, creating a captivating allure to any space.",
                         "image": "assets/catalogues/autumn/premium-marble/PM102-200x300.png",
                         "sizes": [
                             {
@@ -657,7 +675,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-303",
                         "title": "PM103 - MARBLE WOOD",
-                        "description": "Swirls of cream and sand ripple across the surface, framed by fine golden lattice lines that add a touch of refinement. The marbled effect and warm golden undertones echo the gentle glow of autumn light, creating an inviting centrepiece. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "Swirls of cream and sand ripple across the surface, framed by fine golden lattice lines that add a touch of refinement. The marbled effect and warm golden undertones echo the gentle glow of autumn light, creating an inviting centrepiece.",
                         "image": "assets/catalogues/autumn/premium-marble/PM103-150x200.png",
                         "sizes": [
                             {
@@ -681,7 +699,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-304",
                         "title": "PM104 - MARBLE PINE",
-                        "description": "Golden veining sweeps across a creamy marble base, framed with a classic grecian pattern for a touch of regal charm. A design that stands beautifully on its own yet complements a variety of interior styles. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "Golden veining sweeps across a creamy marble base, framed with a classic grecian pattern for a touch of regal charm. A design that stands beautifully on its own yet complements a variety of interior styles.",
                         "image": "assets/catalogues/autumn/premium-marble/PM104-200x300.png",
                         "sizes": [
                             {
@@ -705,7 +723,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-305",
                         "title": "PM105 -  MARBLE MIST",
-                        "description": "Deep sapphire tones ripple with white marble veining, framed by sleek silver borders for a refined modern edge. The rich color palette brings a sense of bold elegance that transforms the entire room\u2019s atmosphere. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "Deep sapphire tones ripple with white marble veining, framed by sleek silver borders for a refined modern edge. The rich color palette brings a sense of bold elegance that transforms the entire room\u2019s atmosphere.",
                         "image": "assets/catalogues/autumn/premium-marble/PM105-150x200.png",
                         "sizes": [
                             {
@@ -731,11 +749,17 @@ const autumnCollectionData = [
             {
                 "title": "Premium Sphere",
                 "description": "Textured rugs with traditional patterns",
+                "specifications": "<div class='specifications'><strong>Specifications</strong><ul>" +
+                "<li><strong>Material:</strong> Premium 600 GSM Nylon Yarn</li>" +
+                "<li><strong>Thickness:</strong> 10 mm</li>" +
+                "<li><strong>Border:</strong> Frameless with Hemming Finish</li>" +
+                "<li><strong>Backing:</strong> Soft, Anti-Slip Layer</li>" +
+                "<li><strong>Warranty:</strong> 3 Years</li></ul></div>",
                 "products": [
                     {
                         "id": "au-401",
                         "title": "PS100 - RAVEN CREST",
-                        "description": "Concentric rings in rich graphite and stone-like grey form a captivating labyrinth design, adding dimension and visual harmony to the space. The circular form softens the room, bringing a polished touch that enriches the overall setting. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "Concentric rings in rich graphite and stone-like grey form a captivating labyrinth design, adding dimension and visual harmony to the space. The circular form softens the room, bringing a polished touch that enriches the overall setting.",
                         "image": "assets/catalogues/autumn/premium-sphere/PS100-200.png",
                         "sizes": [
                             {
@@ -751,7 +775,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-402",
                         "title": "PS101 - PEBBLE HAZE",
-                        "description": "A timeless round design framed by a bold Grecian border, where layered shades of soft and deep grey create depth and structure. The contrast within the pattern adds a refined presence, making it a versatile piece for any interior. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "A timeless round design framed by a bold Grecian border, where layered shades of soft and deep grey create depth and structure. The contrast within the pattern adds a refined presence, making it a versatile piece for any interior.",
                         "image": "assets/catalogues/autumn/premium-sphere/PS101-200.png",
                         "sizes": [
                             {
@@ -767,7 +791,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-403",
                         "title": "PS102 -  PEARL ORBIT",
-                        "description": "Warm neutrals of beige and ivory meet bold black detailing, creating a striking contrast that draws the eye. The crisp outlines bring a sense of rhythm, giving the rug a dynamic essence without overpowering the space. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "Warm neutrals of beige and ivory meet bold black detailing, creating a striking contrast that draws the eye. The crisp outlines bring a sense of rhythm, giving the rug a dynamic essence without overpowering the space.",
                         "image": "assets/catalogues/autumn/premium-sphere/PS102-200.png",
                         "sizes": [
                             {
@@ -783,7 +807,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-404",
                         "title": "PS103 -  STONE HOLLOW",
-                        "description": "Shades of silvery grey flow seamlessly across the surface, enriched with delicate tonal shifts that add dimension. The design\u2019s soft transitions evoke a serene, moody atmosphere, effortlessly bringing a lasting impression to your home. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "Shades of silvery grey flow seamlessly across the surface, enriched with delicate tonal shifts that add dimension. The design\u2019s soft transitions evoke a serene, moody atmosphere, effortlessly bringing a lasting impression to your home.",
                         "image": "assets/catalogues/autumn/premium-sphere/PS103-200.png",
                         "sizes": [
                             {
@@ -799,7 +823,7 @@ const autumnCollectionData = [
                     {
                         "id": "au-405",
                         "title": "PS104 - HAZEL LOOP",
-                        "description": "Radiating warmth, this rug layers deep chestnut and earthy brown tones in a graceful circular design, framed by a bold Grecian motif. The design\u2019s grounded hues bring an organic, autumn-inspired character that feels welcoming. <br><br>Premium 600gsm nylon yarn<br>10mm thickness<br>Frameless border  - Hemming<br>Soft backing anti slip<br>3 years warranty",
+                        "description": "Radiating warmth, this rug layers deep chestnut and earthy brown tones in a graceful circular design, framed by a bold Grecian motif. The design\u2019s grounded hues bring an organic, autumn-inspired character that feels welcoming.",
                         "image": "assets/catalogues/autumn/premium-sphere/PS104-200.png",
                         "sizes": [
                             {
