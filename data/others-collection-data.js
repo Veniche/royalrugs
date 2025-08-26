@@ -166,7 +166,7 @@ const othersCollectionData = [
                         id: "ot-101",
                         title: "Grass",
                         description: "Transform any space with our premium synthetic grass, offering a lush, natural look without the maintenance. This high-quality artificial turf features realistic texture and vibrant green color, perfect for balconies, patios, or indoor play areas. UV-resistant and weatherproof for year-round beauty.",
-                        image: "assets/catalogues/others/grass/grass_1.png",
+                        image: "assets/catalogues/others/grass/grass.jpeg",
                         sizes: [
                             {
                                 size: "100x200cm",
