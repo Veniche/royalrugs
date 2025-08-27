@@ -170,7 +170,7 @@ const othersCollectionData = [
                         sizes: [
                             {
                                 size: "100x200cm",
-                                image: "assets/catalogues/others/grass/grass_1.png",
+                                image: "assets/catalogues/others/grass/grass.jpeg",
                                 price: 391350,
                                 shopee: "https://shopee.co.id/Synthetic-Oasis-Green-Grass-Royal-Karpet-Rumput-Sintetis-3-cm-Carpet-Dekorasi-Taman-Artificial-i.964448777.26153994686?sp_atk=07a1dc70-270d-4988-890c-64041cf8fcce&xptdk=07a1dc70-270d-4988-890c-64041cf8fcce",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/synthetic-oasis-green-grass-royal-karpet-rumput-sintetis-3-cm-premium-eco-friendly-tahan-uv-untuk-dekorasi-rumah-taman-outdoor-indoor-1729704556249384193?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
