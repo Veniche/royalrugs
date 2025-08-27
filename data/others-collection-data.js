@@ -178,7 +178,7 @@ const othersCollectionData = [
                             },
                             {
                                 size: "150x200cm",
-                                image: "assets/catalogues/others/grass/grass_2.png",
+                                image: "assets/catalogues/others/grass/grass.jpeg",
                                 price: 441500,
                                 shopee: "https://shopee.co.id/Synthetic-Oasis-Green-Grass-Royal-Karpet-Rumput-Sintetis-3-cm-Carpet-Dekorasi-Taman-Artificial-i.964448777.26153994686?sp_atk=07a1dc70-270d-4988-890c-64041cf8fcce&xptdk=07a1dc70-270d-4988-890c-64041cf8fcce",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/synthetic-oasis-green-grass-royal-karpet-rumput-sintetis-3-cm-premium-eco-friendly-tahan-uv-untuk-dekorasi-rumah-taman-outdoor-indoor-1729704556249384193?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
@@ -186,7 +186,7 @@ const othersCollectionData = [
                             },
                             {
                                 size: "200x200cm",
-                                image: "assets/catalogues/others/grass/grass_3.png",
+                                image: "assets/catalogues/others/grass/grass.jpeg",
                                 price: 579000,
                                 shopee: "https://shopee.co.id/Synthetic-Oasis-Green-Grass-Royal-Karpet-Rumput-Sintetis-3-cm-Carpet-Dekorasi-Taman-Artificial-i.964448777.26153994686?sp_atk=07a1dc70-270d-4988-890c-64041cf8fcce&xptdk=07a1dc70-270d-4988-890c-64041cf8fcce",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/synthetic-oasis-green-grass-royal-karpet-rumput-sintetis-3-cm-premium-eco-friendly-tahan-uv-untuk-dekorasi-rumah-taman-outdoor-indoor-1729704556249384193?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
@@ -194,7 +194,7 @@ const othersCollectionData = [
                             },
                             {
                                 size: "300x200cm",
-                                image: "assets/catalogues/others/grass/grass_4.png",
+                                image: "assets/catalogues/others/grass/grass.jpeg",
                                 price: 868500,
                                 shopee: "https://shopee.co.id/Synthetic-Oasis-Green-Grass-Royal-Karpet-Rumput-Sintetis-3-cm-Carpet-Dekorasi-Taman-Artificial-i.964448777.26153994686?sp_atk=07a1dc70-270d-4988-890c-64041cf8fcce&xptdk=07a1dc70-270d-4988-890c-64041cf8fcce",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/synthetic-oasis-green-grass-royal-karpet-rumput-sintetis-3-cm-premium-eco-friendly-tahan-uv-untuk-dekorasi-rumah-taman-outdoor-indoor-1729704556249384193?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
@@ -202,7 +202,7 @@ const othersCollectionData = [
                             },
                             {
                                 size: "400x200cm",
-                                image: "assets/catalogues/others/grass/grass_5.png",
+                                image: "assets/catalogues/others/grass/grass.jpeg",
                                 price: 1178500,
                                 shopee: "https://shopee.co.id/Synthetic-Oasis-Green-Grass-Royal-Karpet-Rumput-Sintetis-3-cm-Carpet-Dekorasi-Taman-Artificial-i.964448777.26153994686?sp_atk=07a1dc70-270d-4988-890c-64041cf8fcce&xptdk=07a1dc70-270d-4988-890c-64041cf8fcce",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/synthetic-oasis-green-grass-royal-karpet-rumput-sintetis-3-cm-premium-eco-friendly-tahan-uv-untuk-dekorasi-rumah-taman-outdoor-indoor-1729704556249384193?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
@@ -210,7 +210,7 @@ const othersCollectionData = [
                             },
                             {
                                 size: "500x200cm",
-                                image: "assets/catalogues/others/grass/grass_6.png",
+                                image: "assets/catalogues/others/grass/grass.jpeg",
                                 price: 1423500,
                                 shopee: "https://shopee.co.id/Synthetic-Oasis-Green-Grass-Royal-Karpet-Rumput-Sintetis-3-cm-Carpet-Dekorasi-Taman-Artificial-i.964448777.26153994686?sp_atk=07a1dc70-270d-4988-890c-64041cf8fcce&xptdk=07a1dc70-270d-4988-890c-64041cf8fcce",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/synthetic-oasis-green-grass-royal-karpet-rumput-sintetis-3-cm-premium-eco-friendly-tahan-uv-untuk-dekorasi-rumah-taman-outdoor-indoor-1729704556249384193?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
