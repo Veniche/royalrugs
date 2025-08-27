@@ -300,10 +300,10 @@ const winterCollectionData = [
                 title: "Bespoke Abstract",
                 description: "Artistic abstract designs that capture the serene beauty of winter, featuring elegant patterns inspired by frost, snowflakes, and icy landscapes. Each rug in this collection combines modern aesthetics with the cozy comfort needed during the winter season.",
                 specifications: "<div class='specifications'><strong>Specifications</strong><ul>" +
-                "<li><strong>Material:</strong> Premium 550 GSM Velvet Nylon Yarn</li>" +
+                "<li><strong>Material:</strong> Bespoke 550 GSM Velvet Nylon Yarn</li>" +
                 "<li><strong>Thickness:</strong> 9 mm</li>" +
-                "<li><strong>Border:</strong> Full Obrass</li>" +
-                "<li><strong>Backing:</strong> Latex Dott Soft Backing Anti-Slip Layer</li>" +
+                "<li><strong>Border:</strong> Opulent Obrass Finish</li>" +
+                "<li><strong>Backing:</strong> Soft Latex-dot, Anti-Slip Layer</li>" +
                 "<li><strong>Warranty:</strong> 3 Years</li></ul></div>",
                 products: [
                     {
@@ -599,11 +599,17 @@ const winterCollectionData = [
             {
                 title: "Bespoke Moroccan",
                 description: "Exquisite Moroccan-inspired rugs that bring the warmth of North African winters to your home. These handcrafted pieces feature intricate geometric patterns and plush textures, offering both visual interest and cozy comfort during the coldest months.",
+                specifications: "<div class='specifications'><strong>Specifications</strong><ul>" +
+                "<li><strong>Material:</strong> Bespoke 550 GSM Velvet Nylon Yarn</li>" +
+                "<li><strong>Thickness:</strong> 9 mm</li>" +
+                "<li><strong>Border:</strong> Opulent Obrass Finish</li>" +
+                "<li><strong>Backing:</strong> Soft Latex-dot, Anti-Slip Layer</li>" +
+                "<li><strong>Warranty:</strong> 3 Years</li></ul></div>",
                 products: [
                     {
                         id: "wn-201",
-                        title: "BM201 - RUMI KASHMIR",
-                        description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
+                        title: "BM201 - RUMI",
+                        description: "Cool ivory and ash-grey tones with a bold Moroccan-inspired border in deep ebony. At its heart, a detailed medallion anchors the design, reminiscent of timeless Moroccan artistry. This reflects the stillness of winter nights, lending sophistication to any area.",
                         image: "assets/catalogues/winter/bespoke-moroccan/BM201-160x240.png",
                         sizes: [
                             {
@@ -635,7 +641,7 @@ const winterCollectionData = [
                     {
                         id: "wn-202",
                         title: "BM202 - SHIRAZ",
-                        description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
+                        description: "With layered shades of storm grey and frosted ivory, this rug reflects the quiet geometry of Moroccan minaret designs. The intricate borders echo timeless craftsmanship, while the cool winter tones make it a versatile centrepiece for elegant living spaces.",
                         image: "assets/catalogues/winter/bespoke-moroccan/BM202-200x300.png",
                         sizes: [
                             {
@@ -666,8 +672,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-203",
-                        title: "BM203 - MAROC RETRO",
-                        description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
+                        title: "BM203 - SUFI",
+                        description: "A deep charcoal base is framed with intricate classical motifs in ivory and silver, evoking the quiet mystery of winter nights. Its detailed medallion design brings refined grandeur into your home, harmonising seamlessly with modern or classic interiors.",
                         image: "assets/catalogues/winter/bespoke-moroccan/BM203-300x400.png",
                         sizes: [
                             {
@@ -698,8 +704,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-204",
-                        title: "BM204 - BRIGHT CROWN",
-                        description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
+                        title: "BM204 - NOOR",
+                        description: "A refined Moroccan influence with intricate borders and a central ornamental motif that draws the eye. The winter-inspired palette of frosted greys, ivory, and muted gold brings depth, transforming your living area into a timeless retreat.",
                         image: "assets/catalogues/winter/bespoke-moroccan/BM204-160x240.png",
                         sizes: [
                             {
@@ -730,8 +736,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-205",
-                        title: "BM205 - LUMINE",
-                        description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
+                        title: "BM205 - MARRAKESH",
+                        description: "Rich deep blue hues flow seamlessly with muted grey undertones, forming a striking centrepiece framed by Moroccan-inspired borders. This elegant combination mirrors the quiet majesty of winter nights, while the intricate detailing adds refinement your living space.",
                         image: "assets/catalogues/winter/bespoke-moroccan/BM205-200x300.png",
                         sizes: [
                             {
@@ -762,8 +768,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-206",
-                        title: "BM206 - VATTEN KIDOR",
-                        description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
+                        title: "BM206 - MIRAGE",
+                        description: "Tones of grey, ivory, and soft taupe weave together in a graceful pattern, outlined with finely detailed borders. A central motif anchors the design, while the muted winter palette offers a composed grace that makes any space feel complete.",
                         image: "assets/catalogues/winter/bespoke-moroccan/BM206-300x400.png",
                         sizes: [
                             {
@@ -794,8 +800,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-207",
-                        title: "BM207 - CHENILLE",
-                        description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
+                        title: "BM207 - NASEEM",
+                        description: "Deep blue accents layered with soft ivory and cool grey create a striking contrast, reminiscent of winter skies meeting snow. The detailed central motif and ornate border add refinement, while the cool palette grounds the room with poise.",
                         image: "assets/catalogues/winter/bespoke-moroccan/BM207-160x240.png",
                         sizes: [
                             {
@@ -826,8 +832,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-208",
-                        title: "BM208 - LUXURY",
-                        description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
+                        title: "BM208 - SAHARA",
+                        description: "An intricate Moroccan style pattern that blends soft beige, muted greys, and warm taupe. The ornate central motif and bordered details evoke timeless tradition, while the winter-toned palette enhances the room’s atmosphere without overwhelming it. Perfect for living spaces.",
                         image: "assets/catalogues/winter/bespoke-moroccan/BM208-200x300.png",
                         sizes: [
                             {
@@ -858,8 +864,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-209",
-                        title: "BM209 - VALBY RUTH",
-                        description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
+                        title: "BM209 - KASHMIR",
+                        description: "Deep maroon tones interlace with muted winter greys and ivory highlights, framed by ornate borders. The design balances warmth with cool tones, making it ideal for creating an inviting yet regal atmosphere which instantly commands attention.",
                         image: "assets/catalogues/winter/bespoke-moroccan/BM209-300x400.png",
                         sizes: [
                             {

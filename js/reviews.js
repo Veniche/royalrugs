@@ -13,7 +13,10 @@ document.addEventListener('DOMContentLoaded', function() {
         'review_4.png',
         'review_5.png',
         'review_6.png',
-        'review_9.png'
+        'review_9.png',
+        'review_10.png',
+        'review_11.png',
+        'review_12.png'
     ];
 
     // Function to create a review item
