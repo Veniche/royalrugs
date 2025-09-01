@@ -5,11 +5,17 @@ const winterCollectionData = [
             {
                 title: "Bespoke Fusion",
                 description: "Luxurious wool rugs designed for ultimate winter comfort, featuring plush textures and warm, inviting colors. Each piece combines premium materials with exquisite craftsmanship to create a cozy haven during the colder months.",
+                specifications: "<div class='specifications'><strong>Specifications</strong><ul>" +
+                "<li><strong>Material:</strong> Bespoke 550 GSM Velvet Nylon Yarn</li>" +
+                "<li><strong>Thickness:</strong> 9 mm</li>" +
+                "<li><strong>Border:</strong> Opulent Obrass Finish</li>" +
+                "<li><strong>Backing:</strong> Soft Latex-dot, Anti-Slip Layer</li>" +
+                "<li><strong>Warranty:</strong> 3 Years</li></ul></div>",
                 products: [
                     {
                         id: "wn-001",
-                        title: "BF201 - BROWNY",
-                        description: "Sumptuous deep brown wool rug with a rich, velvety pile that provides exceptional warmth and comfort. The dense, plush texture creates a soft underfoot experience, making it perfect for creating a cozy winter retreat in any living space.",
+                        title: "BF201 - HAZEL REALM",
+                        description: "A seamless fusion of classic artistry and modern minimalism, this rug blends chestnut brown with soft ivory. The intricate frost-like motifs and structured borders create a harmonious balance, while the winter-inspired palette grounds the space.",
                         image: "assets/catalogues/winter/bespoke-fusion/BF201-160x240.png",
                         sizes: [
                             {
@@ -40,8 +46,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-002",
-                        title: "BF202 - AMARINE",
-                        description: "Sumptuous deep brown wool rug with a rich, velvety pile that provides exceptional warmth and comfort. The dense, plush texture creates a soft underfoot experience, making it perfect for creating a cozy winter retreat in any living space.",
+                        title: "BF202 - RUBY DUSK",
+                        description: "This rug design features a deep maroon base paired with ivory patterns, giving it a rich and regal character. The ornate floral motifs and structured borders flow seamlessly. The maroon foundation adds warmth, while the ivory accents brighten the space.",
                         image: "assets/catalogues/winter/bespoke-fusion/BF202-200x300.png",
                         sizes: [
                             {
@@ -72,8 +78,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-003",
-                        title: "BF203 - CRIMSON",
-                        description: "Sumptuous deep brown wool rug with a rich, velvety pile that provides exceptional warmth and comfort. The dense, plush texture creates a soft underfoot experience, making it perfect for creating a cozy winter retreat in any living space.",
+                        title: "BF203 - SAPPHIRE HAVEN",
+                        description: "This rug blends rich navy hues with delicate ivory motifs. Its intricate pattern mirrors the grace of winter frost, while the fusion of bold contrast and subtle detailing makes it versatile for both modern and classic interiors.",
                         image: "assets/catalogues/winter/bespoke-fusion/BF203-300x400.png",
                         sizes: [
                             {
@@ -104,8 +110,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-004",
-                        title: "BF204 - MILO ROOSTER",
-                        description: "Sumptuous deep brown wool rug with a rich, velvety pile that provides exceptional warmth and comfort. The dense, plush texture creates a soft underfoot experience, making it perfect for creating a cozy winter retreat in any living space.",
+                        title: "BF204 - BRONZE VALE",
+                        description: "A striking fusion of classical geometry and modern contrast, blending dark and light tones. The bold black Greek-key border frames a rich palette of golden taupe and soft beige, while delicate detailing in the centre adds refinement.",
                         image: "assets/catalogues/winter/bespoke-fusion/BF204-160x240.png",
                         sizes: [
                             {
@@ -136,8 +142,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-005",
-                        title: "BF205 - HARMONY",
-                        description: "Sumptuous deep brown wool rug with a rich, velvety pile that provides exceptional warmth and comfort. The dense, plush texture creates a soft underfoot experience, making it perfect for creating a cozy winter retreat in any living space.",
+                        title: "BF205 - SCARLET DAWN",
+                        description: "A contemporary abstraction with vintage undertones, making it a striking piece for modern interiors. The distressed crimson-red and muted beige palette gives it a warm yet winter-kissed feel, while the fusion of textures creates depth and visual intrigue.",
                         image: "assets/catalogues/winter/bespoke-fusion/BF205-200x300.png",
                         sizes: [
                             {
@@ -168,8 +174,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-006",
-                        title: "BF206 - BLUE OCEAN",
-                        description: "Sumptuous deep brown wool rug with a rich, velvety pile that provides exceptional warmth and comfort. The dense, plush texture creates a soft underfoot experience, making it perfect for creating a cozy winter retreat in any living space.",
+                        title: "BF206 - INDIGO SHARD",
+                        description: "A bold interplay of deep navy blue, ivory, and muted taupe creates a striking modern aesthetic. The abstract design evokes flowing water meeting frozen textures. This fusion of classic artistry and contemporary style can transform living space.",
                         image: "assets/catalogues/winter/bespoke-fusion/BF206-300x400.png",
                         sizes: [
                             {
@@ -200,8 +206,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-007",
-                        title: "BF207 - DEEP OCEAN",
-                        description: "Sumptuous deep brown wool rug with a rich, velvety pile that provides exceptional warmth and comfort. The dense, plush texture creates a soft underfoot experience, making it perfect for creating a cozy winter retreat in any living space.",
+                        title: "BF207 - NAVY QUARTZ",
+                        description: "An abstract artistry with subtle winter undertones. Flowing waves of navy, taupe, and frosted ivory interlace like snow meeting stone, creating a dramatic yet balanced composition. Its fusion of organic textures and structured edges makes it a striking centrepiece.",
                         image: "assets/catalogues/winter/bespoke-fusion/BF207-160x240.png",
                         sizes: [
                             {
@@ -232,8 +238,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-008",
-                        title: "BF208 - WHITEY SNAKE",
-                        description: "Sumptuous deep brown wool rug with a rich, velvety pile that provides exceptional warmth and comfort. The dense, plush texture creates a soft underfoot experience, making it perfect for creating a cozy winter retreat in any living space.",
+                        title: "BF208 - PEARL LATTICE",
+                        description: "Crisp geometry of stone-like patterns blends with the softness of winter’s muted palette. Deep charcoal borders frame a field of soft ivory, creating a striking fusion of strength and subtlety. Anchoring any modern living space with structural elegance.",
                         image: "assets/catalogues/winter/bespoke-fusion/BF208-200x300.png",
                         sizes: [
                             {
@@ -264,8 +270,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-009",
-                        title: "BF209 - VELVET",
-                        description: "Sumptuous deep brown wool rug with a rich, velvety pile that provides exceptional warmth and comfort. The dense, plush texture creates a soft underfoot experience, making it perfect for creating a cozy winter retreat in any living space.",
+                        title: "BF209 - COPPER AURA",
+                        description: "A warm interplay of deep chestnut and soft ivory creates a bold yet balanced foundation for your living space. The clean central panel is framed by intricate borders, fusing modern structure with timeless artistry.",
                         image: "assets/catalogues/winter/bespoke-fusion/BF209-300x400.png",
                         sizes: [
                             {
@@ -899,11 +905,17 @@ const winterCollectionData = [
             {
                 title: "Bespoke Disc",
                 description: "Modern circular rugs that add a contemporary touch to winter decor. These unique pieces feature soft, high-pile textures and winter-inspired color palettes, creating a warm and inviting focal point in any room during the chilly season.",
+                specifications: "<div class='specifications'><strong>Specifications</strong><ul>" +
+                "<li><strong>Material:</strong> Bespoke 550 GSM Velvet Nylon Yarn</li>" +
+                "<li><strong>Thickness:</strong> 9 mm</li>" +
+                "<li><strong>Border:</strong> Opulent Obrass Finish</li>" +
+                "<li><strong>Backing:</strong> Soft Latex-dot, Anti-Slip Layer</li>" +
+                "<li><strong>Warranty:</strong> 3 Years</li></ul></div>",
                 products: [
                     {
                         id: "wn-301",
-                        title: "BD201 - OLINE",
-                        description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
+                        title: "BD201 - LUMEN",
+                        description: "This round rug captures the essence of winter with its intricate ivory vine motifs set against a warm chestnut base. The swirling patterns resemble frost-kissed florals, making it a striking centrepiece, grounding modern interiors with refined charm.",
                         image: "assets/catalogues/winter/bespoke-disc/BD201-140.png",
                         sizes: [
                             {
@@ -918,8 +930,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-302",
-                        title: "BD202 - ALMA",
-                        description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
+                        title: "BD202 - EMBER",
+                        description: "Radiating from the centre, this round carpet reveals an intricate floral lattice in deep chocolate brown, contrasted against a soft ivory base. The outward symmetry recalls frosted branches in winter, ideal for enhancing contemporary living rooms with understated luxury.",
                         image: "assets/catalogues/winter/bespoke-disc/BD202-140.png",
                         sizes: [
                             {
@@ -934,8 +946,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-303",
-                        title: "BD203 - LOTUS",
-                        description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
+                        title: "BD203 - AURORA",
+                        description: "A striking round rug with intricate layered motifs in muted greys, golden highlights, and ivory. The design unfolds like a frosted mandala, giving the illusion of delicate winter leaves traced across the floor and adding sophistication to your space.",
                         image: "assets/catalogues/winter/bespoke-disc/BD203-140.png",
                         sizes: [
                             {
@@ -950,8 +962,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-304",
-                        title: "BD204 - FLOWLY",
-                        description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
+                        title: "BD204 - ALPINE",
+                        description: "Grace unfolds in circles, with intricate grey motifs layered over a gentle ivory base. The design recalls frost-kissed patterns on glass. Perfect as a statement piece, it anchors modern interiors with timeless artistry.",
                         image: "assets/catalogues/winter/bespoke-disc/BD204-140.png",
                         sizes: [
                             {
@@ -966,8 +978,8 @@ const winterCollectionData = [
                     },
                     {
                         id: "wn-305",
-                        title: "BD205 - BLACKAS",
-                        description: "Inspired by winter's first frost, this elegant abstract design features delicate crystalline patterns in cool blue and silver tones. The plush, high-pile surface provides luxurious warmth underfoot, creating a serene winter atmosphere in any room.",
+                        title: "BD205 - VELOUR",
+                        description: "Bold contrasts of deep black combine with soft ivory, arranged in a refined circular motif. Intricate borders and a radial design create a sense of structure and rhythm, while the muted winter tones bring warmth to any living area.",
                         image: "assets/catalogues/winter/bespoke-disc/BD205-140.png",
                         sizes: [
                             {
