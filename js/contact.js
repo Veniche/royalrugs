@@ -58,6 +58,9 @@ document.addEventListener('DOMContentLoaded', function() {
             .then(async (response) => {
                 let json = await response.json();
                 if (response.status === 200) {
+                    // Kirim sinyal konversi ke Google Ads
+                    gtag('event', 'conversion', {'send_to': 'AW-17494033776/sNL9CIjopZMbEPCK55VB'});
+
                     // Show thank you popup
                     popup.style.display = "flex";
                     document.body.style.overflow = 'hidden'; // Prevent scrolling when popup is open
