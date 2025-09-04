@@ -2034,19 +2034,111 @@ footer {
     bottom: 20px;
     right: 20px;
     z-index: 1000;
-    font-family: 'Public Sans', sans-serif;
-    transition: all 0.3s ease;
-    transform: translateY(120%);
     opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+    pointer-events: auto;
+    display: none; /* Start hidden, will be shown by JS */
+    /* background: #fff; */
+    border-radius: 8px;
+    /* box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); */
+    padding: 16px 20px;
     max-width: 320px;
-    width: 90%;
-    pointer-events: none;
 }
 
 .live-status-banner.visible {
-    transform: translateY(0);
     opacity: 1;
-    pointer-events: auto;
+    transform: translateY(0);
+    display: block !important;
+}
+
+/* Hide when not visible */
+.live-status-banner:not(.visible) {
+    display: none !important;
+    opacity: 0;
+    transform: translateY(20px);
+}
+
+/* Ensure content is visible */
+.live-status-content {
+    position: relative;
+    z-index: 1;
+}
+
+.live-status-indicator {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 8px;
+    color: #e74c3c;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.live-pulse {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    background: #e74c3c;
+    border-radius: 50%;
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0% { transform: scale(0.95); opacity: 0.8; }
+    50% { transform: scale(1.1); opacity: 1; }
+    100% { transform: scale(0.95); opacity: 0.8; }
+}
+
+.live-status-text {
+    font-size: 14px;
+    color: #333;
+    line-height: 1.4;
+    margin-bottom: 12px;
+}
+
+.live-status-platforms {
+    display: flex;
+    gap: 12px;
+    margin-top: 12px;
+}
+
+.live-status-platforms a {
+    color: #333;
+    font-size: 20px;
+    transition: color 0.2s;
+}
+
+.live-status-platforms a:hover {
+    color: #e74c3c;
+}
+
+.live-status-close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    color: #999;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 5px;
+    line-height: 1;
+}
+
+.live-status-close:hover {
+    color: #333;
+}
+
+@keyframes slideInUp {
+    from {
+        transform: translateY(20px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
 }
 
 .live-status-content {
@@ -2166,11 +2258,12 @@ footer {
     }
     
     .live-status-banner {
-        bottom: 15px;
-        right: 15px;
-        left: 15px;
+        bottom: 10px;
+        right: 10px;
+        left: 10px;
         max-width: none;
         width: auto;
+        margin: 0 auto;
     }
     
     .live-status-content {
