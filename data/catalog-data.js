@@ -41,6 +41,14 @@ const catalogData = [
     },
     {
         id: 6,
+        title: "Karpet Eropa",
+        slug: "eropa-collection",
+        image: "assets/catalogues/eropa/LR111.png",
+        description: "Fresh and vibrant designs that bring the renewal of spring into your home. Features floral patterns and pastel colors perfect for refreshing any space.Crafted with premium 1.440 GSM nylon yarn, a plush 12 mm pile height,  soft anti-slip Corner backing for comfort.",
+        buttonText: "View Catalogue"
+    },
+    {
+        id: 7,
         title: "Explore More",
         slug: "others",
         image: "assets/catalogues/grass.png",
