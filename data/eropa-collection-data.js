@@ -1,4 +1,4 @@
-const sajadahCollectionData = [
+const eropaCollectionData = [
     {
         collection: "Karpet Eropa",
         categories: [

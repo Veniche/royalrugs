@@ -30,6 +30,7 @@ const collectionDataMap = {
     'winter-collection': winterCollectionData[0],
     'shaggy-collection': shaggyCollectionData[0],
     'sajadah-collection': sajadahCollectionData[0],
+    'eropa-collection': eropaCollectionData[0],
     'others': othersCollectionData[0]
 };
 
