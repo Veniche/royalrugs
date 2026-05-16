@@ -20,7 +20,7 @@ const eropaCollectionData = [
                         sizes: [
                             {
                                 size: "100x150cm",
-                                price: 598000,
+                                price: 580000,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-Eropa-Aesthetic-100X150-cm-Permadani-Sultan-Tebal-Carpet-Bulu-Ruang-Tamu-Minimalis-i.964448777.27984875636?sp_atk=e6a167be-6e76-4f62-a9b2-bcf32d756a12&xptdk=e6a167be-6e76-4f62-a9b2-bcf32d756a12",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-eropa-aesthetic-100x150-cm-permadani-sultan-tebal-bulu-ruang-tamu-minimalis-1731266334704239873?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "https://shop-id.tokopedia.com/view/product/1731266225767417089?encode_params=MIIBpgQMplGNlxOutyu86olGBIIBgjRkvoEOw3c_9AOLiExJsG23vcdPbtGWhqCd6qTws7eGdDWMjTGn3WLcE4kF27hTDPQYQhBFysxX5Sv4xl4AbqC1XcCiLXZoo-gdVQLho-hIQXV1lS_GLugu8sLAMkrnReqydwTsJR5x9WnQPLv2vpdXUH-2Iy6hlAwbS64uU6R5P4dSy5gfGyu78WuqYH6NnnpufILAVpB4LgXhVBEMtx5F595ox4x3Er6CFxbhqjQJoE8nGaCaXEWsDUdm5AoaebJDL6tTinMYWyO8jIZwRnSWYavt6m-LF20Q0pOdgdplNP--fMyb-g0wURxin8hllAGDP4pbyNqyRYAts8s9KkcfHmruDeurNzCFkNFKsJO1UHRsnVE4kwbZTO_l-T3U6QjANGEaCi3Am26y2Ht3mRrg0WMgk4NKDzc92JcA0ecRXsJfdmDZVjPvU3nn1sdyzNlsMKqSKGkuzN0PuKDRACblRCKfA5TQlQH8-_wU0sNsBgRgrL9AkgN0USeWd-EqwE38BBBcWFc7AylLSaSubEOExq34&region=ID&locale=id-ID&source=seller_center&hide_tips=&no-cache=1&e=1"
@@ -35,7 +35,7 @@ const eropaCollectionData = [
                         sizes: [
                             {
                                 size: "100x150cm",
-                                price: 598000,
+                                price: 580000,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-Eropa-Aesthetic-100X150-cm-Permadani-Sultan-Tebal-Carpet-Bulu-Ruang-Tamu-Minimalis-i.964448777.27984875636?sp_atk=e6a167be-6e76-4f62-a9b2-bcf32d756a12&xptdk=e6a167be-6e76-4f62-a9b2-bcf32d756a12",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-eropa-aesthetic-100x150-cm-permadani-sultan-tebal-bulu-ruang-tamu-minimalis-1731266334704239873?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "https://shop-id.tokopedia.com/view/product/1731266225767417089?encode_params=MIIBpgQMplGNlxOutyu86olGBIIBgjRkvoEOw3c_9AOLiExJsG23vcdPbtGWhqCd6qTws7eGdDWMjTGn3WLcE4kF27hTDPQYQhBFysxX5Sv4xl4AbqC1XcCiLXZoo-gdVQLho-hIQXV1lS_GLugu8sLAMkrnReqydwTsJR5x9WnQPLv2vpdXUH-2Iy6hlAwbS64uU6R5P4dSy5gfGyu78WuqYH6NnnpufILAVpB4LgXhVBEMtx5F595ox4x3Er6CFxbhqjQJoE8nGaCaXEWsDUdm5AoaebJDL6tTinMYWyO8jIZwRnSWYavt6m-LF20Q0pOdgdplNP--fMyb-g0wURxin8hllAGDP4pbyNqyRYAts8s9KkcfHmruDeurNzCFkNFKsJO1UHRsnVE4kwbZTO_l-T3U6QjANGEaCi3Am26y2Ht3mRrg0WMgk4NKDzc92JcA0ecRXsJfdmDZVjPvU3nn1sdyzNlsMKqSKGkuzN0PuKDRACblRCKfA5TQlQH8-_wU0sNsBgRgrL9AkgN0USeWd-EqwE38BBBcWFc7AylLSaSubEOExq34&region=ID&locale=id-ID&source=seller_center&hide_tips=&no-cache=1&e=1"
@@ -50,7 +50,7 @@ const eropaCollectionData = [
                         sizes: [
                             {
                                 size: "100x150cm",
-                                price: 598000,
+                                price: 580000,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-Eropa-Aesthetic-100X150-cm-Permadani-Sultan-Tebal-Carpet-Bulu-Ruang-Tamu-Minimalis-i.964448777.27984875636?sp_atk=e6a167be-6e76-4f62-a9b2-bcf32d756a12&xptdk=e6a167be-6e76-4f62-a9b2-bcf32d756a12",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-eropa-aesthetic-100x150-cm-permadani-sultan-tebal-bulu-ruang-tamu-minimalis-1731266334704239873?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "https://shop-id.tokopedia.com/view/product/1731266225767417089?encode_params=MIIBpgQMplGNlxOutyu86olGBIIBgjRkvoEOw3c_9AOLiExJsG23vcdPbtGWhqCd6qTws7eGdDWMjTGn3WLcE4kF27hTDPQYQhBFysxX5Sv4xl4AbqC1XcCiLXZoo-gdVQLho-hIQXV1lS_GLugu8sLAMkrnReqydwTsJR5x9WnQPLv2vpdXUH-2Iy6hlAwbS64uU6R5P4dSy5gfGyu78WuqYH6NnnpufILAVpB4LgXhVBEMtx5F595ox4x3Er6CFxbhqjQJoE8nGaCaXEWsDUdm5AoaebJDL6tTinMYWyO8jIZwRnSWYavt6m-LF20Q0pOdgdplNP--fMyb-g0wURxin8hllAGDP4pbyNqyRYAts8s9KkcfHmruDeurNzCFkNFKsJO1UHRsnVE4kwbZTO_l-T3U6QjANGEaCi3Am26y2Ht3mRrg0WMgk4NKDzc92JcA0ecRXsJfdmDZVjPvU3nn1sdyzNlsMKqSKGkuzN0PuKDRACblRCKfA5TQlQH8-_wU0sNsBgRgrL9AkgN0USeWd-EqwE38BBBcWFc7AylLSaSubEOExq34&region=ID&locale=id-ID&source=seller_center&hide_tips=&no-cache=1&e=1"
@@ -65,7 +65,7 @@ const eropaCollectionData = [
                         sizes: [
                             {
                                 size: "100x150cm",
-                                price: 598000,
+                                price: 580000,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-Eropa-Aesthetic-100X150-cm-Permadani-Sultan-Tebal-Carpet-Bulu-Ruang-Tamu-Minimalis-i.964448777.27984875636?sp_atk=e6a167be-6e76-4f62-a9b2-bcf32d756a12&xptdk=e6a167be-6e76-4f62-a9b2-bcf32d756a12",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-eropa-aesthetic-100x150-cm-permadani-sultan-tebal-bulu-ruang-tamu-minimalis-1731266334704239873?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "https://shop-id.tokopedia.com/view/product/1731266225767417089?encode_params=MIIBpgQMplGNlxOutyu86olGBIIBgjRkvoEOw3c_9AOLiExJsG23vcdPbtGWhqCd6qTws7eGdDWMjTGn3WLcE4kF27hTDPQYQhBFysxX5Sv4xl4AbqC1XcCiLXZoo-gdVQLho-hIQXV1lS_GLugu8sLAMkrnReqydwTsJR5x9WnQPLv2vpdXUH-2Iy6hlAwbS64uU6R5P4dSy5gfGyu78WuqYH6NnnpufILAVpB4LgXhVBEMtx5F595ox4x3Er6CFxbhqjQJoE8nGaCaXEWsDUdm5AoaebJDL6tTinMYWyO8jIZwRnSWYavt6m-LF20Q0pOdgdplNP--fMyb-g0wURxin8hllAGDP4pbyNqyRYAts8s9KkcfHmruDeurNzCFkNFKsJO1UHRsnVE4kwbZTO_l-T3U6QjANGEaCi3Am26y2Ht3mRrg0WMgk4NKDzc92JcA0ecRXsJfdmDZVjPvU3nn1sdyzNlsMKqSKGkuzN0PuKDRACblRCKfA5TQlQH8-_wU0sNsBgRgrL9AkgN0USeWd-EqwE38BBBcWFc7AylLSaSubEOExq34&region=ID&locale=id-ID&source=seller_center&hide_tips=&no-cache=1&e=1"
@@ -80,7 +80,7 @@ const eropaCollectionData = [
                         sizes: [
                             {
                                 size: "100x150cm",
-                                price: 598000,
+                                price: 580000,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-Eropa-Aesthetic-100X150-cm-Permadani-Sultan-Tebal-Carpet-Bulu-Ruang-Tamu-Minimalis-i.964448777.27984875636?sp_atk=e6a167be-6e76-4f62-a9b2-bcf32d756a12&xptdk=e6a167be-6e76-4f62-a9b2-bcf32d756a12",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-eropa-aesthetic-100x150-cm-permadani-sultan-tebal-bulu-ruang-tamu-minimalis-1731266334704239873?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "https://shop-id.tokopedia.com/view/product/1731266225767417089?encode_params=MIIBpgQMplGNlxOutyu86olGBIIBgjRkvoEOw3c_9AOLiExJsG23vcdPbtGWhqCd6qTws7eGdDWMjTGn3WLcE4kF27hTDPQYQhBFysxX5Sv4xl4AbqC1XcCiLXZoo-gdVQLho-hIQXV1lS_GLugu8sLAMkrnReqydwTsJR5x9WnQPLv2vpdXUH-2Iy6hlAwbS64uU6R5P4dSy5gfGyu78WuqYH6NnnpufILAVpB4LgXhVBEMtx5F595ox4x3Er6CFxbhqjQJoE8nGaCaXEWsDUdm5AoaebJDL6tTinMYWyO8jIZwRnSWYavt6m-LF20Q0pOdgdplNP--fMyb-g0wURxin8hllAGDP4pbyNqyRYAts8s9KkcfHmruDeurNzCFkNFKsJO1UHRsnVE4kwbZTO_l-T3U6QjANGEaCi3Am26y2Ht3mRrg0WMgk4NKDzc92JcA0ecRXsJfdmDZVjPvU3nn1sdyzNlsMKqSKGkuzN0PuKDRACblRCKfA5TQlQH8-_wU0sNsBgRgrL9AkgN0USeWd-EqwE38BBBcWFc7AylLSaSubEOExq34&region=ID&locale=id-ID&source=seller_center&hide_tips=&no-cache=1&e=1"
@@ -95,7 +95,7 @@ const eropaCollectionData = [
                         sizes: [
                             {
                                 size: "100x150cm",
-                                price: 598000,
+                                price: 580000,
                                 shopee: "https://shopee.co.id/Karpet-Lantai-Eropa-Aesthetic-100X150-cm-Permadani-Sultan-Tebal-Carpet-Bulu-Ruang-Tamu-Minimalis-i.964448777.27984875636?sp_atk=e6a167be-6e76-4f62-a9b2-bcf32d756a12&xptdk=e6a167be-6e76-4f62-a9b2-bcf32d756a12",
                                 tokopedia: "https://www.tokopedia.com/royalrugsindonesia/karpet-lantai-eropa-aesthetic-100x150-cm-permadani-sultan-tebal-bulu-ruang-tamu-minimalis-1731266334704239873?extParam=src%3Dshop%26whid%3D15250858&aff_unique_id=&channel=others&chain_key=",
                                 tiktok: "https://shop-id.tokopedia.com/view/product/1731266225767417089?encode_params=MIIBpgQMplGNlxOutyu86olGBIIBgjRkvoEOw3c_9AOLiExJsG23vcdPbtGWhqCd6qTws7eGdDWMjTGn3WLcE4kF27hTDPQYQhBFysxX5Sv4xl4AbqC1XcCiLXZoo-gdVQLho-hIQXV1lS_GLugu8sLAMkrnReqydwTsJR5x9WnQPLv2vpdXUH-2Iy6hlAwbS64uU6R5P4dSy5gfGyu78WuqYH6NnnpufILAVpB4LgXhVBEMtx5F595ox4x3Er6CFxbhqjQJoE8nGaCaXEWsDUdm5AoaebJDL6tTinMYWyO8jIZwRnSWYavt6m-LF20Q0pOdgdplNP--fMyb-g0wURxin8hllAGDP4pbyNqyRYAts8s9KkcfHmruDeurNzCFkNFKsJO1UHRsnVE4kwbZTO_l-T3U6QjANGEaCi3Am26y2Ht3mRrg0WMgk4NKDzc92JcA0ecRXsJfdmDZVjPvU3nn1sdyzNlsMKqSKGkuzN0PuKDRACblRCKfA5TQlQH8-_wU0sNsBgRgrL9AkgN0USeWd-EqwE38BBBcWFc7AylLSaSubEOExq34&region=ID&locale=id-ID&source=seller_center&hide_tips=&no-cache=1&e=1"
